@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+
+<!--
+	Visualização de dados
+	Homework 2
+	Aluno: Franklin Oliveira
+  	-->
+
+	<body>
+		<!--
+		<h1> Homework 2 - Visualização de Dados </h1>
+		-->	
+		<svg width="500" height="600" style="border:2.5px solid black">
+		  <!-- Retângulo do lado esquerdo (claro) -->
+		  <rect width="250" height="600" style="fill:#53c653;stroke-width:0"/>
+
+		  <!-- Retângulo do lado direito (escuro) -->
+		  <rect x="250" y="0" width="250" height="600" style="fill:#39ac39;stroke-width:0"/>
+
+		  <!-- Bandeiras -->
+	      <image x="30" y="30" width="100" height="75" xlink:href="brasil.png" />
+	      <image x="370" y="30" width="100" height="75" xlink:href="germany.png" />
+
+	      	<!--Texto superior-->
+	      <text x = 250 y = 45 text-anchor = "middle" font-size = "14px" fill = "black">Placar menos provável:</text>
+		  <text x = 250 y = 77 text-anchor = "middle" font-size = "25px" fill = "black">1 x 7</text>
+		  <text x = 250 y = 100 text-anchor = "middle" font-size = "14px" fill = "black">Probabilidade do placar: 0.001%</text>
+
+
+		  <svg viewBox="0 0 500 600">
+			<g fill="" transform="rotate(-45 250 300)">
+
+			<!-- Cada bloco de 5 linhas abaixo formam uma linha da matriz de probabilidades -->     
+			<!-- 1ª diag. secundária -->
+			<circle cx="150" cy="200" r="25" stroke="black" stroke-width="1" fill=rgb(81.30225771399999,108.78428803599999,219.26364929200003) /> <!--c1 -->
+		  	<circle cx="200" cy="200" r="25" stroke="black" stroke-width="1" fill=rgb(92.682502812,123.619838872,229.759816158) /> <!--c2 -->
+			<circle cx="250" cy="200" r="25" stroke="black" stroke-width="1" fill=rgb(103.127429076,136.334090064,237.660487722) /> <!--c3 -->
+		  	<circle cx="300" cy="200" r="25" stroke="black" stroke-width="1" fill=rgb(115.19333291999999,149.98615199999998,244.85132323499997) 	 /> <!--c4 -->
+		  	<circle cx="350" cy="200" r="25" stroke="black" stroke-width="1" fill=rgb(127.507793952,162.81965923200002,250.172881647) /> <!--c5 -->
+			
+			<!-- 2ª diag. secundária -->
+			<circle cx="150" cy="250" r="25" stroke="black" stroke-width="1" fill=rgb(163.411084505,193.991634135,254.450672595) 	 /> <!--c6 -->
+		  	<circle cx="200" cy="250" r="25" stroke="black" stroke-width="1" fill=rgb(175.488063214,202.26048672099998,251.949716611) /> <!--c7 -->
+			<circle cx="250" cy="250" r="25" stroke="black" stroke-width="1" fill=rgb(163.411084505,193.991634135,254.450672595) /> <!--c8 -->
+		  	<circle cx="300" cy="250" r="25" stroke="black" stroke-width="1" fill=rgb(139.96342393199998,174.70141421999998,253.56668080800003)  /> <!--c9 -->
+		  	<circle cx="350" cy="250" r="25" stroke="black" stroke-width="1" fill=rgb(187.14393574999997,209.104559085,247.534713355) /> <!--c10 -->
+			
+
+			<!-- 3ª diag. secundária -->
+			<circle cx="150" cy="300" r="25" stroke="black" stroke-width="1" fill=rgb(198.231270878,214.434909812,241.268071906) /> <!--c11 -->
+		  	<circle cx="200" cy="300" r="25" stroke="black" stroke-width="1" fill=rgb(244.67700291,195.57807789999998,171.906902335) /> <!--c12 -->
+			<circle cx="250" cy="300" r="25" stroke="black" stroke-width="1" fill=rgb(245.770544391,161.718045705,130.998816534) 	 /> <!--c13 -->
+		  	<circle cx="300" cy="300" r="25" stroke="black" stroke-width="1" fill=rgb(226.376764067,217.78032686199998,212.841225415) 	 /> <!--c14 -->
+		  	<circle cx="350" cy="300" r="25" stroke="black" stroke-width="1" fill=rgb(226.376764067,217.78032686199998,212.841225415) 	 /> <!--c15 -->
+			
+			<!-- 4ª diag. secundária -->
+			<circle cx="150" cy="350" r="25" stroke="black" stroke-width="1" fill=rgb(247.16858509499997,174.670345506,145.088708196) /> <!--c16 -->
+		  	<circle cx="200" cy="350" r="25" stroke="black" stroke-width="1" fill=rgb(223.673080323,100.63459196,79.489575562) 			 /> <!--c17 -->
+			<circle cx="250" cy="350" r="25" stroke="red" stroke-width="3" fill=rgb(214.038058955,82.07333634,67.55561515) 	 	 /> <!--c18 -->
+		  	<circle cx="300" cy="350" r="25" stroke="black" stroke-width="1" fill=rgb(240.575040065,204.580444672,185.938757468) /> <!--c19 -->
+		  	<circle cx="350" cy="350" r="25" stroke="black" stroke-width="1" fill=rgb(217.099767443,220.096954238,224.67127507900003) 	 /> <!--c20 -->
+			
+			<!-- 5ª diag. secundária -->
+			<circle cx="150" cy="400" r="25" stroke="black" stroke-width="1" fill=rgb(237.616980633,132.366808416,103.652300193) /> <!--c21 -->
+		  	<circle cx="200" cy="400" r="25" stroke="black" stroke-width="1" fill=rgb(231.771546797,117.92032247800005,92.04235050900004) /> <!--c22 -->
+			<circle cx="250" cy="400" r="25" stroke="black" stroke-width="1" fill=rgb(242.569717695,147.593844345,117.14899047) /> <!--c23 -->
+		  	<circle cx="300" cy="400" r="25" stroke="black" stroke-width="1" fill=rgb(234.440877171,211.9745445,199.632775764) /> <!--c24 -->
+		  	<circle cx="350" cy="400" r="25" stroke="black" stroke-width="1" fill=rgb(208.60440581999998,218.175367774,233.23259222000002) /> <!--c25 -->
+						
+			</g>
+ 
+		  </svg>
+
+
+		<!-- Textos dos Círculos com Prob. -->
+		<!-- Centro -->
+		<text x = 250 y = 157 text-anchor = "middle" font-size = "10px" fill = "black">4 x 4</text>
+		<text x = 252 y = 167 text-anchor = "middle" font-size = "10px" fill = "black"><0.5%</text>  
+
+		<text x = 250 y = 228 text-anchor = "middle" font-size = "10px" fill = "black">3 x 3</text>
+		<text x = 252 y = 238 text-anchor = "middle" font-size = "10px" fill = "black"><0.5%</text>  
+
+		<text x = 250 y = 299 text-anchor = "middle" font-size = "10px" fill = "black">2 x 2</text>
+		<text x = 252 y = 309 text-anchor = "middle" font-size = "10px" fill = "black">2.95%</text> 
+
+		<text x = 250 y = 370 text-anchor = "middle" font-size = "10px" fill = "black">1 x 1</text>
+		<text x = 252 y = 380 text-anchor = "middle" font-size = "10px" fill = "black">6.19%</text>  
+
+		<text x = 250 y = 441 text-anchor = "middle" font-size = "10px" fill = "black">0 x 0</text>
+		<text x = 252 y = 451 text-anchor = "middle" font-size = "10px" fill = "black">3.62%</text> 
+
+		<!-- Coluna -1 -->
+		<text x = 215 y = 192 text-anchor = "middle" font-size = "10px" fill = "black">4 x 3</text>
+		<text x = 217 y = 202 text-anchor = "middle" font-size = "10px" fill = "black"><0.5%</text>  
+
+		<text x = 215 y = 263 text-anchor = "middle" font-size = "10px" fill = "black">3 x 2</text>
+		<text x = 217 y = 273 text-anchor = "middle" font-size = "10px" fill = "black">0.51%</text>  
+
+		<text x = 215 y = 334 text-anchor = "middle" font-size = "10px" fill = "black">2 x 1</text>
+		<text x = 217 y = 344 text-anchor = "middle" font-size = "10px" fill = "black">2.41%</text>  
+
+		<text x = 215 y = 405 text-anchor = "middle" font-size = "10px" fill = "black">1 x 0</text>
+		<text x = 217 y = 415 text-anchor = "middle" font-size = "10px" fill = "black">2.85%</text>  
+
+		<!-- Coluna -2 -->
+		<text x = 179 y = 228 text-anchor = "middle" font-size = "10px" fill = "black">4 x 2</text>
+		<text x = 181 y = 238 text-anchor = "middle" font-size = "10px" fill = "black"><0.5%</text>  
+
+		<text x = 179 y = 299 text-anchor = "middle" font-size = "10px" fill = "black">3 x 1</text>
+		<text x = 181 y = 309 text-anchor = "middle" font-size = "10px" fill = "black">0.52%</text>
+
+		<text x = 179 y = 370 text-anchor = "middle" font-size = "10px" fill = "black">2 x 0</text>
+		<text x = 181 y = 380 text-anchor = "middle" font-size = "10px" fill = "black">1.01%</text>
+
+
+		<!-- Coluna -3 -->
+		<text x = 143 y = 264 text-anchor = "middle" font-size = "10px" fill = "black">4 x 1</text>
+		<text x = 145 y = 274 text-anchor = "middle" font-size = "10px" fill = "black"><0.5%</text>  
+
+		<text x = 143 y = 335 text-anchor = "middle" font-size = "10px" fill = "black">3 x 0</text>
+		<text x = 145 y = 345 text-anchor = "middle" font-size = "10px" fill = "black">0.55%</text>
+
+		<!-- Coluna -4 -->
+		<text x = 108 y = 300 text-anchor = "middle" font-size = "10px" fill = "black">4 x 0</text>
+		<text x = 110 y = 310 text-anchor = "middle" font-size = "10px" fill = "black"><0.5%</text>  
+
+
+		<!-- Coluna +1 -->
+		<text x = 285 y = 192 text-anchor = "middle" font-size = "10px" fill = "black">3 x 4</text>
+		<text x = 287 y = 202 text-anchor = "middle" font-size = "10px" fill = "black">0.80%</text>  
+
+		<text x = 285 y = 263 text-anchor = "middle" font-size = "10px" fill = "black">2 x 3</text>
+		<text x = 287 y = 273 text-anchor = "middle" font-size = "10px" fill = "black">1.69%</text>  
+
+		<text x = 285 y = 334 text-anchor = "middle" font-size = "10px" fill = "black">1 x 2</text>
+		<text x = 287 y = 344 text-anchor = "middle" font-size = "10px" fill = "black">8.21%</text>  
+
+		<text x = 285 y = 405 text-anchor = "middle" font-size = "10px" fill = "black">0 x 1</text>
+		<text x = 287 y = 415 text-anchor = "middle" font-size = "10px" fill = "black">6.18%</text>  
+
+		<!-- Coluna +2 -->
+		<text x = 321 y = 228 text-anchor = "middle" font-size = "10px" fill = "black">2 x 4</text>
+		<text x = 323 y = 238 text-anchor = "middle" font-size = "10px" fill = "black">1.66%</text>  
+
+		<text x = 321 y = 299 text-anchor = "middle" font-size = "10px" fill = "black">1 x 3</text>
+		<text x = 323 y = 309 text-anchor = "middle" font-size = "10px" fill = "black">2.29%</text>
+
+		<text x = 321 y = 370 text-anchor = "middle" font-size = "10px" fill = "black">0 x 2</text>
+		<text x = 323 y = 380 text-anchor = "middle" font-size = "10px" fill = "black">3.47%</text>
+
+
+		<!-- Coluna +3 -->
+		<text x = 357 y = 264 text-anchor = "middle" font-size = "10px" fill = "black">1 x 4</text>
+		<text x = 358 y = 274 text-anchor = "middle" font-size = "10px" fill = "black">1.69%</text>  
+
+		<text x = 357 y = 335 text-anchor = "middle" font-size = "10px" fill = "black">0 x 3</text>
+		<text x = 358 y = 345 text-anchor = "middle" font-size = "10px" fill = "black">2.15%</text>
+
+		<!-- Coluna +4 -->
+		<text x = 392 y = 300 text-anchor = "middle" font-size = "10px" fill = "black">0 x 4</text>
+		<text x = 394 y = 310 text-anchor = "middle" font-size = "10px" fill = "black">1.54%</text>  
+
+
+
+
+		<!-- Retângulo das probabilidades  - começar o próximo quando o outro acabar (x + largura = início do próximo) -->
+		<rect width = 150 height = 35 x = 200 y = 500 style = "fill:rgb(155,160,250); stroke-width:1; stroke:rgb(260,260,260)"/>
+		<rect width = 90 height = 35 x = 130 y = 500 style = "fill:rgb(155,160,250); stroke-width:1; stroke:rgb(260,260,260)"/>
+		<rect width = 50 height = 35 x = 220 y = 500 style = "fill:rgb(190,198,220); stroke-width:1; stroke:rgb(260,260,260)"/>
+		<text x = 180 y = 523 text-anchor = "middle" font-size = "15px" fill = "black">41%</text>
+		<text x = 245 y = 523 text-anchor = "middle" font-size = "15px" fill = "black">21%</text>
+		<text x = 310 y = 523 text-anchor = "middle" font-size = "15px" fill = "black">38%</text>
+	    
+		<!--Texto inferior-->
+		<text x = 175 y = 570 text-anchor = "right" font-size = "20px" fill = "black">Brasil</text>
+		<text x = 246 y = 570 text-anchor = "center" font-size = "15px" fill = "black">x</text>
+		<text x = 265 y = 570 text-anchor = "left" font-size = "20px" fill = "black">Alemanha</text>
+	</svg>
+
+	</body>
+</html> 
