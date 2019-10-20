@@ -4,6 +4,8 @@ Repositório do curso de Visualização de Dados da [EMAP-FGV](https://emap.fgv.
 
 **Profa.:** Asla Medeiros e Sá
 
+<br>
+
 ----
 
 **OBS:** Para acompanhar essa disciplina, escolhi as ferramentas listadas abaixo. 	
