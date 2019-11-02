@@ -22,7 +22,7 @@ Pasta com a solução para o *homework 3*.
 ## Lista de Arquivos:
 
 > - **Exercicio_3.ipynb:** Notebook com o código em Python 3 proposto como solução do exercício.
-> - **troops.txt:** Dataset com informações das tropas de Napoleão.
-> - **cities.txt:** Dataset com informações de latitude, longitude e nome das cidades visitadas pelas tropas.
-> - **temperature.txt:** Informações de temperatura nas cidades visitadas pelas tropas.
+> - **troops.csv:** Dataset com informações das tropas de Napoleão.
+> - **cities.csv:** Dataset com informações de latitude, longitude e nome das cidades visitadas pelas tropas.
+> - **temperature.csv:** Informações de temperatura nas cidades visitadas pelas tropas.
 > - __Napoleon_Troops_Viz.*:__ Imagem criada como solução para o exercício (nos formatos *.svg* e *.png*). 
