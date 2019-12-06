@@ -1,0 +1,953 @@
+﻿,Country,Year,male_mean_age,female_mean_age,couple_mean_age,Continent
+0,Australia,1990,26.5,24.3,25.4,Oceania
+1,Australia,1991,26.7,24.5,25.6,Oceania
+2,Australia,1992,26.9,24.7,25.799999999999997,Oceania
+3,Australia,1993,27.0,24.8,25.9,Oceania
+4,Australia,1994,27.2,25.1,26.15,Oceania
+5,Australia,1995,27.3,25.3,26.3,Oceania
+6,Australia,1996,27.6,25.7,26.65,Oceania
+7,Australia,1997,27.8,25.9,26.85,Oceania
+8,Australia,1998,27.9,26.2,27.049999999999997,Oceania
+9,Australia,1999,28.2,26.4,27.299999999999997,Oceania
+10,Australia,2000,28.5,26.7,27.6,Oceania
+11,Australia,2001,28.7,26.9,27.799999999999997,Oceania
+12,Australia,2002,29.0,27.1,28.05,Oceania
+13,Australia,2003,29.2,27.3,28.25,Oceania
+14,Australia,2004,29.4,27.5,28.45,Oceania
+15,Australia,2005,29.5,27.6,28.55,Oceania
+16,Australia,2006,29.6,27.6,28.6,Oceania
+17,Australia,2007,29.6,27.6,28.6,Oceania
+18,Australia,2008,29.6,27.7,28.65,Oceania
+19,Australia,2009,29.6,27.7,28.65,Oceania
+20,Australia,2010,29.6,27.9,28.75,Oceania
+21,Australia,2011,29.7,28.0,28.85,Oceania
+22,Australia,2012,29.8,28.1,28.950000000000003,Oceania
+23,Australia,2013,29.9,28.3,29.1,Oceania
+24,Australia,2014,30.0,28.4,29.2,Oceania
+25,Australia,2015,30.1,28.5,29.3,Oceania
+26,Australia,2016,30.3,28.7,29.5,Oceania
+27,Australia,2017,30.4,28.8,29.6,Oceania
+28,Austria,1990,27.7,25.2,26.45,Europe
+29,Austria,1991,27.9,25.4,26.65,Europe
+30,Austria,1992,28.0,25.6,26.8,Europe
+31,Austria,1993,28.4,25.8,27.1,Europe
+32,Austria,1994,28.7,26.1,27.4,Europe
+33,Austria,1995,29.0,26.3,27.65,Europe
+34,Austria,1996,29.1,26.5,27.8,Europe
+35,Austria,1997,29.3,26.8,28.05,Europe
+36,Austria,1998,29.6,26.9,28.25,Europe
+37,Austria,1999,29.9,27.3,28.6,Europe
+38,Austria,2000,30.0,27.4,28.7,Europe
+39,Austria,2001,30.2,27.5,28.85,Europe
+40,Austria,2002,30.3,27.7,29.0,Europe
+41,Austria,2003,30.6,27.9,29.25,Europe
+42,Austria,2004,30.9,28.2,29.549999999999997,Europe
+43,Austria,2005,31.2,28.6,29.9,Europe
+44,Austria,2006,31.8,29.1,30.450000000000003,Europe
+45,Austria,2007,32.0,29.3,30.65,Europe
+46,Austria,2008,32.2,29.5,30.85,Europe
+47,Austria,2009,32.5,29.9,31.2,Europe
+48,Austria,2011,32.9,30.3,31.6,Europe
+49,Austria,2012,33.2,30.6,31.900000000000002,Europe
+50,Austria,2017,34.2,31.5,32.85,Europe
+51,Belgium,1990,26.5,24.4,25.45,Europe
+52,Belgium,1991,26.7,24.0,25.35,Europe
+53,Belgium,1992,27.0,24.8,25.9,Europe
+54,Belgium,1993,27.2,25.1,26.15,Europe
+55,Belgium,1994,27.4,25.4,26.4,Europe
+56,Belgium,1995,27.8,25.6,26.700000000000003,Europe
+57,Belgium,1996,28.0,25.7,26.85,Europe
+58,Belgium,1997,28.1,25.9,27.0,Europe
+59,Belgium,1998,28.3,26.0,27.15,Europe
+60,Belgium,1999,28.6,26.3,27.450000000000003,Europe
+61,Belgium,2000,29.1,26.9,28.0,Europe
+62,Belgium,2001,29.0,26.7,27.85,Europe
+63,Belgium,2002,29.3,27.0,28.15,Europe
+64,Belgium,2003,29.9,27.5,28.7,Europe
+65,Belgium,2004,30.2,27.9,29.049999999999997,Europe
+66,Belgium,2005,30.5,28.1,29.3,Europe
+67,Belgium,2006,30.9,28.4,29.65,Europe
+68,Belgium,2007,31.0,28.6,29.8,Europe
+69,Belgium,2008,31.4,28.9,30.15,Europe
+70,Belgium,2009,31.7,29.3,30.5,Europe
+71,Belgium,2010,31.7,29.4,30.549999999999997,Europe
+72,Belgium,2017,33.5,31.2,32.35,Europe
+73,Canada,1990,27.6,25.54,26.57,North America
+74,Canada,1991,27.77,25.76,26.765,North America
+75,Canada,1992,28.0,26.02,27.009999999999998,North America
+76,Canada,1993,28.18,26.2,27.189999999999998,North America
+77,Canada,1994,28.25,26.26,27.255000000000003,North America
+78,Canada,1995,28.41,26.47,27.439999999999998,North America
+79,Canada,1996,28.61,26.68,27.645,North America
+80,Canada,1997,28.76,26.85,27.805,North America
+81,Canada,1998,28.92,27.0,27.96,North America
+82,Canada,1999,29.11,27.21,28.16,North America
+83,Canada,2000,29.5,27.5,28.5,North America
+84,Canada,2001,29.7,27.7,28.7,North America
+85,Canada,2002,29.8,27.8,28.8,North America
+86,Canada,2003,30.2,28.2,29.2,North America
+87,Canada,2004,30.5,28.5,29.5,North America
+88,Canada,2005,30.6,28.7,29.65,North America
+89,Canada,2006,30.9,28.9,29.9,North America
+90,Canada,2007,31.0,29.0,30.0,North America
+91,Canada,2008,31.1,29.1,30.1,North America
+92,Chile,1997,26.9519006244909,24.8610832966182,25.90649196055455,South America
+93,Chile,1998,27.2665171790235,25.18025507526,26.22338612714175,South America
+94,Chile,1999,27.5454281345566,25.4875873234791,26.516507729017853,South America
+95,Chile,2000,27.6979148301893,25.6370500880946,26.66748245914195,South America
+96,Chile,2001,28.0242968880013,25.9422935494942,26.98329521874775,South America
+97,Chile,2002,28.3687528616208,26.3189132382331,27.34383304992695,South America
+98,Chile,2003,28.6537979252954,26.5750567906752,27.6144273579853,South America
+99,Chile,2004,28.8799749231516,26.8048418972332,27.842408410192398,South America
+100,Chile,2005,29.5523369992145,27.3064846284567,28.429410813835602,South America
+101,Chile,2006,29.3176107683679,27.3892706515416,28.35344070995475,South America
+102,Chile,2007,29.5261980341913,27.7405938391964,28.63339593669385,South America
+103,Chile,2008,29.7979336379893,28.0879893905322,28.94296151426075,South America
+104,Chile,2009,30.3365010617497,29.0049541393924,29.67072760057105,South America
+105,Chile,2010,31.3,29.9,30.6,South America
+106,Chile,2011,31.5,30.2,30.85,South America
+107,Chile,2012,31.3,30.0,30.65,South America
+108,Chile,2013,30.4,28.5,29.45,South America
+109,Chile,2014,31.1,29.7,30.4,South America
+110,Chile,2015,32.2,30.9,31.55,South America
+111,Chile,2016,32.7,31.5,32.1,South America
+112,Czech Republic,1990,24.3,21.6,22.950000000000003,Europe
+113,Czech Republic,1991,24.3,21.6,22.950000000000003,Europe
+114,Czech Republic,1992,24.5,21.9,23.2,Europe
+115,Czech Republic,1993,24.7,22.1,23.4,Europe
+116,Czech Republic,1994,25.1,22.4,23.75,Europe
+117,Czech Republic,1995,25.5,22.8,24.15,Europe
+118,Czech Republic,1996,25.9,23.1,24.5,Europe
+119,Czech Republic,1997,26.5,23.6,25.05,Europe
+120,Czech Republic,1998,26.8,23.8,25.3,Europe
+121,Czech Republic,1999,27.2,24.2,25.7,Europe
+122,Czech Republic,2000,27.6,24.6,26.1,Europe
+123,Czech Republic,2001,27.9,25.0,26.45,Europe
+124,Czech Republic,2002,28.4,25.4,26.9,Europe
+125,Czech Republic,2003,28.8,25.8,27.3,Europe
+126,Czech Republic,2004,29.1,26.1,27.6,Europe
+127,Czech Republic,2005,29.4,26.4,27.9,Europe
+128,Czech Republic,2006,29.7,26.8,28.25,Europe
+129,Czech Republic,2007,30.0,27.0,28.5,Europe
+130,Czech Republic,2008,30.2,27.2,28.7,Europe
+131,Czech Republic,2009,30.6,27.6,29.1,Europe
+132,Czech Republic,2010,30.8,27.9,29.35,Europe
+133,Czech Republic,2011,31.0,28.1,29.55,Europe
+134,Czech Republic,2012,31.2,28.3,29.75,Europe
+135,Czech Republic,2013,31.3,28.5,29.9,Europe
+136,Czech Republic,2014,31.4,28.7,30.049999999999997,Europe
+137,Czech Republic,2015,31.6,28.8,30.200000000000003,Europe
+138,Czech Republic,2016,31.7,29.0,30.35,Europe
+139,Czech Republic,2017,31.8,29.1,30.450000000000003,Europe
+140,Denmark,1990,30.5,27.8,29.15,Europe
+141,Denmark,1991,30.6,28.0,29.3,Europe
+142,Denmark,1992,31.0,28.3,29.65,Europe
+143,Denmark,1993,31.4,28.8,30.1,Europe
+144,Denmark,1994,31.8,29.2,30.5,Europe
+145,Denmark,1995,31.9,29.2,30.549999999999997,Europe
+146,Denmark,1996,32.5,29.9,31.2,Europe
+147,Denmark,1997,32.2,30.1,31.150000000000002,Europe
+148,Denmark,1998,32.4,29.8,31.1,Europe
+149,Denmark,1999,32.5,30.0,31.25,Europe
+150,Denmark,2000,32.5,29.9,31.2,Europe
+151,Denmark,2001,32.6,29.9,31.25,Europe
+152,Denmark,2002,32.7,30.1,31.400000000000002,Europe
+153,Denmark,2003,33.2,30.6,31.900000000000002,Europe
+154,Denmark,2004,33.4,30.9,32.15,Europe
+155,Denmark,2005,33.4,30.9,32.15,Europe
+156,Denmark,2006,33.4,30.9,32.15,Europe
+157,Denmark,2007,33.6,31.3,32.45,Europe
+158,Denmark,2008,33.8,31.4,32.599999999999994,Europe
+159,Denmark,2009,33.5,31.1,32.3,Europe
+160,Denmark,2010,33.6,31.2,32.4,Europe
+161,Denmark,2011,33.8,31.4,32.599999999999994,Europe
+162,Denmark,2012,34.3,31.8,33.05,Europe
+163,Denmark,2013,34.4,31.9,33.15,Europe
+164,Denmark,2014,34.4,31.9,33.15,Europe
+165,Denmark,2015,34.3,31.9,33.099999999999994,Europe
+166,Denmark,2016,34.7,32.2,33.45,Europe
+167,Denmark,2017,34.8,32.4,33.599999999999994,Europe
+168,Estonia,1992,25.2,23.0,24.1,Europe
+169,Estonia,1993,26.0,23.6,24.8,Europe
+170,Estonia,1994,26.5,24.1,25.3,Europe
+171,Estonia,1995,26.5,24.2,25.35,Europe
+172,Estonia,1996,26.9,24.2,25.549999999999997,Europe
+173,Estonia,1997,27.2,24.4,25.799999999999997,Europe
+174,Estonia,1998,27.4,24.8,26.1,Europe
+175,Estonia,1999,27.7,25.0,26.35,Europe
+176,Estonia,2000,28.1,25.2,26.65,Europe
+177,Estonia,2001,28.2,25.5,26.85,Europe
+178,Estonia,2002,28.5,25.8,27.15,Europe
+179,Estonia,2003,28.5,25.9,27.2,Europe
+180,Estonia,2004,29.0,26.2,27.6,Europe
+181,Estonia,2005,29.1,26.4,27.75,Europe
+182,Estonia,2006,29.3,26.6,27.950000000000003,Europe
+183,Estonia,2007,29.6,27.1,28.35,Europe
+184,Estonia,2008,29.9,27.4,28.65,Europe
+185,Estonia,2009,30.2,27.8,29.0,Europe
+186,Estonia,2010,30.5,28.0,29.25,Europe
+187,Estonia,2011,31.1,28.4,29.75,Europe
+188,Estonia,2012,31.3,28.9,30.1,Europe
+189,Estonia,2013,31.3,28.8,30.05,Europe
+190,Estonia,2014,31.6,29.0,30.3,Europe
+191,Estonia,2015,31.9,29.3,30.6,Europe
+192,Estonia,2016,32.2,29.7,30.950000000000003,Europe
+193,Finland,1990,28.4,26.3,27.35,Europe
+194,Finland,1991,28.5,26.3,27.4,Europe
+195,Finland,1992,28.6,26.6,27.6,Europe
+196,Finland,1993,28.9,26.8,27.85,Europe
+197,Finland,1994,29.0,26.9,27.95,Europe
+198,Finland,1995,29.3,27.2,28.25,Europe
+199,Finland,1997,29.7,27.6,28.65,Europe
+200,Finland,1998,29.9,27.8,28.85,Europe
+201,Finland,1999,30.2,28.0,29.1,Europe
+202,Finland,2000,30.5,28.3,29.4,Europe
+203,Finland,2001,30.6,28.4,29.5,Europe
+204,Finland,2002,31.0,28.8,29.9,Europe
+205,Finland,2003,31.2,29.0,30.1,Europe
+206,Finland,2004,31.8,29.5,30.65,Europe
+207,Finland,2005,31.5,29.4,30.45,Europe
+208,Finland,2006,31.8,29.5,30.65,Europe
+209,Finland,2007,32.0,29.7,30.85,Europe
+210,Finland,2008,32.3,30.0,31.15,Europe
+211,Finland,2009,32.3,30.0,31.15,Europe
+212,Finland,2010,32.5,30.2,31.35,Europe
+213,Finland,2011,32.7,30.4,31.55,Europe
+214,Finland,2012,33.0,30.7,31.85,Europe
+215,Finland,2013,32.7,30.4,31.55,Europe
+216,Finland,2014,32.9,30.6,31.75,Europe
+217,Finland,2015,33.4,31.0,32.2,Europe
+218,Finland,2016,33.7,31.3,32.5,Europe
+219,Finland,2017,33.9,31.6,32.75,Europe
+220,France,1998,30.3,28.1,29.200000000000003,Europe
+221,France,1999,30.4,28.2,29.299999999999997,Europe
+222,France,2000,30.7,28.4,29.549999999999997,Europe
+223,France,2001,30.7,28.5,29.6,Europe
+224,France,2002,30.9,28.7,29.799999999999997,Europe
+225,France,2003,31.2,28.9,30.049999999999997,Europe
+226,France,2004,31.5,29.2,30.35,Europe
+227,France,2005,31.8,29.6,30.700000000000003,Europe
+228,France,2006,32.0,29.8,30.9,Europe
+229,France,2007,32.2,30.0,31.1,Europe
+230,France,2008,32.4,30.2,31.299999999999997,Europe
+231,France,2009,32.6,30.4,31.5,Europe
+232,France,2010,32.8,30.7,31.75,Europe
+233,France,2011,33.0,30.8,31.9,Europe
+234,France,2013,34.1,31.7,32.9,Europe
+235,France,2014,34.4,32.1,33.25,Europe
+236,France,2015,34.4,32.2,33.3,Europe
+237,Germany,1990,28.2,25.5,26.85,Europe
+238,Germany,1991,28.7,25.9,27.299999999999997,Europe
+239,Germany,1992,28.9,26.1,27.5,Europe
+240,Germany,1993,29.2,26.4,27.799999999999997,Europe
+241,Germany,1994,29.4,26.6,28.0,Europe
+242,Germany,1995,29.5,26.7,28.1,Europe
+243,Germany,1996,29.7,26.9,28.299999999999997,Europe
+244,Germany,1997,29.8,27.0,28.4,Europe
+245,Germany,1998,30.1,27.2,28.65,Europe
+246,Germany,1999,30.3,27.5,28.9,Europe
+247,Germany,2000,30.5,27.7,29.1,Europe
+248,Germany,2001,30.9,28.0,29.45,Europe
+249,Germany,2003,31.2,28.4,29.799999999999997,Europe
+250,Germany,2004,31.6,28.8,30.200000000000003,Europe
+251,Germany,2005,31.9,29.1,30.5,Europe
+252,Germany,2006,31.9,29.1,30.5,Europe
+253,Germany,2007,32.1,29.3,30.700000000000003,Europe
+254,Germany,2008,32.4,29.6,31.0,Europe
+255,Germany,2009,32.5,29.8,31.15,Europe
+256,Germany,2011,32.9,30.2,31.549999999999997,Europe
+257,Germany,2013,33.2,30.5,31.85,Europe
+258,Germany,2014,33.4,30.7,32.05,Europe
+259,Germany,2015,33.6,30.9,32.25,Europe
+260,Germany,2016,33.8,31.1,32.45,Europe
+261,Germany,2017,34.0,31.2,32.6,Europe
+262,Greece,1990,29.0,24.9,26.95,Europe
+263,Greece,1991,29.3,25.2,27.25,Europe
+264,Greece,1992,29.6,25.5,27.55,Europe
+265,Greece,1993,29.7,25.5,27.6,Europe
+266,Greece,1994,29.9,25.8,27.85,Europe
+267,Greece,1995,30.1,26.0,28.05,Europe
+268,Greece,1996,30.2,26.3,28.25,Europe
+269,Greece,1997,30.6,26.6,28.6,Europe
+270,Greece,1998,30.8,26.8,28.8,Europe
+271,Greece,1999,31.0,26.9,28.95,Europe
+272,Greece,2000,31.1,27.2,29.15,Europe
+273,Greece,2001,31.2,27.3,29.25,Europe
+274,Greece,2002,31.5,27.6,29.55,Europe
+275,Greece,2003,31.7,27.9,29.799999999999997,Europe
+276,Greece,2004,31.8,28.0,29.9,Europe
+277,Greece,2005,32.0,28.3,30.15,Europe
+278,Greece,2006,32.2,28.6,30.400000000000002,Europe
+279,Greece,2007,32.4,28.8,30.6,Europe
+280,Greece,2008,32.4,28.9,30.65,Europe
+281,Greece,2009,32.5,29.0,30.75,Europe
+282,Greece,2010,32.6,29.3,30.950000000000003,Europe
+283,Greece,2011,32.7,29.4,31.05,Europe
+284,Greece,2012,32.8,29.5,31.15,Europe
+285,Greece,2013,32.9,29.7,31.299999999999997,Europe
+286,Greece,2014,33.0,29.9,31.45,Europe
+287,Greece,2015,33.2,30.1,31.650000000000002,Europe
+288,Greece,2016,33.2,30.1,31.650000000000002,Europe
+289,Greece,2017,33.3,30.3,31.799999999999997,Europe
+290,Hungary,1990,24.7,22.0,23.35,Europe
+291,Hungary,1991,24.8,22.1,23.450000000000003,Europe
+292,Hungary,1992,25.0,22.3,23.65,Europe
+293,Hungary,1993,25.1,22.5,23.8,Europe
+294,Hungary,1994,25.5,22.8,24.15,Europe
+295,Hungary,1995,25.8,23.1,24.450000000000003,Europe
+296,Hungary,1996,26.1,23.4,24.75,Europe
+297,Hungary,1997,26.6,23.7,25.15,Europe
+298,Hungary,1998,26.8,24.1,25.450000000000003,Europe
+299,Hungary,1999,27.3,24.4,25.85,Europe
+300,Hungary,2000,27.6,24.8,26.200000000000003,Europe
+301,Hungary,2001,28.2,25.2,26.7,Europe
+302,Hungary,2002,28.5,25.7,27.1,Europe
+303,Hungary,2003,28.9,26.0,27.45,Europe
+304,Hungary,2004,29.2,26.4,27.799999999999997,Europe
+305,Hungary,2005,29.4,26.7,28.049999999999997,Europe
+306,Hungary,2006,29.8,27.0,28.4,Europe
+307,Hungary,2007,30.1,27.2,28.65,Europe
+308,Hungary,2008,30.4,27.5,28.95,Europe
+309,Hungary,2009,30.8,28.0,29.4,Europe
+310,Hungary,2010,31.2,28.3,29.75,Europe
+311,Hungary,2011,31.6,28.6,30.1,Europe
+312,Hungary,2013,31.9,29.0,30.45,Europe
+313,Hungary,2014,32.1,29.3,30.700000000000003,Europe
+314,Hungary,2015,32.0,29.2,30.6,Europe
+315,Hungary,2016,32.1,29.2,30.65,Europe
+316,Hungary,2017,32.3,29.4,30.849999999999998,Europe
+317,Iceland,1990,29.4,26.9,28.15,Europe
+318,Iceland,1991,29.5,27.2,28.35,Europe
+319,Iceland,1992,30.6,27.9,29.25,Europe
+320,Iceland,1993,30.2,28.0,29.1,Europe
+321,Iceland,1994,31.2,28.8,30.0,Europe
+322,Iceland,1995,31.7,28.8,30.25,Europe
+323,Iceland,1996,31.9,29.2,30.549999999999997,Europe
+324,Iceland,1997,32.7,30.6,31.650000000000002,Europe
+325,Iceland,1998,32.5,30.1,31.3,Europe
+326,Iceland,1999,32.5,30.2,31.35,Europe
+327,Iceland,2000,33.3,30.6,31.95,Europe
+328,Iceland,2001,32.9,30.2,31.549999999999997,Europe
+329,Iceland,2002,33.3,30.8,32.05,Europe
+330,Iceland,2003,33.2,31.0,32.1,Europe
+331,Iceland,2004,33.8,31.4,32.599999999999994,Europe
+332,Iceland,2005,33.9,31.5,32.7,Europe
+333,Iceland,2006,34.2,31.8,33.0,Europe
+334,Iceland,2007,34.4,32.1,33.25,Europe
+335,Iceland,2008,34.8,32.4,33.599999999999994,Europe
+336,Iceland,2009,35.1,32.1,33.6,Europe
+337,Iceland,2010,34.7,32.4,33.55,Europe
+338,Iceland,2011,34.4,32.4,33.4,Europe
+339,Ireland,1990,28.7,26.6,27.65,Europe
+340,Ireland,1991,28.8,26.9,27.85,Europe
+341,Ireland,1992,29.1,27.1,28.1,Europe
+342,Ireland,1993,29.4,27.5,28.45,Europe
+343,Ireland,1994,29.8,27.8,28.8,Europe
+344,Ireland,1995,30.0,28.1,29.05,Europe
+345,Ireland,1996,30.4,28.5,29.45,Europe
+346,Ireland,2005,32.4,30.5,31.45,Europe
+347,Ireland,2006,32.5,30.7,31.6,Europe
+348,Ireland,2007,32.7,30.9,31.8,Europe
+349,Ireland,2009,33.1,31.2,32.15,Europe
+350,Ireland,2010,33.1,31.3,32.2,Europe
+351,Ireland,2013,33.5,31.8,32.65,Europe
+352,Ireland,2014,32.4,30.7,31.549999999999997,Europe
+353,Ireland,2015,33.8,32.0,32.9,Europe
+354,Israel,2002,27.1,24.2,25.65,Asia
+355,Israel,2003,27.2,24.3,25.75,Asia
+356,Israel,2004,27.4,24.5,25.95,Asia
+357,Israel,2005,27.5,24.6,26.05,Asia
+358,Israel,2006,27.6,24.6,26.1,Asia
+359,Israel,2007,27.6,24.8,26.200000000000003,Asia
+360,Israel,2008,27.5,24.7,26.1,Asia
+361,Israel,2009,27.6,24.8,26.200000000000003,Asia
+362,Israel,2010,27.6,24.8,26.200000000000003,Asia
+363,Israel,2011,27.7,25.0,26.35,Asia
+364,Israel,2012,27.7,25.0,26.35,Asia
+365,Israel,2013,27.7,25.1,26.4,Asia
+366,Israel,2014,27.6,25.0,26.3,Asia
+367,Israel,2015,27.6,25.2,26.4,Asia
+368,Israel,2016,27.2,24.5,25.85,Asia
+369,Israel,2017,27.5,25.1,26.3,Asia
+370,Italy,1990,28.9,25.9,27.4,Europe
+371,Italy,1991,29.0,26.0,27.5,Europe
+372,Italy,1992,29.2,26.2,27.7,Europe
+373,Italy,1993,29.4,26.4,27.9,Europe
+374,Italy,1994,29.7,26.6,28.15,Europe
+375,Italy,1995,29.9,26.9,28.4,Europe
+376,Italy,1996,30.1,27.1,28.6,Europe
+377,Italy,1997,30.4,27.3,28.85,Europe
+378,Italy,1998,30.3,27.0,28.65,Europe
+379,Italy,1999,30.4,27.2,28.799999999999997,Europe
+380,Italy,2000,30.9,27.8,29.35,Europe
+381,Italy,2001,31.2,28.1,29.65,Europe
+382,Italy,2002,31.8,28.4,30.1,Europe
+383,Italy,2003,31.7,28.6,30.15,Europe
+384,Italy,2004,32.0,28.8,30.4,Europe
+385,Italy,2005,32.3,29.1,30.7,Europe
+386,Italy,2006,32.5,29.3,30.9,Europe
+387,Italy,2007,32.6,29.6,31.1,Europe
+388,Italy,2008,32.8,29.8,31.299999999999997,Europe
+389,Italy,2009,33.0,30.0,31.5,Europe
+390,Italy,2010,33.2,30.3,31.75,Europe
+391,Italy,2011,33.5,30.5,32.0,Europe
+392,Italy,2013,34.0,31.1,32.55,Europe
+393,Italy,2014,34.2,31.3,32.75,Europe
+394,Italy,2016,34.7,31.9,33.3,Europe
+395,Italy,2017,35.0,32.2,33.6,Europe
+396,Japan,1990,28.4,25.9,27.15,Asia
+397,Japan,1991,28.4,25.9,27.15,Asia
+398,Japan,1992,28.4,26.0,27.2,Asia
+399,Japan,1993,28.4,26.1,27.25,Asia
+400,Japan,1994,28.5,26.2,27.35,Asia
+401,Japan,1995,28.5,26.3,27.4,Asia
+402,Japan,1996,28.5,26.4,27.45,Asia
+403,Japan,1997,28.5,26.6,27.55,Asia
+404,Japan,1998,28.6,26.7,27.65,Asia
+405,Japan,1999,28.7,26.8,27.75,Asia
+406,Japan,2000,28.8,27.0,27.9,Asia
+407,Japan,2001,29.0,27.2,28.1,Asia
+408,Japan,2002,29.1,27.4,28.25,Asia
+409,Japan,2003,29.4,27.6,28.5,Asia
+410,Japan,2004,29.6,27.8,28.700000000000003,Asia
+411,Japan,2005,29.8,28.0,28.9,Asia
+412,Japan,2006,30.0,28.2,29.1,Asia
+413,Japan,2007,30.1,28.3,29.200000000000003,Asia
+414,Japan,2008,30.2,28.5,29.35,Asia
+415,Japan,2009,30.4,28.6,29.5,Asia
+416,Japan,2010,30.5,28.8,29.65,Asia
+417,Japan,2011,30.7,29.0,29.85,Asia
+418,Japan,2012,30.8,29.2,30.0,Asia
+419,Japan,2013,30.9,29.3,30.1,Asia
+420,Japan,2014,31.1,29.4,30.25,Asia
+421,Japan,2015,31.1,29.4,30.25,Asia
+422,Japan,2016,31.1,29.4,30.25,Asia
+423,Japan,2017,31.1,29.4,30.25,Asia
+424,Korea,1990,27.79,24.78,26.285,Asia
+425,Korea,1991,27.91,24.84,26.375,Asia
+426,Korea,1992,28.01,24.93,26.47,Asia
+427,Korea,1993,28.09,25.01,26.55,Asia
+428,Korea,1994,28.21,25.14,26.675,Asia
+429,Korea,1995,28.36,25.32,26.84,Asia
+430,Korea,1996,28.4,25.45,26.924999999999997,Asia
+431,Korea,1997,28.59,25.71,27.15,Asia
+432,Korea,1998,28.83,26.02,27.424999999999997,Asia
+433,Korea,1999,29.07,26.29,27.68,Asia
+434,Korea,2000,29.28,26.49,27.884999999999998,Asia
+435,Korea,2001,29.55,26.78,28.165,Asia
+436,Korea,2002,29.77,27.01,28.39,Asia
+437,Korea,2003,30.14,27.27,28.705,Asia
+438,Korea,2004,30.53,27.52,29.025,Asia
+439,Korea,2005,30.87,27.72,29.295,Asia
+440,Korea,2006,30.96,27.79,29.375,Asia
+441,Korea,2007,31.11,28.09,29.6,Asia
+442,Korea,2008,31.38,28.32,29.85,Asia
+443,Korea,2009,31.61,28.71,30.16,Asia
+444,Korea,2010,31.84,28.91,30.375,Asia
+445,Korea,2011,31.9,29.14,30.52,Asia
+446,Korea,2012,32.13,29.41,30.770000000000003,Asia
+447,Korea,2013,32.21,29.59,30.9,Asia
+448,Korea,2014,32.42,29.81,31.115000000000002,Asia
+449,Korea,2015,32.57,29.96,31.265,Asia
+450,Korea,2016,32.79,30.11,31.45,Asia
+451,Korea,2017,32.94,30.24,31.589999999999996,Asia
+452,Latvia,2002,27.2,25.0,26.1,Europe
+453,Latvia,2003,27.3,25.1,26.200000000000003,Europe
+454,Latvia,2004,27.6,25.3,26.450000000000003,Europe
+455,Latvia,2005,28.0,25.8,26.9,Europe
+456,Latvia,2006,28.3,26.1,27.200000000000003,Europe
+457,Latvia,2007,28.5,26.2,27.35,Europe
+458,Latvia,2008,28.8,26.5,27.65,Europe
+459,Latvia,2009,29.3,26.9,28.1,Europe
+460,Latvia,2010,29.4,27.1,28.25,Europe
+461,Latvia,2011,29.6,27.3,28.450000000000003,Europe
+462,Latvia,2012,30.0,27.5,28.75,Europe
+463,Latvia,2013,30.2,27.9,29.049999999999997,Europe
+464,Latvia,2014,30.6,28.2,29.4,Europe
+465,Latvia,2015,31.0,28.5,29.75,Europe
+466,Latvia,2016,31.1,28.8,29.950000000000003,Europe
+467,Latvia,2017,31.5,28.9,30.2,Europe
+468,Lithuania,1990,24.6,22.7,23.65,Europe
+469,Lithuania,1991,24.4,22.5,23.45,Europe
+470,Lithuania,1992,24.3,22.4,23.35,Europe
+471,Lithuania,1993,24.4,22.4,23.4,Europe
+472,Lithuania,1994,24.5,22.5,23.5,Europe
+473,Lithuania,1995,24.6,22.6,23.6,Europe
+474,Lithuania,1996,24.9,22.8,23.85,Europe
+475,Lithuania,1997,25.0,23.0,24.0,Europe
+476,Lithuania,1998,25.2,23.1,24.15,Europe
+477,Lithuania,1999,25.6,23.4,24.5,Europe
+478,Lithuania,2000,26.1,23.8,24.950000000000003,Europe
+479,Lithuania,2001,26.4,24.1,25.25,Europe
+480,Lithuania,2002,26.7,24.3,25.5,Europe
+481,Lithuania,2003,27.0,24.6,25.8,Europe
+482,Lithuania,2004,27.1,24.8,25.950000000000003,Europe
+483,Lithuania,2005,27.3,25.0,26.15,Europe
+484,Lithuania,2006,27.4,25.1,26.25,Europe
+485,Lithuania,2007,27.8,25.5,26.65,Europe
+486,Lithuania,2008,28.0,25.8,26.9,Europe
+487,Lithuania,2009,28.6,26.2,27.4,Europe
+488,Lithuania,2010,28.7,26.5,27.6,Europe
+489,Lithuania,2011,29.0,26.7,27.85,Europe
+490,Lithuania,2013,29.5,27.1,28.3,Europe
+491,Lithuania,2014,29.7,27.3,28.5,Europe
+492,Lithuania,2015,28.9,27.5,28.2,Europe
+493,Lithuania,2016,30.3,27.9,29.1,Europe
+494,Lithuania,2017,30.5,27.8,29.15,Europe
+495,Luxembourg,1990,27.7,25.6,26.65,Europe
+496,Luxembourg,1991,28.4,26.1,27.25,Europe
+497,Luxembourg,1992,28.5,26.2,27.35,Europe
+498,Luxembourg,1993,28.5,25.8,27.15,Europe
+499,Luxembourg,1994,28.8,26.4,27.6,Europe
+500,Luxembourg,1995,29.2,26.7,27.95,Europe
+501,Luxembourg,1996,29.1,26.6,27.85,Europe
+502,Luxembourg,1997,29.6,27.2,28.4,Europe
+503,Luxembourg,1998,30.0,27.5,28.75,Europe
+504,Luxembourg,1999,30.2,27.7,28.95,Europe
+505,Luxembourg,2000,30.3,27.4,28.85,Europe
+506,Luxembourg,2001,30.6,27.9,29.25,Europe
+507,Luxembourg,2002,30.5,27.9,29.2,Europe
+508,Luxembourg,2003,30.8,28.2,29.5,Europe
+509,Luxembourg,2004,31.5,28.5,30.0,Europe
+510,Luxembourg,2005,31.5,28.9,30.2,Europe
+511,Luxembourg,2006,31.8,29.4,30.6,Europe
+512,Luxembourg,2007,32.0,29.5,30.75,Europe
+513,Luxembourg,2008,32.1,29.8,30.950000000000003,Europe
+514,Luxembourg,2009,32.4,29.7,31.049999999999997,Europe
+515,Luxembourg,2010,32.8,30.2,31.5,Europe
+516,Luxembourg,2011,32.9,30.3,31.6,Europe
+517,Luxembourg,2013,32.7,29.7,31.200000000000003,Europe
+518,Luxembourg,2014,33.0,30.9,31.95,Europe
+519,Luxembourg,2015,34.8,32.1,33.45,Europe
+520,Luxembourg,2016,33.8,31.6,32.7,Europe
+521,Luxembourg,2017,34.0,31.6,32.8,Europe
+522,Mexico,1995,23.2,20.0,21.6,North America
+523,Mexico,2009,28.7,25.8,27.25,North America
+524,Mexico,2010,29.1,26.2,27.65,North America
+525,Mexico,2011,29.2,26.3,27.75,North America
+526,Mexico,2012,29.4,26.6,28.0,North America
+527,Mexico,2013,29.8,26.9,28.35,North America
+528,Mexico,2014,30.4,27.5,28.95,North America
+529,Netherlands,1990,28.5,26.1,27.3,Europe
+530,Netherlands,1991,28.8,26.5,27.65,Europe
+531,Netherlands,1992,29.1,26.7,27.9,Europe
+532,Netherlands,1993,29.3,26.9,28.1,Europe
+533,Netherlands,1994,29.6,27.2,28.4,Europe
+534,Netherlands,1995,29.7,27.3,28.5,Europe
+535,Netherlands,1996,30.0,27.4,28.7,Europe
+536,Netherlands,1997,30.2,27.6,28.9,Europe
+537,Netherlands,1998,30.3,27.8,29.05,Europe
+538,Netherlands,1999,30.5,27.9,29.2,Europe
+539,Netherlands,2000,30.7,28.0,29.35,Europe
+540,Netherlands,2001,30.7,28.1,29.4,Europe
+541,Netherlands,2002,31.2,28.5,29.85,Europe
+542,Netherlands,2004,31.7,29.0,30.35,Europe
+543,Netherlands,2005,31.8,29.2,30.5,Europe
+544,Netherlands,2006,32.0,29.4,30.7,Europe
+545,Netherlands,2007,32.3,29.5,30.9,Europe
+546,Netherlands,2008,32.4,29.8,31.1,Europe
+547,Netherlands,2009,32.5,29.9,31.2,Europe
+548,Netherlands,2010,32.4,29.8,31.1,Europe
+549,Netherlands,2011,32.6,30.1,31.35,Europe
+550,Netherlands,2013,32.9,30.3,31.6,Europe
+551,Netherlands,2014,33.0,30.4,31.7,Europe
+552,Netherlands,2015,33.3,30.8,32.05,Europe
+553,Netherlands,2016,33.6,31.1,32.35,Europe
+554,Netherlands,2017,33.9,31.4,32.65,Europe
+555,New Zealand,1990,26.8,24.5,25.65,Oceania
+556,New Zealand,1991,26.9,24.6,25.75,Oceania
+557,New Zealand,1992,27.0,24.9,25.95,Oceania
+558,New Zealand,1993,27.3,25.2,26.25,Oceania
+559,New Zealand,1994,27.5,25.5,26.5,Oceania
+560,New Zealand,1995,27.8,25.8,26.8,Oceania
+561,New Zealand,1996,28.1,26.1,27.1,Oceania
+562,New Zealand,1997,28.3,26.5,27.4,Oceania
+563,New Zealand,1998,28.6,26.7,27.65,Oceania
+564,New Zealand,1999,28.9,27.0,27.95,Oceania
+565,New Zealand,2000,29.2,27.4,28.299999999999997,Oceania
+566,New Zealand,2001,29.3,27.5,28.4,Oceania
+567,New Zealand,2002,29.4,27.6,28.5,Oceania
+568,New Zealand,2003,29.5,27.7,28.6,Oceania
+569,New Zealand,2004,29.9,28.1,29.0,Oceania
+570,New Zealand,2005,30.1,28.2,29.15,Oceania
+571,New Zealand,2006,30.0,28.3,29.15,Oceania
+572,New Zealand,2007,30.0,28.2,29.1,Oceania
+573,New Zealand,2008,30.0,28.2,29.1,Oceania
+574,New Zealand,2009,29.8,28.2,29.0,Oceania
+575,New Zealand,2010,29.9,28.2,29.049999999999997,Oceania
+576,New Zealand,2011,29.9,28.4,29.15,Oceania
+577,New Zealand,2012,30.0,28.5,29.25,Oceania
+578,New Zealand,2013,30.1,28.6,29.35,Oceania
+579,New Zealand,2014,30.2,28.7,29.45,Oceania
+580,New Zealand,2015,30.2,28.8,29.5,Oceania
+581,New Zealand,2016,30.3,29.0,29.65,Oceania
+582,New Zealand,2017,30.2,29.0,29.6,Oceania
+583,Norway,1990,29.0,26.4,27.7,Europe
+584,Norway,1991,29.2,26.6,27.9,Europe
+585,Norway,1992,29.4,26.8,28.1,Europe
+586,Norway,1993,29.7,27.0,28.35,Europe
+587,Norway,1994,30.0,27.2,28.6,Europe
+588,Norway,1995,30.2,27.5,28.85,Europe
+589,Norway,1996,30.6,27.9,29.25,Europe
+590,Norway,1997,30.8,28.2,29.5,Europe
+591,Norway,1998,31.2,28.4,29.799999999999997,Europe
+592,Norway,1999,31.6,28.9,30.25,Europe
+593,Norway,2000,30.9,28.4,29.65,Europe
+594,Norway,2001,31.0,28.6,29.8,Europe
+595,Norway,2002,31.1,28.7,29.9,Europe
+596,Norway,2006,33.1,30.4,31.75,Europe
+597,Norway,2007,33.4,30.6,32.0,Europe
+598,Norway,2008,33.8,31.0,32.4,Europe
+599,Norway,2009,33.5,30.9,32.2,Europe
+600,Norway,2010,33.7,30.8,32.25,Europe
+601,Norway,2011,33.9,31.1,32.5,Europe
+602,Norway,2012,34.1,31.4,32.75,Europe
+603,Norway,2013,34.3,31.5,32.9,Europe
+604,Norway,2014,34.4,31.6,33.0,Europe
+605,Norway,2015,34.6,31.9,33.25,Europe
+606,Norway,2016,34.7,31.9,33.3,Europe
+607,Norway,2017,35.0,32.3,33.65,Europe
+608,Poland,1993,25.3,23.0,24.15,Europe
+609,Poland,1994,25.5,23.2,24.35,Europe
+610,Poland,1995,25.6,23.3,24.450000000000003,Europe
+611,Poland,1996,25.7,23.4,24.549999999999997,Europe
+612,Poland,1997,26.0,23.6,24.8,Europe
+613,Poland,1998,26.1,23.8,24.950000000000003,Europe
+614,Poland,1999,26.2,23.9,25.049999999999997,Europe
+615,Poland,2000,26.5,24.1,25.3,Europe
+616,Poland,2001,26.7,24.4,25.549999999999997,Europe
+617,Poland,2002,27.0,24.6,25.8,Europe
+618,Poland,2003,27.3,24.9,26.1,Europe
+619,Poland,2004,27.5,25.1,26.3,Europe
+620,Poland,2005,27.7,25.3,26.5,Europe
+621,Poland,2006,27.9,25.5,26.7,Europe
+622,Poland,2007,28.1,25.6,26.85,Europe
+623,Poland,2008,28.2,25.7,26.95,Europe
+624,Poland,2009,28.3,25.9,27.1,Europe
+625,Poland,2010,28.4,26.1,27.25,Europe
+626,Poland,2011,28.6,26.2,27.4,Europe
+627,Poland,2012,28.7,26.3,27.5,Europe
+628,Poland,2013,29.0,26.6,27.8,Europe
+629,Poland,2014,29.1,26.7,27.9,Europe
+630,Poland,2015,29.3,26.9,28.1,Europe
+631,Poland,2016,29.5,27.1,28.3,Europe
+632,Poland,2017,29.6,27.3,28.450000000000003,Europe
+633,Portugal,1991,26.4,24.0,25.2,Europe
+634,Portugal,1992,26.6,24.1,25.35,Europe
+635,Portugal,1993,26.7,24.3,25.5,Europe
+636,Portugal,1994,26.8,24.4,25.6,Europe
+637,Portugal,1995,26.9,24.5,25.7,Europe
+638,Portugal,1996,27.0,24.7,25.85,Europe
+639,Portugal,1997,27.1,24.8,25.950000000000003,Europe
+640,Portugal,1998,27.2,24.9,26.049999999999997,Europe
+641,Portugal,1999,27.3,25.0,26.15,Europe
+642,Portugal,2000,27.4,25.2,26.299999999999997,Europe
+643,Portugal,2001,27.7,25.5,26.6,Europe
+644,Portugal,2002,27.9,25.7,26.799999999999997,Europe
+645,Portugal,2003,28.1,25.9,27.0,Europe
+646,Portugal,2004,28.2,26.0,27.1,Europe
+647,Portugal,2005,28.5,26.3,27.4,Europe
+648,Portugal,2006,28.5,26.4,27.45,Europe
+649,Portugal,2007,28.7,26.6,27.65,Europe
+650,Portugal,2008,29.0,26.8,27.9,Europe
+651,Portugal,2009,29.3,27.2,28.25,Europe
+652,Portugal,2010,29.9,27.7,28.799999999999997,Europe
+653,Portugal,2011,30.1,28.0,29.05,Europe
+654,Portugal,2012,30.4,28.4,29.4,Europe
+655,Portugal,2014,31.5,29.8,30.65,Europe
+656,Portugal,2015,31.9,30.2,31.049999999999997,Europe
+657,Portugal,2016,32.2,30.4,31.3,Europe
+658,Portugal,2017,32.5,30.7,31.6,Europe
+659,Slovak Republic,1999,25.9,23.3,24.6,Europe
+660,Slovak Republic,2000,26.9,24.1,25.5,Europe
+661,Slovak Republic,2001,27.1,24.3,25.700000000000003,Europe
+662,Slovak Republic,2002,27.6,24.7,26.15,Europe
+663,Slovak Republic,2003,27.9,25.1,26.5,Europe
+664,Slovak Republic,2004,28.3,25.4,26.85,Europe
+665,Slovak Republic,2006,29.2,26.3,27.75,Europe
+666,Slovak Republic,2007,29.3,26.5,27.9,Europe
+667,Slovak Republic,2008,29.5,26.7,28.1,Europe
+668,Slovak Republic,2009,29.7,26.9,28.299999999999997,Europe
+669,Slovak Republic,2010,30.0,27.2,28.6,Europe
+670,Slovak Republic,2012,30.1,27.6,28.85,Europe
+671,Slovak Republic,2013,30.6,27.8,29.200000000000003,Europe
+672,Slovak Republic,2014,30.8,28.1,29.450000000000003,Europe
+673,Slovak Republic,2015,31.1,28.2,29.65,Europe
+674,Slovak Republic,2016,31.1,28.3,29.700000000000003,Europe
+675,Slovak Republic,2017,31.2,28.6,29.9,Europe
+676,Slovenia,1990,26.9,23.9,25.4,Europe
+677,Slovenia,1991,26.9,24.1,25.5,Europe
+678,Slovenia,1992,27.4,24.4,25.9,Europe
+679,Slovenia,1993,27.8,24.8,26.3,Europe
+680,Slovenia,1994,28.0,25.1,26.55,Europe
+681,Slovenia,1995,28.1,25.3,26.700000000000003,Europe
+682,Slovenia,1996,28.4,25.6,27.0,Europe
+683,Slovenia,1997,28.8,25.9,27.35,Europe
+684,Slovenia,1998,29.2,26.2,27.7,Europe
+685,Slovenia,1999,29.6,26.5,28.05,Europe
+686,Slovenia,2000,29.9,27.0,28.45,Europe
+687,Slovenia,2001,30.3,27.3,28.8,Europe
+688,Slovenia,2002,30.7,27.7,29.2,Europe
+689,Slovenia,2003,30.7,27.8,29.25,Europe
+690,Slovenia,2004,30.9,28.1,29.5,Europe
+691,Slovenia,2005,31.5,28.7,30.1,Europe
+692,Slovenia,2006,31.1,28.4,29.75,Europe
+693,Slovenia,2007,31.2,28.6,29.9,Europe
+694,Slovenia,2008,31.3,28.6,29.950000000000003,Europe
+695,Slovenia,2009,31.2,28.5,29.85,Europe
+696,Slovenia,2010,31.7,29.0,30.35,Europe
+697,Slovenia,2011,32.0,29.4,30.7,Europe
+698,Slovenia,2012,32.1,29.4,30.75,Europe
+699,Slovenia,2013,32.3,29.6,30.95,Europe
+700,Slovenia,2014,32.2,29.7,30.950000000000003,Europe
+701,Slovenia,2015,32.3,30.0,31.15,Europe
+702,Slovenia,2016,32.6,30.3,31.450000000000003,Europe
+703,Slovenia,2017,32.9,30.4,31.65,Europe
+704,Spain,1990,27.8,25.6,26.700000000000003,Europe
+705,Spain,1991,28.1,25.9,27.0,Europe
+706,Spain,1992,28.4,26.2,27.299999999999997,Europe
+707,Spain,1993,28.7,26.6,27.65,Europe
+708,Spain,1994,28.9,26.9,27.9,Europe
+709,Spain,1995,29.2,27.1,28.15,Europe
+710,Spain,1996,29.5,27.4,28.45,Europe
+711,Spain,1997,29.7,27.6,28.65,Europe
+712,Spain,1998,29.8,27.8,28.8,Europe
+713,Spain,1999,30.0,28.0,29.0,Europe
+714,Spain,2000,30.2,28.1,29.15,Europe
+715,Spain,2002,30.7,28.6,29.65,Europe
+716,Spain,2003,30.9,28.9,29.9,Europe
+717,Spain,2004,31.3,29.2,30.25,Europe
+718,Spain,2005,31.6,29.4,30.5,Europe
+719,Spain,2006,31.8,29.6,30.700000000000003,Europe
+720,Spain,2007,32.0,29.8,30.9,Europe
+721,Spain,2008,32.3,30.1,31.2,Europe
+722,Spain,2009,32.7,30.5,31.6,Europe
+723,Spain,2010,33.1,30.9,32.0,Europe
+724,Spain,2011,33.4,31.3,32.35,Europe
+725,Spain,2012,33.7,31.6,32.650000000000006,Europe
+726,Spain,2013,34.4,32.2,33.3,Europe
+727,Spain,2014,34.5,32.3,33.4,Europe
+728,Spain,2015,34.9,32.7,33.8,Europe
+729,Spain,2016,35.1,33.0,34.05,Europe
+730,Spain,2017,35.4,33.2,34.3,Europe
+731,Sweden,1990,30.3,27.7,29.0,Europe
+732,Sweden,1991,30.6,27.9,29.25,Europe
+733,Sweden,1992,30.9,28.2,29.549999999999997,Europe
+734,Sweden,1993,31.1,28.3,29.700000000000003,Europe
+735,Sweden,1994,31.3,28.7,30.0,Europe
+736,Sweden,1996,31.8,29.2,30.5,Europe
+737,Sweden,1997,32.2,29.5,30.85,Europe
+738,Sweden,1998,32.4,29.7,31.049999999999997,Europe
+739,Sweden,1999,32.9,30.2,31.549999999999997,Europe
+740,Sweden,2000,33.0,30.4,31.7,Europe
+741,Sweden,2001,33.0,30.3,31.65,Europe
+742,Sweden,2002,33.3,30.6,31.95,Europe
+743,Sweden,2003,33.8,31.0,32.4,Europe
+744,Sweden,2004,34.1,31.3,32.7,Europe
+745,Sweden,2005,34.6,31.7,33.15,Europe
+746,Sweden,2006,34.4,31.5,32.95,Europe
+747,Sweden,2008,35.2,32.3,33.75,Europe
+748,Sweden,2009,35.2,32.3,33.75,Europe
+749,Sweden,2010,35.6,32.7,34.150000000000006,Europe
+750,Sweden,2011,35.5,33.0,34.25,Europe
+751,Sweden,2012,35.9,33.3,34.599999999999994,Europe
+752,Sweden,2013,35.7,33.0,34.35,Europe
+753,Sweden,2014,35.8,33.3,34.55,Europe
+754,Sweden,2015,36.2,33.6,34.900000000000006,Europe
+755,Sweden,2016,36.5,33.8,35.15,Europe
+756,Sweden,2017,36.6,33.8,35.2,Europe
+757,Switzerland,1990,29.4,27.0,28.2,Europe
+758,Switzerland,1991,29.5,27.1,28.3,Europe
+759,Switzerland,1992,29.5,27.1,28.3,Europe
+760,Switzerland,1994,29.9,27.4,28.65,Europe
+761,Switzerland,1995,30.1,27.5,28.8,Europe
+762,Switzerland,1998,30.4,27.9,29.15,Europe
+763,Switzerland,2000,30.8,28.2,29.5,Europe
+764,Switzerland,2001,31.1,28.4,29.75,Europe
+765,Switzerland,2003,31.2,28.7,29.95,Europe
+766,Switzerland,2004,31.4,29.0,30.2,Europe
+767,Switzerland,2005,31.5,29.1,30.3,Europe
+768,Switzerland,2006,31.6,29.1,30.35,Europe
+769,Switzerland,2007,31.7,29.3,30.5,Europe
+770,Switzerland,2008,32.1,29.6,30.85,Europe
+771,Switzerland,2009,32.1,29.6,30.85,Europe
+772,Switzerland,2010,32.2,29.8,31.0,Europe
+773,Switzerland,2011,32.4,29.9,31.15,Europe
+774,Switzerland,2012,32.4,29.9,31.15,Europe
+775,Switzerland,2013,32.5,30.1,31.3,Europe
+776,Switzerland,2014,32.5,30.1,31.3,Europe
+777,Switzerland,2015,32.6,30.2,31.4,Europe
+778,Switzerland,2016,32.7,30.4,31.55,Europe
+779,Switzerland,2017,32.8,30.4,31.599999999999998,Europe
+780,Turkey,2003,27.5,24.1,25.8,Asia
+781,Turkey,2006,26.9,23.5,25.2,Asia
+782,Turkey,2007,26.8,23.5,25.15,Asia
+783,Turkey,2008,26.9,23.6,25.25,Asia
+784,Turkey,2009,27.0,23.7,25.35,Asia
+785,Turkey,2010,27.1,23.8,25.450000000000003,Asia
+786,Turkey,2011,27.2,23.9,25.549999999999997,Asia
+787,Turkey,2013,27.3,24.2,25.75,Asia
+788,Turkey,2014,27.4,24.3,25.85,Asia
+789,Turkey,2015,27.5,24.5,26.0,Asia
+790,Turkey,2016,27.7,24.7,26.2,Asia
+791,Turkey,2017,27.8,24.8,26.3,Asia
+792,United Kingdom,1990,27.2,25.15,26.174999999999997,Europe
+793,United Kingdom,1991,27.51,25.5,26.505000000000003,Europe
+794,United Kingdom,1992,27.86,25.86,26.86,Europe
+795,United Kingdom,1993,28.18,26.17,27.175,Europe
+796,United Kingdom,1994,28.5,26.51,27.505000000000003,Europe
+797,United Kingdom,1995,28.86,26.83,27.845,Europe
+798,United Kingdom,1996,29.25,27.2,28.225,Europe
+799,United Kingdom,1997,29.57,27.47,28.52,Europe
+800,United Kingdom,1998,29.84,27.7,28.77,Europe
+801,United Kingdom,1999,30.1,28.0,29.05,Europe
+802,United Kingdom,2000,30.5,28.2,29.35,Europe
+803,United Kingdom,2001,30.6,28.4,29.5,Europe
+804,United Kingdom,2002,30.9,28.7,29.799999999999997,Europe
+805,United Kingdom,2003,31.2,28.9,30.049999999999997,Europe
+806,United Kingdom,2004,31.4,29.1,30.25,Europe
+807,United Kingdom,2005,31.7,29.5,30.6,Europe
+808,United Kingdom,2006,31.8,29.7,30.75,Europe
+809,United Kingdom,2007,32.0,29.8,30.9,Europe
+810,United Kingdom,2008,32.1,29.9,31.0,Europe
+811,United Kingdom,2009,32.1,29.9,31.0,Europe
+812,United Kingdom,2010,32.1,30.0,31.05,Europe
+813,United Kingdom,2011,32.2,30.2,31.200000000000003,Europe
+814,United Kingdom,2012,32.4,30.3,31.35,Europe
+815,United Kingdom,2013,32.5,30.6,31.55,Europe
+816,United Kingdom,2014,32.7,30.8,31.75,Europe
+817,United Kingdom,2015,33.2,31.2,32.2,Europe
+818,United States,1990,26.1,23.9,25.0,North America
+819,United States,1991,26.3,24.1,25.200000000000003,North America
+820,United States,1992,26.5,24.4,25.45,North America
+821,United States,1993,26.5,24.5,25.5,North America
+822,United States,1994,26.7,24.5,25.6,North America
+823,United States,1995,26.9,24.5,25.7,North America
+824,United States,1996,27.1,24.8,25.950000000000003,North America
+825,United States,1997,26.8,25.0,25.9,North America
+826,United States,1998,26.7,25.0,25.85,North America
+827,United States,1999,26.9,25.1,26.0,North America
+828,United States,2000,26.8,25.1,25.950000000000003,North America
+829,United States,2001,26.9,25.1,26.0,North America
+830,United States,2002,26.9,25.3,26.1,North America
+831,United States,2003,27.1,25.3,26.200000000000003,North America
+832,United States,2004,27.4,25.3,26.35,North America
+833,United States,2005,27.1,25.3,26.200000000000003,North America
+834,United States,2006,27.5,25.5,26.5,North America
+835,United States,2007,27.5,25.6,26.55,North America
+836,United States,2008,27.6,25.9,26.75,North America
+837,United States,2009,28.1,25.9,27.0,North America
+838,United States,2010,28.2,26.1,27.15,North America
+839,United States,2011,28.4,26.4,27.4,North America
+840,United States,2012,28.6,26.6,27.6,North America
+841,United States,2013,29.0,26.6,27.8,North America
+842,United States,2014,29.3,27.0,28.15,North America
+843,United States,2015,29.2,27.1,28.15,North America
+844,United States,2016,29.5,27.4,28.45,North America
+845,United States,2017,29.5,27.4,28.45,North America
+846,Bulgaria,1990,24.6,21.5,23.05,Europe
+847,Bulgaria,1991,24.6,21.5,23.05,Europe
+848,Bulgaria,1992,24.9,21.7,23.299999999999997,Europe
+849,Bulgaria,1993,25.2,22.0,23.6,Europe
+850,Bulgaria,1994,25.7,22.4,24.049999999999997,Europe
+851,Bulgaria,1995,26.2,22.7,24.45,Europe
+852,Bulgaria,1996,26.4,23.0,24.7,Europe
+853,Bulgaria,1997,26.8,23.3,25.05,Europe
+854,Bulgaria,1998,26.9,23.4,25.15,Europe
+855,Bulgaria,1999,27.3,23.7,25.5,Europe
+856,Bulgaria,2000,28.5,24.7,26.6,Europe
+857,Bulgaria,2001,28.4,24.7,26.549999999999997,Europe
+858,Bulgaria,2002,28.2,24.6,26.4,Europe
+859,Bulgaria,2003,28.5,25.0,26.75,Europe
+860,Bulgaria,2004,28.8,25.3,27.05,Europe
+861,Bulgaria,2005,29.1,25.6,27.35,Europe
+862,Bulgaria,2006,29.2,25.7,27.45,Europe
+863,Bulgaria,2007,29.1,25.8,27.450000000000003,Europe
+864,Bulgaria,2008,29.2,25.9,27.549999999999997,Europe
+865,Bulgaria,2009,29.4,26.2,27.799999999999997,Europe
+866,Bulgaria,2010,29.8,26.6,28.200000000000003,Europe
+867,Bulgaria,2011,29.9,26.6,28.25,Europe
+868,Bulgaria,2013,30.0,26.7,28.35,Europe
+869,Bulgaria,2014,30.3,26.9,28.6,Europe
+870,Bulgaria,2015,30.4,27.0,28.7,Europe
+871,Bulgaria,2016,30.5,27.1,28.8,Europe
+872,Bulgaria,2017,30.6,27.3,28.950000000000003,Europe
+873,Croatia,2001,28.5,25.4,26.95,Europe
+874,Croatia,2002,28.8,25.6,27.200000000000003,Europe
+875,Croatia,2003,29.0,25.8,27.4,Europe
+876,Croatia,2004,29.1,26.0,27.55,Europe
+877,Croatia,2005,29.4,26.2,27.799999999999997,Europe
+878,Croatia,2006,29.5,26.3,27.9,Europe
+879,Croatia,2007,29.7,26.6,28.15,Europe
+880,Croatia,2008,29.7,26.6,28.15,Europe
+881,Croatia,2009,29.8,26.9,28.35,Europe
+882,Croatia,2010,30.0,27.1,28.55,Europe
+883,Croatia,2011,30.2,27.3,28.75,Europe
+884,Croatia,2012,30.3,27.3,28.8,Europe
+885,Croatia,2013,30.5,27.6,29.05,Europe
+886,Croatia,2014,30.6,27.8,29.200000000000003,Europe
+887,Croatia,2015,30.7,27.9,29.299999999999997,Europe
+888,Croatia,2016,30.8,28.0,29.4,Europe
+889,Croatia,2017,31.0,28.2,29.6,Europe
+890,Cyprus,1990,27.9,24.9,26.4,Asia
+891,Cyprus,1991,27.5,24.6,26.05,Asia
+892,Cyprus,1992,27.9,25.4,26.65,Asia
+893,Cyprus,1993,27.9,25.2,26.549999999999997,Asia
+894,Cyprus,1994,28.4,25.8,27.1,Asia
+895,Cyprus,1995,28.2,25.7,26.95,Asia
+896,Cyprus,1996,28.6,26.0,27.3,Asia
+897,Cyprus,1997,28.7,26.2,27.45,Asia
+898,Cyprus,1998,28.9,26.4,27.65,Asia
+899,Cyprus,1999,29.0,26.4,27.7,Asia
+900,Cyprus,2000,29.3,26.9,28.1,Asia
+901,Cyprus,2001,29.7,27.2,28.45,Asia
+902,Cyprus,2002,30.1,27.3,28.700000000000003,Asia
+903,Cyprus,2003,30.5,27.8,29.15,Asia
+904,Cyprus,2004,30.1,27.3,28.700000000000003,Asia
+905,Cyprus,2005,29.9,27.3,28.6,Asia
+906,Cyprus,2006,30.4,27.7,29.049999999999997,Asia
+907,Malta,1990,27.2,24.6,25.9,Europe
+908,Malta,1991,27.6,24.9,26.25,Europe
+909,Malta,1992,27.7,25.1,26.4,Europe
+910,Malta,1993,27.5,25.0,26.25,Europe
+911,Malta,1994,27.7,25.3,26.5,Europe
+912,Malta,1995,28.1,25.6,26.85,Europe
+913,Malta,1996,27.9,25.6,26.75,Europe
+914,Malta,2003,29.3,26.8,28.05,Europe
+915,Malta,2004,29.7,27.3,28.5,Europe
+916,Malta,2006,30.4,27.8,29.1,Europe
+917,Malta,2007,30.2,28.1,29.15,Europe
+918,Malta,2008,30.8,28.5,29.65,Europe
+919,Malta,2009,31.1,28.7,29.9,Europe
+920,Malta,2010,31.3,28.6,29.950000000000003,Europe
+921,Malta,2011,31.6,29.2,30.4,Europe
+922,Romania,1990,25.6,22.4,24.0,Europe
+923,Romania,1991,25.6,22.3,23.950000000000003,Europe
+924,Romania,1992,25.7,22.4,24.049999999999997,Europe
+925,Romania,1993,25.8,22.5,24.15,Europe
+926,Romania,1994,26.0,22.7,24.35,Europe
+927,Romania,1995,26.5,23.1,24.8,Europe
+928,Romania,1996,26.5,23.1,24.8,Europe
+929,Romania,1997,26.6,23.2,24.9,Europe
+930,Romania,1998,26.9,23.4,25.15,Europe
+931,Romania,1999,27.0,23.4,25.2,Europe
+932,Romania,2000,27.3,23.7,25.5,Europe
+933,Romania,2001,27.6,23.9,25.75,Europe
+934,Romania,2002,27.7,24.1,25.9,Europe
+935,Romania,2003,28.0,24.4,26.2,Europe
+936,Romania,2004,28.7,25.0,26.85,Europe
+937,Romania,2005,28.8,25.1,26.950000000000003,Europe
+938,Romania,2006,28.8,25.2,27.0,Europe
+939,Romania,2007,30.0,26.2,28.1,Europe
+940,Romania,2008,29.1,25.6,27.35,Europe
+941,Romania,2009,28.9,25.5,27.2,Europe
+942,Romania,2010,29.0,25.6,27.3,Europe
+943,Romania,2011,29.2,25.8,27.5,Europe
+944,Romania,2013,29.7,26.3,28.0,Europe
+945,Romania,2014,30.2,26.7,28.45,Europe
+946,Romania,2015,30.3,26.8,28.55,Europe
+947,Romania,2016,30.4,27.0,28.7,Europe
+948,Romania,2017,31.0,27.5,29.25,Europe
+949,Switzerland,1993,,27.2,27.2,Europe
+950,Switzerland,1997,,27.8,27.8,Europe
+951,Switzerland,1999,,28.0,28.0,Europe

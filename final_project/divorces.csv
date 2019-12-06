@@ -1,0 +1,1947 @@
+﻿,Country,Year,divorce_rate,Continent
+0,Australia,1970,0.9753,Oceania
+1,Australia,1980,2.7,Oceania
+2,Australia,1981,2.8,Oceania
+3,Australia,1982,2.9,Oceania
+4,Australia,1983,2.8,Oceania
+5,Australia,1984,2.8,Oceania
+6,Australia,1985,2.5,Oceania
+7,Australia,1986,2.5,Oceania
+8,Australia,1987,2.4,Oceania
+9,Australia,1988,2.5,Oceania
+10,Australia,1989,2.5,Oceania
+11,Australia,1990,2.5,Oceania
+12,Australia,1991,2.6,Oceania
+13,Australia,1992,2.6,Oceania
+14,Australia,1993,2.7,Oceania
+15,Australia,1994,2.7,Oceania
+16,Australia,1995,2.8,Oceania
+17,Australia,1996,2.9,Oceania
+18,Australia,1997,2.8,Oceania
+19,Australia,1998,2.7,Oceania
+20,Australia,1999,2.8,Oceania
+21,Australia,2000,2.6,Oceania
+22,Australia,2001,2.8,Oceania
+23,Australia,2002,2.7,Oceania
+24,Australia,2003,2.7,Oceania
+25,Australia,2004,2.6,Oceania
+26,Australia,2005,2.6,Oceania
+27,Australia,2006,2.5,Oceania
+28,Australia,2007,2.3,Oceania
+29,Australia,2008,2.2,Oceania
+30,Australia,2009,2.3,Oceania
+31,Australia,2010,2.3,Oceania
+32,Australia,2011,2.2,Oceania
+33,Australia,2012,2.2,Oceania
+34,Australia,2013,2.1,Oceania
+35,Australia,2014,2.0,Oceania
+36,Australia,2015,2.0,Oceania
+37,Australia,2016,1.931599157613211,Oceania
+38,Australia,2017,2.0,Oceania
+39,Austria,1960,1.1,Europe
+40,Austria,1961,1.1,Europe
+41,Austria,1962,1.1,Europe
+42,Austria,1963,1.1,Europe
+43,Austria,1964,1.2,Europe
+44,Austria,1965,1.2,Europe
+45,Austria,1966,1.2,Europe
+46,Austria,1967,1.2,Europe
+47,Austria,1968,1.3,Europe
+48,Austria,1969,1.3,Europe
+49,Austria,1970,1.4,Europe
+50,Austria,1971,1.3,Europe
+51,Austria,1972,1.3,Europe
+52,Austria,1973,1.3,Europe
+53,Austria,1974,1.4,Europe
+54,Austria,1975,1.4,Europe
+55,Austria,1976,1.5,Europe
+56,Austria,1977,1.5,Europe
+57,Austria,1978,1.6,Europe
+58,Austria,1979,1.7,Europe
+59,Austria,1980,1.8,Europe
+60,Austria,1981,1.8,Europe
+61,Austria,1982,1.9,Europe
+62,Austria,1983,1.9,Europe
+63,Austria,1984,2.0,Europe
+64,Austria,1985,2.0,Europe
+65,Austria,1986,1.9,Europe
+66,Austria,1987,1.9,Europe
+67,Austria,1988,2.0,Europe
+68,Austria,1989,2.0,Europe
+69,Austria,1990,2.1,Europe
+70,Austria,1991,2.1,Europe
+71,Austria,1992,2.1,Europe
+72,Austria,1993,2.1,Europe
+73,Austria,1994,2.1,Europe
+74,Austria,1995,2.3,Europe
+75,Austria,1996,2.3,Europe
+76,Austria,1997,2.3,Europe
+77,Austria,1998,2.2,Europe
+78,Austria,1999,2.3,Europe
+79,Austria,2000,2.4,Europe
+80,Austria,2001,2.6,Europe
+81,Austria,2002,2.5,Europe
+82,Austria,2003,2.3,Europe
+83,Austria,2004,2.4,Europe
+84,Austria,2005,2.4,Europe
+85,Austria,2006,2.5,Europe
+86,Austria,2007,2.5,Europe
+87,Austria,2008,2.4,Europe
+88,Austria,2009,2.3,Europe
+89,Austria,2010,2.1,Europe
+90,Austria,2011,2.1,Europe
+91,Austria,2012,2.0,Europe
+92,Austria,2013,1.9,Europe
+93,Austria,2014,1.9,Europe
+94,Austria,2015,1.9,Europe
+95,Austria,2016,1.8,Europe
+96,Austria,2017,1.8,Europe
+97,Belgium,1960,0.5,Europe
+98,Belgium,1961,0.5,Europe
+99,Belgium,1962,0.5,Europe
+100,Belgium,1963,0.6,Europe
+101,Belgium,1964,0.6,Europe
+102,Belgium,1965,0.6,Europe
+103,Belgium,1966,0.6,Europe
+104,Belgium,1967,0.6,Europe
+105,Belgium,1968,0.6,Europe
+106,Belgium,1969,0.7,Europe
+107,Belgium,1970,0.7,Europe
+108,Belgium,1971,0.7,Europe
+109,Belgium,1972,0.8,Europe
+110,Belgium,1973,0.9,Europe
+111,Belgium,1974,1.0,Europe
+112,Belgium,1975,1.1,Europe
+113,Belgium,1976,1.3,Europe
+114,Belgium,1977,1.3,Europe
+115,Belgium,1978,1.4,Europe
+116,Belgium,1979,1.4,Europe
+117,Belgium,1980,1.5,Europe
+118,Belgium,1981,1.6,Europe
+119,Belgium,1982,1.6,Europe
+120,Belgium,1983,1.7,Europe
+121,Belgium,1984,1.9,Europe
+122,Belgium,1985,1.9,Europe
+123,Belgium,1986,1.9,Europe
+124,Belgium,1987,2.0,Europe
+125,Belgium,1988,2.1,Europe
+126,Belgium,1989,2.0,Europe
+127,Belgium,1990,2.0,Europe
+128,Belgium,1991,2.1,Europe
+129,Belgium,1992,2.2,Europe
+130,Belgium,1993,2.1,Europe
+131,Belgium,1994,2.2,Europe
+132,Belgium,1995,3.5,Europe
+133,Belgium,1996,2.8,Europe
+134,Belgium,1997,2.6,Europe
+135,Belgium,1998,2.6,Europe
+136,Belgium,1999,2.6,Europe
+137,Belgium,2000,2.6,Europe
+138,Belgium,2001,2.8,Europe
+139,Belgium,2002,3.0,Europe
+140,Belgium,2003,3.0,Europe
+141,Belgium,2004,3.0,Europe
+142,Belgium,2005,2.9,Europe
+143,Belgium,2006,2.8,Europe
+144,Belgium,2007,2.8,Europe
+145,Belgium,2008,3.3,Europe
+146,Belgium,2009,3.0,Europe
+147,Belgium,2010,2.7,Europe
+148,Belgium,2011,2.5,Europe
+149,Belgium,2012,2.3,Europe
+150,Belgium,2013,2.2,Europe
+151,Belgium,2014,2.2,Europe
+152,Belgium,2015,2.2,Europe
+153,Belgium,2016,2.1,Europe
+154,Belgium,2017,2.0,Europe
+155,Canada,1970,1.3729,North America
+156,Canada,1980,2.53,North America
+157,Canada,1981,2.73,North America
+158,Canada,1982,2.8,North America
+159,Canada,1983,2.7,North America
+160,Canada,1984,2.55,North America
+161,Canada,1985,2.39,North America
+162,Canada,1986,3.0,North America
+163,Canada,1987,3.63,North America
+164,Canada,1988,3.12,North America
+165,Canada,1989,2.97,North America
+166,Canada,1990,2.83,North America
+167,Canada,1991,2.75,North America
+168,Canada,1992,2.79,North America
+169,Canada,1993,2.73,North America
+170,Canada,1994,2.72,North America
+171,Canada,1995,2.65,North America
+172,Canada,1996,2.41,North America
+173,Canada,1997,2.25,North America
+174,Canada,1998,2.28,North America
+175,Canada,1999,2.33,North America
+176,Canada,2000,2.32,North America
+177,Canada,2001,2.29,North America
+178,Canada,2002,2.2399999999999998,North America
+179,Canada,2003,2.2399999999999998,North America
+180,Canada,2004,2.18,North America
+181,Canada,2005,2.21,North America
+182,Canada,2006,2.29,North America
+183,Canada,2007,2.2199999999999998,North America
+184,Canada,2008,2.1100000000000003,North America
+185,Chile,1995,0.45,South America
+186,Chile,1996,0.43,South America
+187,Chile,1997,0.43,South America
+188,Chile,1998,0.43,South America
+189,Chile,1999,0.42,South America
+190,Chile,2006,0.2489552218,South America
+191,Chile,2007,0.145559057,South America
+192,Chile,2008,0.1200825366,South America
+193,Chile,2009,0.1221581614,South America
+194,Chile,2010,0.0911416249,South America
+195,Czech Republic,1960,1.4,Europe
+196,Czech Republic,1961,1.5,Europe
+197,Czech Republic,1962,1.5,Europe
+198,Czech Republic,1963,1.5,Europe
+199,Czech Republic,1964,1.5,Europe
+200,Czech Republic,1965,1.7,Europe
+201,Czech Republic,1966,1.8,Europe
+202,Czech Republic,1967,1.8,Europe
+203,Czech Republic,1968,1.9,Europe
+204,Czech Republic,1969,2.1,Europe
+205,Czech Republic,1970,2.2,Europe
+206,Czech Republic,1971,2.4,Europe
+207,Czech Republic,1972,2.3,Europe
+208,Czech Republic,1973,2.5,Europe
+209,Czech Republic,1974,2.5,Europe
+210,Czech Republic,1975,2.6,Europe
+211,Czech Republic,1976,2.5,Europe
+212,Czech Republic,1977,2.5,Europe
+213,Czech Republic,1978,2.6,Europe
+214,Czech Republic,1979,2.5,Europe
+215,Czech Republic,1980,2.6,Europe
+216,Czech Republic,1981,2.7,Europe
+217,Czech Republic,1982,2.7,Europe
+218,Czech Republic,1983,2.8,Europe
+219,Czech Republic,1984,3.0,Europe
+220,Czech Republic,1985,2.9,Europe
+221,Czech Republic,1986,2.9,Europe
+222,Czech Republic,1987,3.0,Europe
+223,Czech Republic,1988,3.0,Europe
+224,Czech Republic,1989,3.0,Europe
+225,Czech Republic,1990,3.1,Europe
+226,Czech Republic,1991,2.8,Europe
+227,Czech Republic,1992,2.8,Europe
+228,Czech Republic,1993,2.9,Europe
+229,Czech Republic,1994,3.0,Europe
+230,Czech Republic,1995,3.0,Europe
+231,Czech Republic,1996,3.2,Europe
+232,Czech Republic,1997,3.2,Europe
+233,Czech Republic,1998,3.1,Europe
+234,Czech Republic,1999,2.3,Europe
+235,Czech Republic,2000,2.9,Europe
+236,Czech Republic,2001,3.1,Europe
+237,Czech Republic,2002,3.1,Europe
+238,Czech Republic,2003,3.8,Europe
+239,Czech Republic,2004,3.2,Europe
+240,Czech Republic,2005,3.1,Europe
+241,Czech Republic,2006,3.1,Europe
+242,Czech Republic,2007,3.0,Europe
+243,Czech Republic,2008,3.0,Europe
+244,Czech Republic,2009,2.8,Europe
+245,Czech Republic,2010,2.9,Europe
+246,Czech Republic,2011,2.7,Europe
+247,Czech Republic,2012,2.5,Europe
+248,Czech Republic,2013,2.7,Europe
+249,Czech Republic,2014,2.5,Europe
+250,Czech Republic,2015,2.5,Europe
+251,Czech Republic,2016,2.4,Europe
+252,Czech Republic,2017,2.4,Europe
+253,Denmark,1960,1.5,Europe
+254,Denmark,1961,1.4,Europe
+255,Denmark,1962,1.4,Europe
+256,Denmark,1963,1.4,Europe
+257,Denmark,1964,1.4,Europe
+258,Denmark,1965,1.4,Europe
+259,Denmark,1966,1.4,Europe
+260,Denmark,1967,1.4,Europe
+261,Denmark,1968,1.6,Europe
+262,Denmark,1969,1.8,Europe
+263,Denmark,1970,1.9,Europe
+264,Denmark,1971,2.7,Europe
+265,Denmark,1972,2.6,Europe
+266,Denmark,1973,2.5,Europe
+267,Denmark,1974,2.6,Europe
+268,Denmark,1975,2.6,Europe
+269,Denmark,1976,2.6,Europe
+270,Denmark,1977,2.6,Europe
+271,Denmark,1978,2.6,Europe
+272,Denmark,1979,2.5,Europe
+273,Denmark,1980,2.7,Europe
+274,Denmark,1981,2.8,Europe
+275,Denmark,1982,2.9,Europe
+276,Denmark,1983,2.9,Europe
+277,Denmark,1984,2.8,Europe
+278,Denmark,1985,2.8,Europe
+279,Denmark,1986,2.8,Europe
+280,Denmark,1987,2.8,Europe
+281,Denmark,1988,2.9,Europe
+282,Denmark,1989,3.0,Europe
+283,Denmark,1990,2.7,Europe
+284,Denmark,1991,2.5,Europe
+285,Denmark,1992,2.5,Europe
+286,Denmark,1993,2.5,Europe
+287,Denmark,1994,2.6,Europe
+288,Denmark,1995,2.5,Europe
+289,Denmark,1996,2.4,Europe
+290,Denmark,1997,2.4,Europe
+291,Denmark,1998,2.5,Europe
+292,Denmark,1999,2.5,Europe
+293,Denmark,2000,2.7,Europe
+294,Denmark,2001,2.7,Europe
+295,Denmark,2002,2.8,Europe
+296,Denmark,2003,2.9,Europe
+297,Denmark,2004,2.9,Europe
+298,Denmark,2005,2.8,Europe
+299,Denmark,2006,2.6,Europe
+300,Denmark,2007,2.6,Europe
+301,Denmark,2008,2.7,Europe
+302,Denmark,2009,2.7,Europe
+303,Denmark,2010,2.6,Europe
+304,Denmark,2011,2.6,Europe
+305,Denmark,2012,2.8,Europe
+306,Denmark,2013,3.4,Europe
+307,Denmark,2014,3.4,Europe
+308,Denmark,2015,2.9,Europe
+309,Denmark,2016,3.0,Europe
+310,Denmark,2017,2.6,Europe
+311,Estonia,1960,2.1,Europe
+312,Estonia,1961,2.1,Europe
+313,Estonia,1962,2.0,Europe
+314,Estonia,1963,2.2,Europe
+315,Estonia,1964,2.5,Europe
+316,Estonia,1965,2.3,Europe
+317,Estonia,1966,3.2,Europe
+318,Estonia,1967,3.2,Europe
+319,Estonia,1968,3.1,Europe
+320,Estonia,1969,3.3,Europe
+321,Estonia,1970,3.2,Europe
+322,Estonia,1971,3.2,Europe
+323,Estonia,1972,3.3,Europe
+324,Estonia,1973,3.2,Europe
+325,Estonia,1974,3.3,Europe
+326,Estonia,1975,3.4,Europe
+327,Estonia,1976,3.6,Europe
+328,Estonia,1977,3.9,Europe
+329,Estonia,1978,3.8,Europe
+330,Estonia,1979,4.1,Europe
+331,Estonia,1980,4.1,Europe
+332,Estonia,1981,4.1,Europe
+333,Estonia,1982,3.9,Europe
+334,Estonia,1983,4.2,Europe
+335,Estonia,1984,4.1,Europe
+336,Estonia,1985,4.0,Europe
+337,Estonia,1986,3.9,Europe
+338,Estonia,1987,3.9,Europe
+339,Estonia,1988,3.8,Europe
+340,Estonia,1989,3.8,Europe
+341,Estonia,1990,3.7,Europe
+342,Estonia,1991,3.7,Europe
+343,Estonia,1992,4.3,Europe
+344,Estonia,1993,3.9,Europe
+345,Estonia,1994,3.8,Europe
+346,Estonia,1995,5.2,Europe
+347,Estonia,1996,4.0,Europe
+348,Estonia,1997,3.8,Europe
+349,Estonia,1998,3.2,Europe
+350,Estonia,1999,3.3,Europe
+351,Estonia,2000,3.0,Europe
+352,Estonia,2001,3.1,Europe
+353,Estonia,2002,3.0,Europe
+354,Estonia,2003,2.9,Europe
+355,Estonia,2004,3.1,Europe
+356,Estonia,2005,3.0,Europe
+357,Estonia,2006,2.8,Europe
+358,Estonia,2007,2.8,Europe
+359,Estonia,2008,2.6,Europe
+360,Estonia,2009,2.4,Europe
+361,Estonia,2010,2.2,Europe
+362,Estonia,2011,2.3,Europe
+363,Estonia,2012,2.4,Europe
+364,Estonia,2013,2.5,Europe
+365,Estonia,2014,2.4,Europe
+366,Estonia,2015,2.6,Europe
+367,Estonia,2016,2.5,Europe
+368,Estonia,2017,2.5,Europe
+369,Finland,1960,0.8,Europe
+370,Finland,1961,0.9,Europe
+371,Finland,1962,0.9,Europe
+372,Finland,1963,0.9,Europe
+373,Finland,1964,1.0,Europe
+374,Finland,1965,1.0,Europe
+375,Finland,1966,1.1,Europe
+376,Finland,1967,1.1,Europe
+377,Finland,1968,1.2,Europe
+378,Finland,1969,1.3,Europe
+379,Finland,1970,1.3,Europe
+380,Finland,1971,1.6,Europe
+381,Finland,1972,1.8,Europe
+382,Finland,1973,1.9,Europe
+383,Finland,1974,2.1,Europe
+384,Finland,1975,2.0,Europe
+385,Finland,1976,2.1,Europe
+386,Finland,1977,2.1,Europe
+387,Finland,1978,2.2,Europe
+388,Finland,1979,2.1,Europe
+389,Finland,1980,2.0,Europe
+390,Finland,1981,2.0,Europe
+391,Finland,1982,2.0,Europe
+392,Finland,1983,2.0,Europe
+393,Finland,1984,2.0,Europe
+394,Finland,1985,1.8,Europe
+395,Finland,1986,2.0,Europe
+396,Finland,1987,2.0,Europe
+397,Finland,1988,2.5,Europe
+398,Finland,1989,2.9,Europe
+399,Finland,1990,2.6,Europe
+400,Finland,1991,2.6,Europe
+401,Finland,1992,2.6,Europe
+402,Finland,1993,2.5,Europe
+403,Finland,1994,2.7,Europe
+404,Finland,1995,2.7,Europe
+405,Finland,1996,2.7,Europe
+406,Finland,1997,2.6,Europe
+407,Finland,1998,2.7,Europe
+408,Finland,1999,2.7,Europe
+409,Finland,2000,2.7,Europe
+410,Finland,2001,2.6,Europe
+411,Finland,2002,2.6,Europe
+412,Finland,2003,2.6,Europe
+413,Finland,2004,2.5,Europe
+414,Finland,2005,2.6,Europe
+415,Finland,2006,2.5,Europe
+416,Finland,2007,2.5,Europe
+417,Finland,2008,2.5,Europe
+418,Finland,2009,2.5,Europe
+419,Finland,2010,2.5,Europe
+420,Finland,2011,2.5,Europe
+421,Finland,2012,2.4,Europe
+422,Finland,2013,2.5,Europe
+423,Finland,2014,2.5,Europe
+424,Finland,2015,2.5,Europe
+425,Finland,2016,2.5,Europe
+426,Finland,2017,2.4,Europe
+427,France,1995,2.1,Europe
+428,France,1996,2.0,Europe
+429,France,1997,2.0,Europe
+430,France,1998,2.0,Europe
+431,France,1999,2.0,Europe
+432,France,2000,1.9,Europe
+433,France,2001,1.9,Europe
+434,France,2002,1.9,Europe
+435,France,2003,2.1,Europe
+436,France,2004,2.2,Europe
+437,France,2005,2.5,Europe
+438,France,2006,2.2,Europe
+439,France,2007,2.1,Europe
+440,France,2008,2.1,Europe
+441,France,2009,2.0,Europe
+442,France,2010,2.1,Europe
+443,France,2011,2.0,Europe
+444,France,2012,2.0,Europe
+445,France,2013,1.9,Europe
+446,France,2014,1.9,Europe
+447,France,2015,1.9,Europe
+448,France,2016,1.9,Europe
+449,Germany,1960,1.0,Europe
+450,Germany,1961,1.0,Europe
+451,Germany,1962,1.0,Europe
+452,Germany,1963,1.0,Europe
+453,Germany,1964,1.1,Europe
+454,Germany,1965,1.1,Europe
+455,Germany,1966,1.1,Europe
+456,Germany,1967,1.2,Europe
+457,Germany,1968,1.2,Europe
+458,Germany,1969,1.3,Europe
+459,Germany,1970,1.3,Europe
+460,Germany,1971,1.4,Europe
+461,Germany,1972,1.5,Europe
+462,Germany,1973,1.6,Europe
+463,Germany,1974,1.8,Europe
+464,Germany,1975,1.9,Europe
+465,Germany,1976,2.0,Europe
+466,Germany,1977,1.5,Europe
+467,Germany,1978,1.0,Europe
+468,Germany,1979,1.6,Europe
+469,Germany,1980,1.8,Europe
+470,Germany,1981,2.0,Europe
+471,Germany,1982,2.1,Europe
+472,Germany,1983,2.2,Europe
+473,Germany,1984,2.3,Europe
+474,Germany,1985,2.3,Europe
+475,Germany,1986,2.3,Europe
+476,Germany,1987,2.3,Europe
+477,Germany,1988,2.3,Europe
+478,Germany,1989,2.2,Europe
+479,Germany,1990,1.9,Europe
+480,Germany,1991,1.7,Europe
+481,Germany,1992,1.7,Europe
+482,Germany,1993,1.9,Europe
+483,Germany,1994,2.0,Europe
+484,Germany,1995,2.1,Europe
+485,Germany,1996,2.1,Europe
+486,Germany,1997,2.3,Europe
+487,Germany,1998,2.3,Europe
+488,Germany,1999,2.3,Europe
+489,Germany,2000,2.4,Europe
+490,Germany,2001,2.4,Europe
+491,Germany,2002,2.5,Europe
+492,Germany,2003,2.6,Europe
+493,Germany,2004,2.6,Europe
+494,Germany,2005,2.4,Europe
+495,Germany,2006,2.3,Europe
+496,Germany,2007,2.3,Europe
+497,Germany,2008,2.3,Europe
+498,Germany,2009,2.3,Europe
+499,Germany,2010,2.3,Europe
+500,Germany,2011,2.3,Europe
+501,Germany,2012,2.2,Europe
+502,Germany,2013,2.1,Europe
+503,Germany,2014,2.1,Europe
+504,Germany,2015,2.0,Europe
+505,Germany,2016,2.0,Europe
+506,Germany,2017,1.9,Europe
+507,Greece,1960,0.3,Europe
+508,Greece,1961,0.3,Europe
+509,Greece,1962,0.4,Europe
+510,Greece,1963,0.4,Europe
+511,Greece,1964,0.4,Europe
+512,Greece,1965,0.4,Europe
+513,Greece,1966,0.4,Europe
+514,Greece,1967,0.4,Europe
+515,Greece,1968,0.4,Europe
+516,Greece,1969,0.4,Europe
+517,Greece,1970,0.4,Europe
+518,Greece,1971,0.4,Europe
+519,Greece,1972,0.4,Europe
+520,Greece,1973,0.5,Europe
+521,Greece,1974,0.4,Europe
+522,Greece,1975,0.4,Europe
+523,Greece,1976,0.4,Europe
+524,Greece,1977,0.5,Europe
+525,Greece,1978,0.5,Europe
+526,Greece,1979,0.5,Europe
+527,Greece,1980,0.7,Europe
+528,Greece,1981,0.7,Europe
+529,Greece,1982,0.6,Europe
+530,Greece,1983,0.6,Europe
+531,Greece,1984,0.9,Europe
+532,Greece,1985,0.8,Europe
+533,Greece,1986,0.9,Europe
+534,Greece,1987,0.9,Europe
+535,Greece,1988,0.8,Europe
+536,Greece,1989,0.6,Europe
+537,Greece,1990,0.6,Europe
+538,Greece,1991,0.6,Europe
+539,Greece,1992,0.6,Europe
+540,Greece,1993,0.7,Europe
+541,Greece,1994,0.7,Europe
+542,Greece,1995,1.0,Europe
+543,Greece,1996,0.9,Europe
+544,Greece,1997,0.9,Europe
+545,Greece,1998,0.7,Europe
+546,Greece,1999,0.9,Europe
+547,Greece,2000,1.0,Europe
+548,Greece,2001,1.0,Europe
+549,Greece,2002,1.0,Europe
+550,Greece,2003,1.1,Europe
+551,Greece,2004,1.1,Europe
+552,Greece,2005,1.2,Europe
+553,Greece,2006,1.2,Europe
+554,Greece,2007,1.2,Europe
+555,Greece,2008,1.2,Europe
+556,Greece,2009,1.2,Europe
+557,Greece,2010,1.2,Europe
+558,Greece,2011,1.1,Europe
+559,Greece,2012,1.3,Europe
+560,Greece,2013,1.5,Europe
+561,Greece,2014,1.3,Europe
+562,Greece,2015,1.4,Europe
+563,Greece,2016,1.0,Europe
+564,Greece,2017,1.8,Europe
+565,Hungary,1960,1.7,Europe
+566,Hungary,1961,1.7,Europe
+567,Hungary,1962,1.7,Europe
+568,Hungary,1963,1.8,Europe
+569,Hungary,1964,1.9,Europe
+570,Hungary,1965,2.0,Europe
+571,Hungary,1966,2.0,Europe
+572,Hungary,1967,2.1,Europe
+573,Hungary,1968,2.1,Europe
+574,Hungary,1969,2.1,Europe
+575,Hungary,1970,2.2,Europe
+576,Hungary,1971,2.3,Europe
+577,Hungary,1972,2.3,Europe
+578,Hungary,1973,2.4,Europe
+579,Hungary,1974,2.3,Europe
+580,Hungary,1975,2.5,Europe
+581,Hungary,1976,2.6,Europe
+582,Hungary,1977,2.6,Europe
+583,Hungary,1978,2.7,Europe
+584,Hungary,1979,2.6,Europe
+585,Hungary,1980,2.6,Europe
+586,Hungary,1981,2.6,Europe
+587,Hungary,1982,2.7,Europe
+588,Hungary,1983,2.7,Europe
+589,Hungary,1984,2.7,Europe
+590,Hungary,1985,2.8,Europe
+591,Hungary,1986,2.8,Europe
+592,Hungary,1987,2.8,Europe
+593,Hungary,1988,2.3,Europe
+594,Hungary,1989,2.4,Europe
+595,Hungary,1990,2.4,Europe
+596,Hungary,1991,2.4,Europe
+597,Hungary,1992,2.1,Europe
+598,Hungary,1993,2.2,Europe
+599,Hungary,1994,2.3,Europe
+600,Hungary,1995,2.4,Europe
+601,Hungary,1996,2.2,Europe
+602,Hungary,1997,2.4,Europe
+603,Hungary,1998,2.5,Europe
+604,Hungary,1999,2.5,Europe
+605,Hungary,2000,2.3,Europe
+606,Hungary,2001,2.4,Europe
+607,Hungary,2002,2.5,Europe
+608,Hungary,2003,2.5,Europe
+609,Hungary,2004,2.4,Europe
+610,Hungary,2005,2.5,Europe
+611,Hungary,2006,2.5,Europe
+612,Hungary,2007,2.5,Europe
+613,Hungary,2008,2.5,Europe
+614,Hungary,2009,2.4,Europe
+615,Hungary,2010,2.4,Europe
+616,Hungary,2011,2.3,Europe
+617,Hungary,2012,2.2,Europe
+618,Hungary,2013,2.0,Europe
+619,Hungary,2014,2.0,Europe
+620,Hungary,2015,2.1,Europe
+621,Hungary,2016,2.0,Europe
+622,Hungary,2017,1.9,Europe
+623,Iceland,1960,0.7,Europe
+624,Iceland,1961,0.9,Europe
+625,Iceland,1962,0.7,Europe
+626,Iceland,1963,1.1,Europe
+627,Iceland,1964,0.9,Europe
+628,Iceland,1965,0.9,Europe
+629,Iceland,1966,1.0,Europe
+630,Iceland,1967,0.9,Europe
+631,Iceland,1968,1.0,Europe
+632,Iceland,1969,1.3,Europe
+633,Iceland,1970,1.2,Europe
+634,Iceland,1971,1.5,Europe
+635,Iceland,1972,1.5,Europe
+636,Iceland,1973,1.6,Europe
+637,Iceland,1974,1.7,Europe
+638,Iceland,1975,1.8,Europe
+639,Iceland,1976,1.7,Europe
+640,Iceland,1977,1.8,Europe
+641,Iceland,1978,1.8,Europe
+642,Iceland,1979,1.7,Europe
+643,Iceland,1980,1.9,Europe
+644,Iceland,1981,2.0,Europe
+645,Iceland,1982,1.8,Europe
+646,Iceland,1983,2.1,Europe
+647,Iceland,1984,1.9,Europe
+648,Iceland,1985,2.2,Europe
+649,Iceland,1986,2.0,Europe
+650,Iceland,1987,1.9,Europe
+651,Iceland,1988,1.8,Europe
+652,Iceland,1989,2.1,Europe
+653,Iceland,1990,1.9,Europe
+654,Iceland,1991,2.1,Europe
+655,Iceland,1992,2.0,Europe
+656,Iceland,1993,2.0,Europe
+657,Iceland,1994,1.8,Europe
+658,Iceland,1995,1.8,Europe
+659,Iceland,1996,2.0,Europe
+660,Iceland,1997,1.9,Europe
+661,Iceland,1998,1.8,Europe
+662,Iceland,1999,1.7,Europe
+663,Iceland,2000,1.9,Europe
+664,Iceland,2001,1.9,Europe
+665,Iceland,2002,1.8,Europe
+666,Iceland,2003,1.8,Europe
+667,Iceland,2004,1.9,Europe
+668,Iceland,2005,1.9,Europe
+669,Iceland,2006,1.6,Europe
+670,Iceland,2007,1.7,Europe
+671,Iceland,2008,1.7,Europe
+672,Iceland,2009,1.7,Europe
+673,Iceland,2010,1.8,Europe
+674,Iceland,2011,1.6,Europe
+675,Ireland,1997,0.0,Europe
+676,Ireland,1998,0.4,Europe
+677,Ireland,1999,0.6,Europe
+678,Ireland,2000,0.7,Europe
+679,Ireland,2001,0.7,Europe
+680,Ireland,2002,0.7,Europe
+681,Ireland,2003,0.7,Europe
+682,Ireland,2004,0.8,Europe
+683,Ireland,2005,0.8,Europe
+684,Ireland,2006,0.9,Europe
+685,Ireland,2007,0.8,Europe
+686,Ireland,2008,0.8,Europe
+687,Ireland,2009,0.7,Europe
+688,Ireland,2010,0.7,Europe
+689,Ireland,2011,0.6,Europe
+690,Ireland,2012,0.6,Europe
+691,Ireland,2013,0.6,Europe
+692,Ireland,2014,0.6,Europe
+693,Ireland,2015,0.7,Europe
+694,Israel,1970,0.8211,Asia
+695,Israel,1985,1.2,Asia
+696,Israel,1986,1.2,Asia
+697,Israel,1987,1.2,Asia
+698,Israel,1988,1.3,Asia
+699,Israel,1989,1.3,Asia
+700,Israel,1990,1.4,Asia
+701,Israel,1991,1.3,Asia
+702,Israel,1992,1.4,Asia
+703,Israel,1993,1.4,Asia
+704,Israel,1994,1.5,Asia
+705,Israel,1995,1.6,Asia
+706,Israel,1996,1.5,Asia
+707,Israel,1997,1.6,Asia
+708,Israel,1998,1.7,Asia
+709,Israel,1999,1.7,Asia
+710,Israel,2000,1.7572926909210096,Asia
+711,Israel,2001,1.79505732156352,Asia
+712,Israel,2002,1.7,Asia
+713,Israel,2003,1.7,Asia
+714,Israel,2004,1.6,Asia
+715,Israel,2005,1.6,Asia
+716,Israel,2006,1.9,Asia
+717,Israel,2007,1.8,Asia
+718,Israel,2008,1.8,Asia
+719,Israel,2009,1.8,Asia
+720,Israel,2010,1.7,Asia
+721,Israel,2011,1.7,Asia
+722,Israel,2012,1.7,Asia
+723,Israel,2013,1.8,Asia
+724,Israel,2014,1.8,Asia
+725,Israel,2015,1.7,Asia
+726,Israel,2016,1.7,Asia
+727,Italy,1971,0.3,Europe
+728,Italy,1972,0.6,Europe
+729,Italy,1973,0.3,Europe
+730,Italy,1974,0.3,Europe
+731,Italy,1975,0.2,Europe
+732,Italy,1976,0.2,Europe
+733,Italy,1977,0.2,Europe
+734,Italy,1978,0.2,Europe
+735,Italy,1979,0.2,Europe
+736,Italy,1980,0.2,Europe
+737,Italy,1981,0.2,Europe
+738,Italy,1982,0.3,Europe
+739,Italy,1983,0.2,Europe
+740,Italy,1984,0.3,Europe
+741,Italy,1985,0.3,Europe
+742,Italy,1986,0.3,Europe
+743,Italy,1987,0.5,Europe
+744,Italy,1988,0.5,Europe
+745,Italy,1989,0.5,Europe
+746,Italy,1990,0.5,Europe
+747,Italy,1991,0.5,Europe
+748,Italy,1992,0.5,Europe
+749,Italy,1993,0.4,Europe
+750,Italy,1994,0.5,Europe
+751,Italy,1995,0.5,Europe
+752,Italy,1996,0.6,Europe
+753,Italy,1997,0.6,Europe
+754,Italy,1998,0.6,Europe
+755,Italy,1999,0.6,Europe
+756,Italy,2000,0.7,Europe
+757,Italy,2001,0.7,Europe
+758,Italy,2002,0.7,Europe
+759,Italy,2003,0.8,Europe
+760,Italy,2004,0.8,Europe
+761,Italy,2005,0.8,Europe
+762,Italy,2006,0.9,Europe
+763,Italy,2007,0.9,Europe
+764,Italy,2008,0.9,Europe
+765,Italy,2009,0.9,Europe
+766,Italy,2010,0.9,Europe
+767,Italy,2011,0.9,Europe
+768,Italy,2012,0.9,Europe
+769,Italy,2013,0.9,Europe
+770,Italy,2014,0.9,Europe
+771,Italy,2015,1.4,Europe
+772,Italy,2016,1.6,Europe
+773,Italy,2017,1.5,Europe
+774,Japan,1960,0.74,Asia
+775,Japan,1963,0.73,Asia
+776,Japan,1964,0.74,Asia
+777,Japan,1965,0.79,Asia
+778,Japan,1966,0.8,Asia
+779,Japan,1967,0.84,Asia
+780,Japan,1968,0.87,Asia
+781,Japan,1969,0.89,Asia
+782,Japan,1970,0.93,Asia
+783,Japan,1971,0.99,Asia
+784,Japan,1972,1.02,Asia
+785,Japan,1973,1.04,Asia
+786,Japan,1974,1.04,Asia
+787,Japan,1975,1.07,Asia
+788,Japan,1976,1.11,Asia
+789,Japan,1977,1.14,Asia
+790,Japan,1978,1.15,Asia
+791,Japan,1979,1.17,Asia
+792,Japan,1980,1.22,Asia
+793,Japan,1981,1.32,Asia
+794,Japan,1982,1.39,Asia
+795,Japan,1983,1.51,Asia
+796,Japan,1984,1.5,Asia
+797,Japan,1985,1.39,Asia
+798,Japan,1986,1.37,Asia
+799,Japan,1987,1.3,Asia
+800,Japan,1988,1.26,Asia
+801,Japan,1989,1.29,Asia
+802,Japan,1990,1.28,Asia
+803,Japan,1991,1.37,Asia
+804,Japan,1992,1.45,Asia
+805,Japan,1993,1.52,Asia
+806,Japan,1994,1.57,Asia
+807,Japan,1995,1.6,Asia
+808,Japan,1996,1.66,Asia
+809,Japan,1997,1.78,Asia
+810,Japan,1998,1.94,Asia
+811,Japan,1999,2.0,Asia
+812,Japan,2000,2.1,Asia
+813,Japan,2001,2.27,Asia
+814,Japan,2002,2.3,Asia
+815,Japan,2003,2.25,Asia
+816,Japan,2004,2.15,Asia
+817,Japan,2005,2.08,Asia
+818,Japan,2006,2.04,Asia
+819,Japan,2007,2.02,Asia
+820,Japan,2008,1.99,Asia
+821,Japan,2009,2.01,Asia
+822,Japan,2010,1.99,Asia
+823,Japan,2011,1.87,Asia
+824,Japan,2012,1.87,Asia
+825,Japan,2013,1.84,Asia
+826,Japan,2014,1.77,Asia
+827,Japan,2015,1.81,Asia
+828,Japan,2016,1.73,Asia
+829,Japan,2017,1.7,Asia
+830,Korea,1970,0.4,Asia
+831,Korea,1971,0.3,Asia
+832,Korea,1972,0.4,Asia
+833,Korea,1973,0.4,Asia
+834,Korea,1974,0.4,Asia
+835,Korea,1975,0.5,Asia
+836,Korea,1976,0.5,Asia
+837,Korea,1977,0.6,Asia
+838,Korea,1978,0.5,Asia
+839,Korea,1979,0.5,Asia
+840,Korea,1980,0.6,Asia
+841,Korea,1981,0.6,Asia
+842,Korea,1982,0.7,Asia
+843,Korea,1983,0.7,Asia
+844,Korea,1984,0.9,Asia
+845,Korea,1985,0.9,Asia
+846,Korea,1986,0.9,Asia
+847,Korea,1987,1.0,Asia
+848,Korea,1988,1.0,Asia
+849,Korea,1989,1.0,Asia
+850,Korea,1990,1.1,Asia
+851,Korea,1991,1.1,Asia
+852,Korea,1992,1.2,Asia
+853,Korea,1993,1.3,Asia
+854,Korea,1994,1.4,Asia
+855,Korea,1995,1.5,Asia
+856,Korea,1996,1.7,Asia
+857,Korea,1997,2.0,Asia
+858,Korea,1998,2.5,Asia
+859,Korea,1999,2.5,Asia
+860,Korea,2000,2.5,Asia
+861,Korea,2001,2.8,Asia
+862,Korea,2002,3.0,Asia
+863,Korea,2003,3.4,Asia
+864,Korea,2004,2.9,Asia
+865,Korea,2005,2.6,Asia
+866,Korea,2006,2.5,Asia
+867,Korea,2007,2.5,Asia
+868,Korea,2008,2.4,Asia
+869,Korea,2009,2.5,Asia
+870,Korea,2010,2.3,Asia
+871,Korea,2011,2.3,Asia
+872,Korea,2012,2.3,Asia
+873,Korea,2013,2.3,Asia
+874,Korea,2014,2.3,Asia
+875,Korea,2015,2.1,Asia
+876,Korea,2016,2.1,Asia
+877,Korea,2017,2.1,Asia
+878,Latvia,1960,2.4,Europe
+879,Latvia,1961,2.4,Europe
+880,Latvia,1962,2.5,Europe
+881,Latvia,1963,2.3,Europe
+882,Latvia,1964,2.3,Europe
+883,Latvia,1965,2.8,Europe
+884,Latvia,1966,4.8,Europe
+885,Latvia,1967,4.2,Europe
+886,Latvia,1968,4.3,Europe
+887,Latvia,1969,4.4,Europe
+888,Latvia,1970,4.6,Europe
+889,Latvia,1971,4.6,Europe
+890,Latvia,1972,4.5,Europe
+891,Latvia,1973,4.8,Europe
+892,Latvia,1974,4.9,Europe
+893,Latvia,1975,4.8,Europe
+894,Latvia,1976,5.0,Europe
+895,Latvia,1977,5.1,Europe
+896,Latvia,1978,5.1,Europe
+897,Latvia,1979,5.5,Europe
+898,Latvia,1980,5.0,Europe
+899,Latvia,1981,4.9,Europe
+900,Latvia,1982,4.8,Europe
+901,Latvia,1983,4.9,Europe
+902,Latvia,1984,4.7,Europe
+903,Latvia,1985,4.5,Europe
+904,Latvia,1986,4.3,Europe
+905,Latvia,1987,4.1,Europe
+906,Latvia,1988,4.1,Europe
+907,Latvia,1989,4.2,Europe
+908,Latvia,1990,4.0,Europe
+909,Latvia,1991,4.2,Europe
+910,Latvia,1992,5.6,Europe
+911,Latvia,1993,4.0,Europe
+912,Latvia,1994,3.3,Europe
+913,Latvia,1995,3.1,Europe
+914,Latvia,1996,2.5,Europe
+915,Latvia,1997,2.5,Europe
+916,Latvia,1998,2.6,Europe
+917,Latvia,1999,2.5,Europe
+918,Latvia,2000,2.6,Europe
+919,Latvia,2001,2.5,Europe
+920,Latvia,2002,2.6,Europe
+921,Latvia,2003,2.1,Europe
+922,Latvia,2004,2.3,Europe
+923,Latvia,2005,2.8,Europe
+924,Latvia,2006,3.3,Europe
+925,Latvia,2007,3.4,Europe
+926,Latvia,2008,2.9,Europe
+927,Latvia,2009,2.4,Europe
+928,Latvia,2010,2.4,Europe
+929,Latvia,2011,4.0,Europe
+930,Latvia,2012,3.6,Europe
+931,Latvia,2013,3.5,Europe
+932,Latvia,2014,3.1,Europe
+933,Latvia,2015,2.6,Europe
+934,Latvia,2016,3.1,Europe
+935,Latvia,2017,3.1,Europe
+936,Lithuania,1960,0.9,Europe
+937,Lithuania,1961,0.9,Europe
+938,Lithuania,1962,0.9,Europe
+939,Lithuania,1963,0.8,Europe
+940,Lithuania,1964,0.9,Europe
+941,Lithuania,1965,0.9,Europe
+942,Lithuania,1966,1.8,Europe
+943,Lithuania,1967,1.8,Europe
+944,Lithuania,1968,2.0,Europe
+945,Lithuania,1969,2.1,Europe
+946,Lithuania,1970,2.2,Europe
+947,Lithuania,1971,2.2,Europe
+948,Lithuania,1972,2.3,Europe
+949,Lithuania,1973,2.5,Europe
+950,Lithuania,1974,2.5,Europe
+951,Lithuania,1975,2.7,Europe
+952,Lithuania,1976,2.9,Europe
+953,Lithuania,1977,3.1,Europe
+954,Lithuania,1978,3.0,Europe
+955,Lithuania,1979,3.2,Europe
+956,Lithuania,1980,3.2,Europe
+957,Lithuania,1981,3.2,Europe
+958,Lithuania,1982,3.1,Europe
+959,Lithuania,1983,3.2,Europe
+960,Lithuania,1984,3.2,Europe
+961,Lithuania,1985,3.2,Europe
+962,Lithuania,1986,3.3,Europe
+963,Lithuania,1987,3.2,Europe
+964,Lithuania,1988,3.2,Europe
+965,Lithuania,1989,3.3,Europe
+966,Lithuania,1990,3.4,Europe
+967,Lithuania,1991,4.1,Europe
+968,Lithuania,1992,3.8,Europe
+969,Lithuania,1993,3.8,Europe
+970,Lithuania,1994,3.0,Europe
+971,Lithuania,1995,2.8,Europe
+972,Lithuania,1996,3.1,Europe
+973,Lithuania,1997,3.2,Europe
+974,Lithuania,1998,3.3,Europe
+975,Lithuania,1999,3.2,Europe
+976,Lithuania,2000,3.1,Europe
+977,Lithuania,2001,3.2,Europe
+978,Lithuania,2002,3.1,Europe
+979,Lithuania,2003,3.1,Europe
+980,Lithuania,2004,3.3,Europe
+981,Lithuania,2005,3.3,Europe
+982,Lithuania,2006,3.4,Europe
+983,Lithuania,2007,3.5,Europe
+984,Lithuania,2008,3.2,Europe
+985,Lithuania,2009,2.9,Europe
+986,Lithuania,2010,3.2,Europe
+987,Lithuania,2011,3.4,Europe
+988,Lithuania,2012,3.5,Europe
+989,Lithuania,2013,3.4,Europe
+990,Lithuania,2014,3.3,Europe
+991,Lithuania,2015,3.2,Europe
+992,Lithuania,2016,3.1,Europe
+993,Lithuania,2017,3.0,Europe
+994,Luxembourg,1960,0.5,Europe
+995,Luxembourg,1961,0.4,Europe
+996,Luxembourg,1962,0.4,Europe
+997,Luxembourg,1963,0.4,Europe
+998,Luxembourg,1964,0.4,Europe
+999,Luxembourg,1965,0.4,Europe
+1000,Luxembourg,1966,0.6,Europe
+1001,Luxembourg,1967,0.6,Europe
+1002,Luxembourg,1968,0.6,Europe
+1003,Luxembourg,1969,0.6,Europe
+1004,Luxembourg,1970,0.6,Europe
+1005,Luxembourg,1971,0.7,Europe
+1006,Luxembourg,1972,0.8,Europe
+1007,Luxembourg,1973,0.8,Europe
+1008,Luxembourg,1974,0.8,Europe
+1009,Luxembourg,1975,0.6,Europe
+1010,Luxembourg,1976,1.0,Europe
+1011,Luxembourg,1977,1.1,Europe
+1012,Luxembourg,1978,1.5,Europe
+1013,Luxembourg,1979,1.2,Europe
+1014,Luxembourg,1980,1.6,Europe
+1015,Luxembourg,1981,1.4,Europe
+1016,Luxembourg,1982,1.7,Europe
+1017,Luxembourg,1983,1.6,Europe
+1018,Luxembourg,1984,1.7,Europe
+1019,Luxembourg,1985,1.8,Europe
+1020,Luxembourg,1986,1.8,Europe
+1021,Luxembourg,1987,2.0,Europe
+1022,Luxembourg,1988,2.1,Europe
+1023,Luxembourg,1989,2.3,Europe
+1024,Luxembourg,1990,2.0,Europe
+1025,Luxembourg,1991,2.0,Europe
+1026,Luxembourg,1992,1.8,Europe
+1027,Luxembourg,1993,1.9,Europe
+1028,Luxembourg,1994,1.7,Europe
+1029,Luxembourg,1995,1.8,Europe
+1030,Luxembourg,1996,2.0,Europe
+1031,Luxembourg,1997,2.4,Europe
+1032,Luxembourg,1998,2.4,Europe
+1033,Luxembourg,1999,2.4,Europe
+1034,Luxembourg,2000,2.4,Europe
+1035,Luxembourg,2001,2.3,Europe
+1036,Luxembourg,2002,2.4,Europe
+1037,Luxembourg,2003,2.3,Europe
+1038,Luxembourg,2004,2.3,Europe
+1039,Luxembourg,2005,2.2,Europe
+1040,Luxembourg,2006,2.5,Europe
+1041,Luxembourg,2007,2.3,Europe
+1042,Luxembourg,2008,2.0,Europe
+1043,Luxembourg,2009,2.1,Europe
+1044,Luxembourg,2010,2.1,Europe
+1045,Luxembourg,2011,2.3,Europe
+1046,Luxembourg,2012,2.0,Europe
+1047,Luxembourg,2013,2.1,Europe
+1048,Luxembourg,2014,2.6,Europe
+1049,Luxembourg,2015,2.4,Europe
+1050,Luxembourg,2016,2.1,Europe
+1051,Luxembourg,2017,2.0,Europe
+1052,Mexico,1970,0.5968,North America
+1053,Mexico,1985,0.444,North America
+1054,Mexico,1992,0.58,North America
+1055,Mexico,1993,0.36,North America
+1056,Mexico,1994,0.35,North America
+1057,Mexico,1995,0.4109,North America
+1058,Mexico,1996,0.42,North America
+1059,Mexico,1997,0.43,North America
+1060,Mexico,1998,0.47,North America
+1061,Mexico,1999,0.5,North America
+1062,Mexico,2000,0.52,North America
+1063,Mexico,2001,0.58,North America
+1064,Mexico,2002,0.6,North America
+1065,Mexico,2003,0.63,North America
+1066,Mexico,2004,0.66,North America
+1067,Mexico,2005,0.6872,North America
+1068,Mexico,2006,0.690312235,North America
+1069,Mexico,2007,0.7302625065,North America
+1070,Mexico,2008,0.7672391085,North America
+1071,Mexico,2009,0.7838349946,North America
+1072,Mexico,2010,0.7530662265,North America
+1073,Mexico,2011,0.7890969667,North America
+1074,Mexico,2012,0.850113732,North America
+1075,Mexico,2013,0.9,North America
+1076,Mexico,2014,0.9,North America
+1077,Mexico,2015,1.0,North America
+1078,Mexico,2016,1.1,North America
+1079,Netherlands,1960,0.5,Europe
+1080,Netherlands,1961,0.5,Europe
+1081,Netherlands,1962,0.5,Europe
+1082,Netherlands,1963,0.5,Europe
+1083,Netherlands,1964,0.5,Europe
+1084,Netherlands,1965,0.5,Europe
+1085,Netherlands,1966,0.5,Europe
+1086,Netherlands,1967,0.6,Europe
+1087,Netherlands,1968,0.6,Europe
+1088,Netherlands,1969,0.7,Europe
+1089,Netherlands,1970,0.8,Europe
+1090,Netherlands,1971,0.9,Europe
+1091,Netherlands,1972,1.1,Europe
+1092,Netherlands,1973,1.3,Europe
+1093,Netherlands,1974,1.4,Europe
+1094,Netherlands,1975,1.5,Europe
+1095,Netherlands,1976,1.5,Europe
+1096,Netherlands,1977,1.6,Europe
+1097,Netherlands,1978,1.6,Europe
+1098,Netherlands,1979,1.7,Europe
+1099,Netherlands,1980,1.8,Europe
+1100,Netherlands,1981,2.0,Europe
+1101,Netherlands,1982,2.2,Europe
+1102,Netherlands,1983,2.3,Europe
+1103,Netherlands,1984,2.4,Europe
+1104,Netherlands,1985,2.3,Europe
+1105,Netherlands,1986,2.0,Europe
+1106,Netherlands,1987,1.9,Europe
+1107,Netherlands,1988,1.9,Europe
+1108,Netherlands,1989,1.9,Europe
+1109,Netherlands,1990,1.9,Europe
+1110,Netherlands,1991,1.9,Europe
+1111,Netherlands,1992,2.0,Europe
+1112,Netherlands,1993,2.0,Europe
+1113,Netherlands,1994,2.4,Europe
+1114,Netherlands,1995,2.2,Europe
+1115,Netherlands,1996,2.2,Europe
+1116,Netherlands,1997,2.2,Europe
+1117,Netherlands,1998,2.1,Europe
+1118,Netherlands,1999,2.1,Europe
+1119,Netherlands,2000,2.2,Europe
+1120,Netherlands,2001,2.3,Europe
+1121,Netherlands,2002,2.1,Europe
+1122,Netherlands,2003,1.9,Europe
+1123,Netherlands,2004,1.9,Europe
+1124,Netherlands,2005,2.0,Europe
+1125,Netherlands,2006,1.9,Europe
+1126,Netherlands,2007,2.0,Europe
+1127,Netherlands,2008,2.0,Europe
+1128,Netherlands,2009,1.9,Europe
+1129,Netherlands,2010,2.0,Europe
+1130,Netherlands,2011,2.0,Europe
+1131,Netherlands,2012,2.1,Europe
+1132,Netherlands,2013,2.0,Europe
+1133,Netherlands,2014,2.1,Europe
+1134,Netherlands,2015,2.0,Europe
+1135,Netherlands,2016,2.0,Europe
+1136,Netherlands,2017,1.9,Europe
+1137,New Zealand,1970,1.1157,Oceania
+1138,New Zealand,1985,2.6334,Oceania
+1139,New Zealand,1992,2.65,Oceania
+1140,New Zealand,1995,2.6063,Oceania
+1141,New Zealand,1996,2.69,Oceania
+1142,New Zealand,1997,2.59,Oceania
+1143,New Zealand,1998,2.64,Oceania
+1144,New Zealand,1999,2.59,Oceania
+1145,New Zealand,2000,2.51,Oceania
+1146,New Zealand,2001,2.5,Oceania
+1147,New Zealand,2002,2.61,Oceania
+1148,New Zealand,2003,2.62,Oceania
+1149,New Zealand,2004,2.61,Oceania
+1150,New Zealand,2005,2.4328,Oceania
+1151,New Zealand,2006,2.4292,Oceania
+1152,New Zealand,2007,2.2822410898,Oceania
+1153,New Zealand,2008,2.2752934011,Oceania
+1154,New Zealand,2009,2.0244218917,Oceania
+1155,New Zealand,2010,2.0316864325,Oceania
+1156,New Zealand,2011,1.9411150459,Oceania
+1157,New Zealand,2012,1.9817279495,Oceania
+1158,New Zealand,2013,1.9,Oceania
+1159,New Zealand,2014,1.8,Oceania
+1160,New Zealand,2015,1.9,Oceania
+1161,New Zealand,2016,1.7,Oceania
+1162,Norway,1960,0.7,Europe
+1163,Norway,1961,0.7,Europe
+1164,Norway,1962,0.7,Europe
+1165,Norway,1963,0.7,Europe
+1166,Norway,1964,0.7,Europe
+1167,Norway,1965,0.7,Europe
+1168,Norway,1966,0.7,Europe
+1169,Norway,1967,0.8,Europe
+1170,Norway,1968,0.8,Europe
+1171,Norway,1969,0.8,Europe
+1172,Norway,1970,0.9,Europe
+1173,Norway,1971,1.0,Europe
+1174,Norway,1972,1.0,Europe
+1175,Norway,1973,1.2,Europe
+1176,Norway,1974,1.3,Europe
+1177,Norway,1975,1.4,Europe
+1178,Norway,1976,1.4,Europe
+1179,Norway,1977,1.5,Europe
+1180,Norway,1978,1.5,Europe
+1181,Norway,1979,1.6,Europe
+1182,Norway,1980,1.6,Europe
+1183,Norway,1981,1.7,Europe
+1184,Norway,1982,1.7,Europe
+1185,Norway,1983,1.9,Europe
+1186,Norway,1984,1.9,Europe
+1187,Norway,1985,2.0,Europe
+1188,Norway,1986,1.9,Europe
+1189,Norway,1987,2.0,Europe
+1190,Norway,1988,2.1,Europe
+1191,Norway,1989,2.2,Europe
+1192,Norway,1990,2.4,Europe
+1193,Norway,1991,2.4,Europe
+1194,Norway,1992,2.4,Europe
+1195,Norway,1993,2.5,Europe
+1196,Norway,1994,2.5,Europe
+1197,Norway,1995,2.4,Europe
+1198,Norway,1996,2.3,Europe
+1199,Norway,1997,2.3,Europe
+1200,Norway,1998,2.1,Europe
+1201,Norway,1999,2.0,Europe
+1202,Norway,2000,2.2,Europe
+1203,Norway,2001,2.3,Europe
+1204,Norway,2002,2.3,Europe
+1205,Norway,2003,2.4,Europe
+1206,Norway,2004,2.4,Europe
+1207,Norway,2005,2.4,Europe
+1208,Norway,2006,2.3,Europe
+1209,Norway,2007,2.2,Europe
+1210,Norway,2008,2.1,Europe
+1211,Norway,2009,2.1,Europe
+1212,Norway,2010,2.1,Europe
+1213,Norway,2011,2.1,Europe
+1214,Norway,2012,2.0,Europe
+1215,Norway,2013,2.0,Europe
+1216,Norway,2014,1.9,Europe
+1217,Norway,2015,1.9,Europe
+1218,Norway,2016,1.9,Europe
+1219,Norway,2017,2.0,Europe
+1220,Poland,1960,0.5,Europe
+1221,Poland,1961,0.6,Europe
+1222,Poland,1962,0.6,Europe
+1223,Poland,1963,0.6,Europe
+1224,Poland,1964,0.7,Europe
+1225,Poland,1965,0.7,Europe
+1226,Poland,1966,0.8,Europe
+1227,Poland,1967,0.8,Europe
+1228,Poland,1968,0.9,Europe
+1229,Poland,1969,1.0,Europe
+1230,Poland,1970,1.1,Europe
+1231,Poland,1971,1.1,Europe
+1232,Poland,1972,1.1,Europe
+1233,Poland,1973,1.2,Europe
+1234,Poland,1974,1.2,Europe
+1235,Poland,1975,1.2,Europe
+1236,Poland,1976,1.1,Europe
+1237,Poland,1977,1.2,Europe
+1238,Poland,1978,1.0,Europe
+1239,Poland,1979,1.1,Europe
+1240,Poland,1980,1.1,Europe
+1241,Poland,1981,1.1,Europe
+1242,Poland,1982,1.3,Europe
+1243,Poland,1983,1.3,Europe
+1244,Poland,1984,1.4,Europe
+1245,Poland,1985,1.3,Europe
+1246,Poland,1986,1.4,Europe
+1247,Poland,1987,1.3,Europe
+1248,Poland,1988,1.3,Europe
+1249,Poland,1989,1.2,Europe
+1250,Poland,1990,1.1,Europe
+1251,Poland,1991,0.9,Europe
+1252,Poland,1992,0.8,Europe
+1253,Poland,1993,0.7,Europe
+1254,Poland,1994,0.8,Europe
+1255,Poland,1995,1.0,Europe
+1256,Poland,1996,1.0,Europe
+1257,Poland,1997,1.1,Europe
+1258,Poland,1998,1.2,Europe
+1259,Poland,1999,1.1,Europe
+1260,Poland,2000,1.1,Europe
+1261,Poland,2001,1.2,Europe
+1262,Poland,2002,1.2,Europe
+1263,Poland,2003,1.3,Europe
+1264,Poland,2004,1.5,Europe
+1265,Poland,2005,1.8,Europe
+1266,Poland,2006,1.9,Europe
+1267,Poland,2007,1.7,Europe
+1268,Poland,2008,1.7,Europe
+1269,Poland,2009,1.7,Europe
+1270,Poland,2010,1.6,Europe
+1271,Poland,2011,1.7,Europe
+1272,Poland,2012,1.7,Europe
+1273,Poland,2013,1.7,Europe
+1274,Poland,2014,1.7,Europe
+1275,Poland,2015,1.8,Europe
+1276,Poland,2016,1.7,Europe
+1277,Poland,2017,1.7,Europe
+1278,Portugal,1960,0.1,Europe
+1279,Portugal,1961,0.1,Europe
+1280,Portugal,1962,0.1,Europe
+1281,Portugal,1963,0.1,Europe
+1282,Portugal,1964,0.1,Europe
+1283,Portugal,1965,0.1,Europe
+1284,Portugal,1966,0.1,Europe
+1285,Portugal,1967,0.1,Europe
+1286,Portugal,1968,0.1,Europe
+1287,Portugal,1969,0.1,Europe
+1288,Portugal,1970,0.1,Europe
+1289,Portugal,1971,0.1,Europe
+1290,Portugal,1972,0.1,Europe
+1291,Portugal,1973,0.1,Europe
+1292,Portugal,1974,0.1,Europe
+1293,Portugal,1975,0.2,Europe
+1294,Portugal,1976,0.5,Europe
+1295,Portugal,1977,0.8,Europe
+1296,Portugal,1978,0.7,Europe
+1297,Portugal,1979,0.6,Europe
+1298,Portugal,1980,0.6,Europe
+1299,Portugal,1981,0.7,Europe
+1300,Portugal,1982,0.7,Europe
+1301,Portugal,1983,0.8,Europe
+1302,Portugal,1984,0.7,Europe
+1303,Portugal,1985,0.9,Europe
+1304,Portugal,1986,0.8,Europe
+1305,Portugal,1987,0.9,Europe
+1306,Portugal,1988,0.9,Europe
+1307,Portugal,1989,1.0,Europe
+1308,Portugal,1990,0.9,Europe
+1309,Portugal,1991,1.1,Europe
+1310,Portugal,1992,1.2,Europe
+1311,Portugal,1993,1.2,Europe
+1312,Portugal,1994,1.4,Europe
+1313,Portugal,1995,1.2,Europe
+1314,Portugal,1996,1.3,Europe
+1315,Portugal,1997,1.4,Europe
+1316,Portugal,1998,1.5,Europe
+1317,Portugal,1999,1.7,Europe
+1318,Portugal,2000,1.9,Europe
+1319,Portugal,2001,1.8,Europe
+1320,Portugal,2002,2.7,Europe
+1321,Portugal,2003,2.2,Europe
+1322,Portugal,2004,2.2,Europe
+1323,Portugal,2005,2.2,Europe
+1324,Portugal,2006,2.3,Europe
+1325,Portugal,2007,2.4,Europe
+1326,Portugal,2008,2.5,Europe
+1327,Portugal,2009,2.5,Europe
+1328,Portugal,2010,2.6,Europe
+1329,Portugal,2011,2.5,Europe
+1330,Portugal,2012,2.4,Europe
+1331,Portugal,2013,2.2,Europe
+1332,Portugal,2014,2.1,Europe
+1333,Portugal,2015,2.3,Europe
+1334,Portugal,2016,2.2,Europe
+1335,Portugal,2017,2.1,Europe
+1336,Slovak Republic,1960,0.6,Europe
+1337,Slovak Republic,1961,0.6,Europe
+1338,Slovak Republic,1962,0.6,Europe
+1339,Slovak Republic,1963,0.5,Europe
+1340,Slovak Republic,1964,0.5,Europe
+1341,Slovak Republic,1965,0.6,Europe
+1342,Slovak Republic,1966,0.6,Europe
+1343,Slovak Republic,1967,0.6,Europe
+1344,Slovak Republic,1968,0.7,Europe
+1345,Slovak Republic,1969,0.7,Europe
+1346,Slovak Republic,1970,0.8,Europe
+1347,Slovak Republic,1971,1.0,Europe
+1348,Slovak Republic,1972,0.9,Europe
+1349,Slovak Republic,1973,0.9,Europe
+1350,Slovak Republic,1974,1.2,Europe
+1351,Slovak Republic,1975,1.3,Europe
+1352,Slovak Republic,1976,1.3,Europe
+1353,Slovak Republic,1977,1.2,Europe
+1354,Slovak Republic,1978,1.3,Europe
+1355,Slovak Republic,1979,1.2,Europe
+1356,Slovak Republic,1980,1.3,Europe
+1357,Slovak Republic,1981,1.4,Europe
+1358,Slovak Republic,1982,1.3,Europe
+1359,Slovak Republic,1983,1.4,Europe
+1360,Slovak Republic,1984,1.3,Europe
+1361,Slovak Republic,1985,1.5,Europe
+1362,Slovak Republic,1986,1.6,Europe
+1363,Slovak Republic,1987,1.6,Europe
+1364,Slovak Republic,1988,1.6,Europe
+1365,Slovak Republic,1989,1.6,Europe
+1366,Slovak Republic,1990,1.7,Europe
+1367,Slovak Republic,1991,1.5,Europe
+1368,Slovak Republic,1992,1.5,Europe
+1369,Slovak Republic,1993,1.5,Europe
+1370,Slovak Republic,1994,1.6,Europe
+1371,Slovak Republic,1995,1.7,Europe
+1372,Slovak Republic,1996,1.7,Europe
+1373,Slovak Republic,1997,1.7,Europe
+1374,Slovak Republic,1998,1.7,Europe
+1375,Slovak Republic,1999,1.8,Europe
+1376,Slovak Republic,2000,1.7,Europe
+1377,Slovak Republic,2001,1.8,Europe
+1378,Slovak Republic,2002,2.0,Europe
+1379,Slovak Republic,2003,2.0,Europe
+1380,Slovak Republic,2004,2.0,Europe
+1381,Slovak Republic,2005,2.2,Europe
+1382,Slovak Republic,2006,2.4,Europe
+1383,Slovak Republic,2007,2.3,Europe
+1384,Slovak Republic,2008,2.4,Europe
+1385,Slovak Republic,2009,2.4,Europe
+1386,Slovak Republic,2010,2.2,Europe
+1387,Slovak Republic,2011,2.1,Europe
+1388,Slovak Republic,2012,2.0,Europe
+1389,Slovak Republic,2013,2.0,Europe
+1390,Slovak Republic,2014,1.9,Europe
+1391,Slovak Republic,2015,1.8,Europe
+1392,Slovak Republic,2016,1.7,Europe
+1393,Slovak Republic,2017,1.8,Europe
+1394,Slovenia,1960,1.0,Europe
+1395,Slovenia,1961,1.0,Europe
+1396,Slovenia,1962,1.0,Europe
+1397,Slovenia,1963,1.0,Europe
+1398,Slovenia,1964,1.0,Europe
+1399,Slovenia,1965,1.1,Europe
+1400,Slovenia,1966,1.1,Europe
+1401,Slovenia,1967,1.2,Europe
+1402,Slovenia,1968,1.2,Europe
+1403,Slovenia,1969,1.2,Europe
+1404,Slovenia,1970,1.1,Europe
+1405,Slovenia,1971,1.1,Europe
+1406,Slovenia,1972,1.1,Europe
+1407,Slovenia,1973,1.2,Europe
+1408,Slovenia,1974,1.2,Europe
+1409,Slovenia,1975,1.2,Europe
+1410,Slovenia,1976,1.2,Europe
+1411,Slovenia,1977,1.3,Europe
+1412,Slovenia,1978,1.4,Europe
+1413,Slovenia,1979,1.2,Europe
+1414,Slovenia,1980,1.2,Europe
+1415,Slovenia,1981,1.3,Europe
+1416,Slovenia,1982,1.3,Europe
+1417,Slovenia,1983,1.4,Europe
+1418,Slovenia,1984,1.3,Europe
+1419,Slovenia,1985,1.3,Europe
+1420,Slovenia,1986,1.2,Europe
+1421,Slovenia,1987,1.1,Europe
+1422,Slovenia,1988,1.0,Europe
+1423,Slovenia,1989,1.1,Europe
+1424,Slovenia,1990,0.9,Europe
+1425,Slovenia,1991,0.9,Europe
+1426,Slovenia,1992,1.0,Europe
+1427,Slovenia,1993,1.0,Europe
+1428,Slovenia,1994,1.0,Europe
+1429,Slovenia,1995,0.8,Europe
+1430,Slovenia,1996,1.0,Europe
+1431,Slovenia,1997,1.0,Europe
+1432,Slovenia,1998,1.0,Europe
+1433,Slovenia,1999,1.0,Europe
+1434,Slovenia,2000,1.1,Europe
+1435,Slovenia,2001,1.1,Europe
+1436,Slovenia,2002,1.2,Europe
+1437,Slovenia,2003,1.2,Europe
+1438,Slovenia,2004,1.2,Europe
+1439,Slovenia,2005,1.3,Europe
+1440,Slovenia,2006,1.2,Europe
+1441,Slovenia,2007,1.3,Europe
+1442,Slovenia,2008,1.1,Europe
+1443,Slovenia,2009,1.1,Europe
+1444,Slovenia,2010,1.2,Europe
+1445,Slovenia,2011,1.1,Europe
+1446,Slovenia,2012,1.2,Europe
+1447,Slovenia,2013,1.1,Europe
+1448,Slovenia,2014,1.2,Europe
+1449,Slovenia,2015,1.2,Europe
+1450,Slovenia,2016,1.2,Europe
+1451,Slovenia,2017,1.2,Europe
+1452,Spain,1981,0.3,Europe
+1453,Spain,1982,0.6,Europe
+1454,Spain,1983,0.5,Europe
+1455,Spain,1984,0.5,Europe
+1456,Spain,1985,0.5,Europe
+1457,Spain,1986,0.5,Europe
+1458,Spain,1987,0.5,Europe
+1459,Spain,1988,0.6,Europe
+1460,Spain,1989,0.6,Europe
+1461,Spain,1990,0.6,Europe
+1462,Spain,1991,0.7,Europe
+1463,Spain,1992,0.7,Europe
+1464,Spain,1993,0.7,Europe
+1465,Spain,1994,0.8,Europe
+1466,Spain,1995,0.8,Europe
+1467,Spain,1996,0.8,Europe
+1468,Spain,1997,0.9,Europe
+1469,Spain,1998,0.9,Europe
+1470,Spain,1999,0.9,Europe
+1471,Spain,2000,0.9,Europe
+1472,Spain,2001,1.0,Europe
+1473,Spain,2002,1.0,Europe
+1474,Spain,2003,1.1,Europe
+1475,Spain,2004,1.2,Europe
+1476,Spain,2005,1.7,Europe
+1477,Spain,2006,2.9,Europe
+1478,Spain,2007,2.8,Europe
+1479,Spain,2008,2.4,Europe
+1480,Spain,2009,2.1,Europe
+1481,Spain,2010,2.2,Europe
+1482,Spain,2011,2.2,Europe
+1483,Spain,2012,2.2,Europe
+1484,Spain,2013,2.0,Europe
+1485,Spain,2014,2.2,Europe
+1486,Spain,2015,2.1,Europe
+1487,Spain,2016,2.1,Europe
+1488,Spain,2017,2.1,Europe
+1489,Sweden,1960,1.2,Europe
+1490,Sweden,1961,1.2,Europe
+1491,Sweden,1962,1.2,Europe
+1492,Sweden,1963,1.1,Europe
+1493,Sweden,1964,1.2,Europe
+1494,Sweden,1965,1.2,Europe
+1495,Sweden,1966,1.3,Europe
+1496,Sweden,1967,1.4,Europe
+1497,Sweden,1968,1.4,Europe
+1498,Sweden,1969,1.5,Europe
+1499,Sweden,1970,1.6,Europe
+1500,Sweden,1971,1.7,Europe
+1501,Sweden,1972,1.9,Europe
+1502,Sweden,1973,2.0,Europe
+1503,Sweden,1974,3.3,Europe
+1504,Sweden,1975,3.1,Europe
+1505,Sweden,1976,2.6,Europe
+1506,Sweden,1977,2.5,Europe
+1507,Sweden,1978,2.5,Europe
+1508,Sweden,1979,2.5,Europe
+1509,Sweden,1980,2.4,Europe
+1510,Sweden,1981,2.4,Europe
+1511,Sweden,1982,2.5,Europe
+1512,Sweden,1983,2.5,Europe
+1513,Sweden,1984,2.4,Europe
+1514,Sweden,1985,2.4,Europe
+1515,Sweden,1986,2.3,Europe
+1516,Sweden,1987,2.2,Europe
+1517,Sweden,1988,2.1,Europe
+1518,Sweden,1989,2.2,Europe
+1519,Sweden,1990,2.3,Europe
+1520,Sweden,1991,2.3,Europe
+1521,Sweden,1992,2.5,Europe
+1522,Sweden,1993,2.5,Europe
+1523,Sweden,1994,2.5,Europe
+1524,Sweden,1995,2.6,Europe
+1525,Sweden,1996,2.4,Europe
+1526,Sweden,1997,2.4,Europe
+1527,Sweden,1998,2.3,Europe
+1528,Sweden,1999,2.4,Europe
+1529,Sweden,2000,2.4,Europe
+1530,Sweden,2001,2.4,Europe
+1531,Sweden,2002,2.4,Europe
+1532,Sweden,2003,2.4,Europe
+1533,Sweden,2004,2.2,Europe
+1534,Sweden,2005,2.2,Europe
+1535,Sweden,2006,2.2,Europe
+1536,Sweden,2007,2.3,Europe
+1537,Sweden,2008,2.3,Europe
+1538,Sweden,2009,2.4,Europe
+1539,Sweden,2010,2.5,Europe
+1540,Sweden,2011,2.5,Europe
+1541,Sweden,2012,2.5,Europe
+1542,Sweden,2013,2.8,Europe
+1543,Sweden,2014,2.7,Europe
+1544,Sweden,2015,2.5,Europe
+1545,Sweden,2016,2.4,Europe
+1546,Sweden,2017,2.4,Europe
+1547,Switzerland,1960,0.9,Europe
+1548,Switzerland,1961,0.9,Europe
+1549,Switzerland,1962,0.8,Europe
+1550,Switzerland,1963,0.8,Europe
+1551,Switzerland,1964,0.8,Europe
+1552,Switzerland,1965,0.8,Europe
+1553,Switzerland,1966,0.8,Europe
+1554,Switzerland,1967,0.9,Europe
+1555,Switzerland,1968,0.9,Europe
+1556,Switzerland,1969,1.0,Europe
+1557,Switzerland,1970,1.0,Europe
+1558,Switzerland,1971,1.1,Europe
+1559,Switzerland,1972,1.2,Europe
+1560,Switzerland,1973,1.3,Europe
+1561,Switzerland,1974,1.3,Europe
+1562,Switzerland,1975,1.4,Europe
+1563,Switzerland,1976,1.5,Europe
+1564,Switzerland,1977,1.7,Europe
+1565,Switzerland,1978,1.7,Europe
+1566,Switzerland,1979,1.7,Europe
+1567,Switzerland,1980,1.7,Europe
+1568,Switzerland,1981,1.8,Europe
+1569,Switzerland,1982,1.8,Europe
+1570,Switzerland,1983,1.8,Europe
+1571,Switzerland,1984,1.7,Europe
+1572,Switzerland,1985,1.8,Europe
+1573,Switzerland,1986,1.8,Europe
+1574,Switzerland,1987,1.8,Europe
+1575,Switzerland,1988,1.9,Europe
+1576,Switzerland,1989,1.9,Europe
+1577,Switzerland,1990,2.0,Europe
+1578,Switzerland,1991,2.0,Europe
+1579,Switzerland,1992,2.1,Europe
+1580,Switzerland,1993,2.2,Europe
+1581,Switzerland,1994,2.2,Europe
+1582,Switzerland,1995,2.2,Europe
+1583,Switzerland,1996,2.3,Europe
+1584,Switzerland,1997,2.4,Europe
+1585,Switzerland,1998,2.5,Europe
+1586,Switzerland,1999,2.9,Europe
+1587,Switzerland,2000,1.5,Europe
+1588,Switzerland,2001,2.2,Europe
+1589,Switzerland,2002,2.2,Europe
+1590,Switzerland,2003,2.3,Europe
+1591,Switzerland,2004,2.4,Europe
+1592,Switzerland,2005,2.9,Europe
+1593,Switzerland,2006,2.8,Europe
+1594,Switzerland,2007,2.6,Europe
+1595,Switzerland,2008,2.6,Europe
+1596,Switzerland,2009,2.5,Europe
+1597,Switzerland,2010,2.8,Europe
+1598,Switzerland,2011,2.2,Europe
+1599,Switzerland,2012,2.2,Europe
+1600,Switzerland,2013,2.1,Europe
+1601,Switzerland,2014,2.0,Europe
+1602,Switzerland,2015,2.1,Europe
+1603,Switzerland,2016,2.0,Europe
+1604,Switzerland,2017,1.9,Europe
+1605,Turkey,2003,0.8,Asia
+1606,Turkey,2004,1.3,Asia
+1607,Turkey,2005,1.4,Asia
+1608,Turkey,2006,1.3,Asia
+1609,Turkey,2007,1.3,Asia
+1610,Turkey,2008,1.4,Asia
+1611,Turkey,2009,1.6,Asia
+1612,Turkey,2010,1.6,Asia
+1613,Turkey,2011,1.6,Asia
+1614,Turkey,2012,1.6,Asia
+1615,Turkey,2013,1.6,Asia
+1616,Turkey,2014,1.7,Asia
+1617,Turkey,2015,1.7,Asia
+1618,Turkey,2016,1.6,Asia
+1619,Turkey,2017,1.6,Asia
+1620,United Kingdom,1965,0.7,Europe
+1621,United Kingdom,1966,0.7,Europe
+1622,United Kingdom,1967,0.8,Europe
+1623,United Kingdom,1968,0.8,Europe
+1624,United Kingdom,1969,0.9,Europe
+1625,United Kingdom,1970,1.0,Europe
+1626,United Kingdom,1971,1.3,Europe
+1627,United Kingdom,1972,2.1,Europe
+1628,United Kingdom,1973,1.9,Europe
+1629,United Kingdom,1974,2.0,Europe
+1630,United Kingdom,1975,2.1,Europe
+1631,United Kingdom,1976,2.3,Europe
+1632,United Kingdom,1977,2.3,Europe
+1633,United Kingdom,1978,2.6,Europe
+1634,United Kingdom,1979,2.5,Europe
+1635,United Kingdom,1980,2.6,Europe
+1636,United Kingdom,1981,2.6,Europe
+1637,United Kingdom,1982,2.6,Europe
+1638,United Kingdom,1983,2.6,Europe
+1639,United Kingdom,1984,2.6,Europe
+1640,United Kingdom,1985,2.8,Europe
+1641,United Kingdom,1986,2.7,Europe
+1642,United Kingdom,1987,2.7,Europe
+1643,United Kingdom,1988,2.7,Europe
+1644,United Kingdom,1989,2.6,Europe
+1645,United Kingdom,1990,2.7,Europe
+1646,United Kingdom,1991,2.8,Europe
+1647,United Kingdom,1992,2.8,Europe
+1648,United Kingdom,1993,2.9,Europe
+1649,United Kingdom,1994,2.7,Europe
+1650,United Kingdom,1995,2.9,Europe
+1651,United Kingdom,1996,3.0,Europe
+1652,United Kingdom,1997,2.8,Europe
+1653,United Kingdom,1998,2.7,Europe
+1654,United Kingdom,1999,2.7,Europe
+1655,United Kingdom,2000,2.6,Europe
+1656,United Kingdom,2001,2.7,Europe
+1657,United Kingdom,2002,2.7,Europe
+1658,United Kingdom,2003,2.8,Europe
+1659,United Kingdom,2004,2.8,Europe
+1660,United Kingdom,2005,2.6,Europe
+1661,United Kingdom,2006,2.4,Europe
+1662,United Kingdom,2007,2.3,Europe
+1663,United Kingdom,2008,2.2,Europe
+1664,United Kingdom,2009,2.0,Europe
+1665,United Kingdom,2010,2.1,Europe
+1666,United Kingdom,2011,2.1,Europe
+1667,United Kingdom,2012,2.0,Europe
+1668,United Kingdom,2013,2.0,Europe
+1669,United Kingdom,2014,1.9,Europe
+1670,United Kingdom,2015,1.7,Europe
+1671,United Kingdom,2016,1.8,Europe
+1672,United States,1970,3.4836,North America
+1673,United States,1985,5.0016,North America
+1674,United States,1992,4.76,North America
+1675,United States,1993,4.6,North America
+1676,United States,1994,4.57,North America
+1677,United States,1995,4.3901,North America
+1678,United States,1996,4.33,North America
+1679,United States,1997,4.34,North America
+1680,United States,1998,4.19,North America
+1681,United States,2000,4.0,North America
+1682,United States,2001,4.0,North America
+1683,United States,2002,3.9,North America
+1684,United States,2003,3.8,North America
+1685,United States,2004,3.7,North America
+1686,United States,2005,3.6,North America
+1687,United States,2006,3.7,North America
+1688,United States,2007,3.6,North America
+1689,United States,2008,3.5,North America
+1690,United States,2009,3.5,North America
+1691,United States,2010,3.6,North America
+1692,United States,2011,3.6,North America
+1693,United States,2012,3.4,North America
+1694,United States,2013,3.3,North America
+1695,United States,2014,3.2,North America
+1696,United States,2015,3.1,North America
+1697,United States,2016,3.0,North America
+1698,United States,2017,2.9,North America
+1699,Costa Rica,2010,2.5,North America
+1700,Costa Rica,2012,2.5,North America
+1701,Costa Rica,2013,2.8,North America
+1702,Costa Rica,2014,2.3,North America
+1703,Costa Rica,2015,2.1,North America
+1704,Costa Rica,2016,2.7,North America
+1705,Costa Rica,2017,2.6,North America
+1706,China,2010,2.0,Asia
+1707,China,2011,1.6,Asia
+1708,China,2012,1.8,Asia
+1709,Russian Federation,2010,4.5,Europe
+1710,Russian Federation,2011,4.7,Europe
+1711,Russian Federation,2012,4.5,Europe
+1712,Russian Federation,2013,4.7,Europe
+1713,Bulgaria,1961,1.1,Europe
+1714,Bulgaria,1962,1.0,Europe
+1715,Bulgaria,1963,1.0,Europe
+1716,Bulgaria,1964,1.1,Europe
+1717,Bulgaria,1965,1.1,Europe
+1718,Bulgaria,1966,1.0,Europe
+1719,Bulgaria,1967,1.2,Europe
+1720,Bulgaria,1968,1.2,Europe
+1721,Bulgaria,1969,1.1,Europe
+1722,Bulgaria,1970,1.2,Europe
+1723,Bulgaria,1971,1.1,Europe
+1724,Bulgaria,1972,1.2,Europe
+1725,Bulgaria,1973,1.3,Europe
+1726,Bulgaria,1974,1.3,Europe
+1727,Bulgaria,1975,1.3,Europe
+1728,Bulgaria,1976,1.3,Europe
+1729,Bulgaria,1977,1.5,Europe
+1730,Bulgaria,1978,1.4,Europe
+1731,Bulgaria,1979,1.4,Europe
+1732,Bulgaria,1980,1.5,Europe
+1733,Bulgaria,1981,1.5,Europe
+1734,Bulgaria,1982,1.5,Europe
+1735,Bulgaria,1983,1.6,Europe
+1736,Bulgaria,1984,1.5,Europe
+1737,Bulgaria,1985,1.6,Europe
+1738,Bulgaria,1986,1.1,Europe
+1739,Bulgaria,1987,1.3,Europe
+1740,Bulgaria,1988,1.4,Europe
+1741,Bulgaria,1989,1.4,Europe
+1742,Bulgaria,1990,1.3,Europe
+1743,Bulgaria,1991,1.3,Europe
+1744,Bulgaria,1992,1.1,Europe
+1745,Bulgaria,1993,0.9,Europe
+1746,Bulgaria,1994,0.9,Europe
+1747,Bulgaria,1995,1.3,Europe
+1748,Bulgaria,1996,1.2,Europe
+1749,Bulgaria,1997,1.1,Europe
+1750,Bulgaria,1998,1.3,Europe
+1751,Bulgaria,1999,1.2,Europe
+1752,Bulgaria,2000,1.3,Europe
+1753,Bulgaria,2001,1.3,Europe
+1754,Bulgaria,2002,1.3,Europe
+1755,Bulgaria,2003,1.5,Europe
+1756,Bulgaria,2004,1.9,Europe
+1757,Bulgaria,2005,1.9,Europe
+1758,Bulgaria,2006,2.0,Europe
+1759,Bulgaria,2007,2.2,Europe
+1760,Bulgaria,2008,1.9,Europe
+1761,Bulgaria,2009,1.6,Europe
+1762,Bulgaria,2010,1.5,Europe
+1763,Bulgaria,2011,1.4,Europe
+1764,Bulgaria,2012,1.6,Europe
+1765,Bulgaria,2013,1.5,Europe
+1766,Bulgaria,2014,1.5,Europe
+1767,Bulgaria,2015,1.5,Europe
+1768,Bulgaria,2016,1.5,Europe
+1769,Bulgaria,2017,1.5,Europe
+1770,Croatia,1960,1.2,Europe
+1771,Croatia,1961,1.2,Europe
+1772,Croatia,1962,1.2,Europe
+1773,Croatia,1963,1.2,Europe
+1774,Croatia,1964,1.2,Europe
+1775,Croatia,1965,1.3,Europe
+1776,Croatia,1966,1.3,Europe
+1777,Croatia,1967,1.1,Europe
+1778,Croatia,1968,1.1,Europe
+1779,Croatia,1969,1.2,Europe
+1780,Croatia,1970,1.2,Europe
+1781,Croatia,1971,1.2,Europe
+1782,Croatia,1972,1.3,Europe
+1783,Croatia,1973,1.3,Europe
+1784,Croatia,1974,1.4,Europe
+1785,Croatia,1975,1.3,Europe
+1786,Croatia,1976,1.3,Europe
+1787,Croatia,1977,1.2,Europe
+1788,Croatia,1978,1.3,Europe
+1789,Croatia,1979,1.1,Europe
+1790,Croatia,1980,1.2,Europe
+1791,Croatia,1981,1.2,Europe
+1792,Croatia,1982,1.2,Europe
+1793,Croatia,1983,1.1,Europe
+1794,Croatia,1984,1.1,Europe
+1795,Croatia,1985,1.1,Europe
+1796,Croatia,1986,1.3,Europe
+1797,Croatia,1987,1.2,Europe
+1798,Croatia,1988,1.2,Europe
+1799,Croatia,1989,1.1,Europe
+1800,Croatia,1990,1.1,Europe
+1801,Croatia,1991,1.0,Europe
+1802,Croatia,1992,0.8,Europe
+1803,Croatia,1993,1.0,Europe
+1804,Croatia,1994,1.0,Europe
+1805,Croatia,1995,0.9,Europe
+1806,Croatia,1996,0.8,Europe
+1807,Croatia,1997,0.9,Europe
+1808,Croatia,1998,0.9,Europe
+1809,Croatia,1999,0.8,Europe
+1810,Croatia,2000,1.0,Europe
+1811,Croatia,2001,1.1,Europe
+1812,Croatia,2002,1.0,Europe
+1813,Croatia,2003,1.1,Europe
+1814,Croatia,2004,1.2,Europe
+1815,Croatia,2005,1.1,Europe
+1816,Croatia,2006,1.1,Europe
+1817,Croatia,2007,1.1,Europe
+1818,Croatia,2008,1.2,Europe
+1819,Croatia,2009,1.2,Europe
+1820,Croatia,2010,1.2,Europe
+1821,Croatia,2011,1.3,Europe
+1822,Croatia,2012,1.3,Europe
+1823,Croatia,2013,1.4,Europe
+1824,Croatia,2014,1.4,Europe
+1825,Croatia,2015,1.4,Europe
+1826,Croatia,2016,1.7,Europe
+1827,Croatia,2017,1.5,Europe
+1828,Cyprus,1964,0.2,Asia
+1829,Cyprus,1965,0.2,Asia
+1830,Cyprus,1966,0.2,Asia
+1831,Cyprus,1967,0.2,Asia
+1832,Cyprus,1968,0.2,Asia
+1833,Cyprus,1969,0.2,Asia
+1834,Cyprus,1970,0.2,Asia
+1835,Cyprus,1971,0.3,Asia
+1836,Cyprus,1972,0.2,Asia
+1837,Cyprus,1973,0.2,Asia
+1838,Cyprus,1974,0.2,Asia
+1839,Cyprus,1975,0.2,Asia
+1840,Cyprus,1976,0.2,Asia
+1841,Cyprus,1977,0.3,Asia
+1842,Cyprus,1978,0.3,Asia
+1843,Cyprus,1979,0.3,Asia
+1844,Cyprus,1980,0.3,Asia
+1845,Cyprus,1981,0.3,Asia
+1846,Cyprus,1982,0.4,Asia
+1847,Cyprus,1983,0.5,Asia
+1848,Cyprus,1984,0.5,Asia
+1849,Cyprus,1985,0.5,Asia
+1850,Cyprus,1986,0.5,Asia
+1851,Cyprus,1987,0.6,Asia
+1852,Cyprus,1988,0.6,Asia
+1853,Cyprus,1989,0.6,Asia
+1854,Cyprus,1990,0.6,Asia
+1855,Cyprus,1991,0.5,Asia
+1856,Cyprus,1992,0.7,Asia
+1857,Cyprus,1993,0.8,Asia
+1858,Cyprus,1994,0.9,Asia
+1859,Cyprus,1995,1.2,Asia
+1860,Cyprus,1996,1.1,Asia
+1861,Cyprus,1997,1.3,Asia
+1862,Cyprus,1998,1.3,Asia
+1863,Cyprus,1999,1.7,Asia
+1864,Cyprus,2000,1.7,Asia
+1865,Cyprus,2001,1.7,Asia
+1866,Cyprus,2002,1.9,Asia
+1867,Cyprus,2003,2.0,Asia
+1868,Cyprus,2004,2.2,Asia
+1869,Cyprus,2005,2.0,Asia
+1870,Cyprus,2006,2.3,Asia
+1871,Cyprus,2007,2.1,Asia
+1872,Cyprus,2008,2.1,Asia
+1873,Cyprus,2009,2.2,Asia
+1874,Cyprus,2010,2.3,Asia
+1875,Cyprus,2011,2.3,Asia
+1876,Cyprus,2012,2.4,Asia
+1877,Cyprus,2013,2.2,Asia
+1878,Cyprus,2014,2.2,Asia
+1879,Cyprus,2015,2.1,Asia
+1880,Cyprus,2016,2.3,Asia
+1881,Cyprus,2017,2.2,Asia
+1882,Malta,2011,0.1,Europe
+1883,Malta,2012,1.1,Europe
+1884,Malta,2013,0.8,Europe
+1885,Malta,2014,0.7,Europe
+1886,Malta,2015,0.8,Europe
+1887,Malta,2016,0.8,Europe
+1888,Malta,2017,0.7,Europe
+1889,Romania,1960,2.0,Europe
+1890,Romania,1961,1.8,Europe
+1891,Romania,1962,2.0,Europe
+1892,Romania,1963,1.9,Europe
+1893,Romania,1964,1.9,Europe
+1894,Romania,1965,1.9,Europe
+1895,Romania,1966,1.3,Europe
+1896,Romania,1968,0.2,Europe
+1897,Romania,1969,0.3,Europe
+1898,Romania,1970,0.4,Europe
+1899,Romania,1971,0.5,Europe
+1900,Romania,1972,0.5,Europe
+1901,Romania,1973,0.7,Europe
+1902,Romania,1974,0.9,Europe
+1903,Romania,1975,1.6,Europe
+1904,Romania,1976,1.7,Europe
+1905,Romania,1977,1.2,Europe
+1906,Romania,1978,1.5,Europe
+1907,Romania,1979,1.6,Europe
+1908,Romania,1980,1.5,Europe
+1909,Romania,1981,1.5,Europe
+1910,Romania,1982,1.5,Europe
+1911,Romania,1983,1.5,Europe
+1912,Romania,1984,1.5,Europe
+1913,Romania,1985,1.4,Europe
+1914,Romania,1986,1.5,Europe
+1915,Romania,1987,1.5,Europe
+1916,Romania,1988,1.6,Europe
+1917,Romania,1989,1.6,Europe
+1918,Romania,1990,1.4,Europe
+1919,Romania,1991,1.6,Europe
+1920,Romania,1992,1.3,Europe
+1921,Romania,1993,1.4,Europe
+1922,Romania,1994,1.7,Europe
+1923,Romania,1995,1.5,Europe
+1924,Romania,1996,1.6,Europe
+1925,Romania,1997,1.5,Europe
+1926,Romania,1998,1.8,Europe
+1927,Romania,1999,1.5,Europe
+1928,Romania,2000,1.4,Europe
+1929,Romania,2001,1.4,Europe
+1930,Romania,2002,1.5,Europe
+1931,Romania,2003,1.5,Europe
+1932,Romania,2004,1.6,Europe
+1933,Romania,2005,1.6,Europe
+1934,Romania,2006,1.5,Europe
+1935,Romania,2007,1.7,Europe
+1936,Romania,2008,1.7,Europe
+1937,Romania,2009,1.6,Europe
+1938,Romania,2010,1.6,Europe
+1939,Romania,2011,1.8,Europe
+1940,Romania,2012,1.6,Europe
+1941,Romania,2013,1.4,Europe
+1942,Romania,2014,1.4,Europe
+1943,Romania,2015,1.6,Europe
+1944,Romania,2016,1.5,Europe
+1945,Romania,2017,1.6,Europe
