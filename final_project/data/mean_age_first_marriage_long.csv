@@ -1,0 +1,1902 @@
+﻿,Country,Gender,Year,mean_age,Continent
+0,Australia,Male,1990,26.5,Oceania
+1,Australia,Male,1991,26.7,Oceania
+2,Australia,Male,1992,26.9,Oceania
+3,Australia,Male,1993,27.0,Oceania
+4,Australia,Male,1994,27.2,Oceania
+5,Australia,Male,1995,27.3,Oceania
+6,Australia,Male,1996,27.6,Oceania
+7,Australia,Male,1997,27.8,Oceania
+8,Australia,Male,1998,27.9,Oceania
+9,Australia,Male,1999,28.2,Oceania
+10,Australia,Male,2000,28.5,Oceania
+11,Australia,Male,2001,28.7,Oceania
+12,Australia,Male,2002,29.0,Oceania
+13,Australia,Male,2003,29.2,Oceania
+14,Australia,Male,2004,29.4,Oceania
+15,Australia,Male,2005,29.5,Oceania
+16,Australia,Male,2006,29.6,Oceania
+17,Australia,Male,2007,29.6,Oceania
+18,Australia,Male,2008,29.6,Oceania
+19,Australia,Male,2009,29.6,Oceania
+20,Australia,Male,2010,29.6,Oceania
+21,Australia,Male,2011,29.7,Oceania
+22,Australia,Male,2012,29.8,Oceania
+23,Australia,Male,2013,29.9,Oceania
+24,Australia,Male,2014,30.0,Oceania
+25,Australia,Male,2015,30.1,Oceania
+26,Australia,Male,2016,30.3,Oceania
+27,Australia,Male,2017,30.4,Oceania
+28,Australia,Female,1990,24.3,Oceania
+29,Australia,Female,1991,24.5,Oceania
+30,Australia,Female,1992,24.7,Oceania
+31,Australia,Female,1993,24.8,Oceania
+32,Australia,Female,1994,25.1,Oceania
+33,Australia,Female,1995,25.3,Oceania
+34,Australia,Female,1996,25.7,Oceania
+35,Australia,Female,1997,25.9,Oceania
+36,Australia,Female,1998,26.2,Oceania
+37,Australia,Female,1999,26.4,Oceania
+38,Australia,Female,2000,26.7,Oceania
+39,Australia,Female,2001,26.9,Oceania
+40,Australia,Female,2002,27.1,Oceania
+41,Australia,Female,2003,27.3,Oceania
+42,Australia,Female,2004,27.5,Oceania
+43,Australia,Female,2005,27.6,Oceania
+44,Australia,Female,2006,27.6,Oceania
+45,Australia,Female,2007,27.6,Oceania
+46,Australia,Female,2008,27.7,Oceania
+47,Australia,Female,2009,27.7,Oceania
+48,Australia,Female,2010,27.9,Oceania
+49,Australia,Female,2011,28.0,Oceania
+50,Australia,Female,2012,28.1,Oceania
+51,Australia,Female,2013,28.3,Oceania
+52,Australia,Female,2014,28.4,Oceania
+53,Australia,Female,2015,28.5,Oceania
+54,Australia,Female,2016,28.7,Oceania
+55,Australia,Female,2017,28.8,Oceania
+56,Austria,Male,1990,27.7,Europe
+57,Austria,Male,1991,27.9,Europe
+58,Austria,Male,1992,28.0,Europe
+59,Austria,Male,1993,28.4,Europe
+60,Austria,Male,1994,28.7,Europe
+61,Austria,Male,1995,29.0,Europe
+62,Austria,Male,1996,29.1,Europe
+63,Austria,Male,1997,29.3,Europe
+64,Austria,Male,1998,29.6,Europe
+65,Austria,Male,1999,29.9,Europe
+66,Austria,Male,2000,30.0,Europe
+67,Austria,Male,2001,30.2,Europe
+68,Austria,Male,2002,30.3,Europe
+69,Austria,Male,2003,30.6,Europe
+70,Austria,Male,2004,30.9,Europe
+71,Austria,Male,2005,31.2,Europe
+72,Austria,Male,2006,31.8,Europe
+73,Austria,Male,2007,32.0,Europe
+74,Austria,Male,2008,32.2,Europe
+75,Austria,Male,2009,32.5,Europe
+76,Austria,Male,2011,32.9,Europe
+77,Austria,Male,2012,33.2,Europe
+78,Austria,Male,2017,34.2,Europe
+79,Austria,Female,1990,25.2,Europe
+80,Austria,Female,1991,25.4,Europe
+81,Austria,Female,1992,25.6,Europe
+82,Austria,Female,1993,25.8,Europe
+83,Austria,Female,1994,26.1,Europe
+84,Austria,Female,1995,26.3,Europe
+85,Austria,Female,1996,26.5,Europe
+86,Austria,Female,1997,26.8,Europe
+87,Austria,Female,1998,26.9,Europe
+88,Austria,Female,1999,27.3,Europe
+89,Austria,Female,2000,27.4,Europe
+90,Austria,Female,2001,27.5,Europe
+91,Austria,Female,2002,27.7,Europe
+92,Austria,Female,2003,27.9,Europe
+93,Austria,Female,2004,28.2,Europe
+94,Austria,Female,2005,28.6,Europe
+95,Austria,Female,2006,29.1,Europe
+96,Austria,Female,2007,29.3,Europe
+97,Austria,Female,2008,29.5,Europe
+98,Austria,Female,2009,29.9,Europe
+99,Austria,Female,2011,30.3,Europe
+100,Austria,Female,2012,30.6,Europe
+101,Austria,Female,2017,31.5,Europe
+102,Belgium,Male,1990,26.5,Europe
+103,Belgium,Male,1991,26.7,Europe
+104,Belgium,Male,1992,27.0,Europe
+105,Belgium,Male,1993,27.2,Europe
+106,Belgium,Male,1994,27.4,Europe
+107,Belgium,Male,1995,27.8,Europe
+108,Belgium,Male,1996,28.0,Europe
+109,Belgium,Male,1997,28.1,Europe
+110,Belgium,Male,1998,28.3,Europe
+111,Belgium,Male,1999,28.6,Europe
+112,Belgium,Male,2000,29.1,Europe
+113,Belgium,Male,2001,29.0,Europe
+114,Belgium,Male,2002,29.3,Europe
+115,Belgium,Male,2003,29.9,Europe
+116,Belgium,Male,2004,30.2,Europe
+117,Belgium,Male,2005,30.5,Europe
+118,Belgium,Male,2006,30.9,Europe
+119,Belgium,Male,2007,31.0,Europe
+120,Belgium,Male,2008,31.4,Europe
+121,Belgium,Male,2009,31.7,Europe
+122,Belgium,Male,2010,31.7,Europe
+123,Belgium,Male,2017,33.5,Europe
+124,Belgium,Female,1990,24.4,Europe
+125,Belgium,Female,1991,24.0,Europe
+126,Belgium,Female,1992,24.8,Europe
+127,Belgium,Female,1993,25.1,Europe
+128,Belgium,Female,1994,25.4,Europe
+129,Belgium,Female,1995,25.6,Europe
+130,Belgium,Female,1996,25.7,Europe
+131,Belgium,Female,1997,25.9,Europe
+132,Belgium,Female,1998,26.0,Europe
+133,Belgium,Female,1999,26.3,Europe
+134,Belgium,Female,2000,26.9,Europe
+135,Belgium,Female,2001,26.7,Europe
+136,Belgium,Female,2002,27.0,Europe
+137,Belgium,Female,2003,27.5,Europe
+138,Belgium,Female,2004,27.9,Europe
+139,Belgium,Female,2005,28.1,Europe
+140,Belgium,Female,2006,28.4,Europe
+141,Belgium,Female,2007,28.6,Europe
+142,Belgium,Female,2008,28.9,Europe
+143,Belgium,Female,2009,29.3,Europe
+144,Belgium,Female,2010,29.4,Europe
+145,Belgium,Female,2017,31.2,Europe
+146,Canada,Male,1990,27.6,North America
+147,Canada,Male,1991,27.77,North America
+148,Canada,Male,1992,28.0,North America
+149,Canada,Male,1993,28.18,North America
+150,Canada,Male,1994,28.25,North America
+151,Canada,Male,1995,28.41,North America
+152,Canada,Male,1996,28.61,North America
+153,Canada,Male,1997,28.76,North America
+154,Canada,Male,1998,28.92,North America
+155,Canada,Male,1999,29.11,North America
+156,Canada,Male,2000,29.5,North America
+157,Canada,Male,2001,29.7,North America
+158,Canada,Male,2002,29.8,North America
+159,Canada,Male,2003,30.2,North America
+160,Canada,Male,2004,30.5,North America
+161,Canada,Male,2005,30.6,North America
+162,Canada,Male,2006,30.9,North America
+163,Canada,Male,2007,31.0,North America
+164,Canada,Male,2008,31.1,North America
+165,Canada,Female,1990,25.54,North America
+166,Canada,Female,1991,25.76,North America
+167,Canada,Female,1992,26.02,North America
+168,Canada,Female,1993,26.2,North America
+169,Canada,Female,1994,26.26,North America
+170,Canada,Female,1995,26.47,North America
+171,Canada,Female,1996,26.68,North America
+172,Canada,Female,1997,26.85,North America
+173,Canada,Female,1998,27.0,North America
+174,Canada,Female,1999,27.21,North America
+175,Canada,Female,2000,27.5,North America
+176,Canada,Female,2001,27.7,North America
+177,Canada,Female,2002,27.8,North America
+178,Canada,Female,2003,28.2,North America
+179,Canada,Female,2004,28.5,North America
+180,Canada,Female,2005,28.7,North America
+181,Canada,Female,2006,28.9,North America
+182,Canada,Female,2007,29.0,North America
+183,Canada,Female,2008,29.1,North America
+184,Chile,Male,1997,26.9519006244909,South America
+185,Chile,Male,1998,27.2665171790235,South America
+186,Chile,Male,1999,27.5454281345566,South America
+187,Chile,Male,2000,27.6979148301893,South America
+188,Chile,Male,2001,28.0242968880013,South America
+189,Chile,Male,2002,28.3687528616208,South America
+190,Chile,Male,2003,28.6537979252954,South America
+191,Chile,Male,2004,28.8799749231516,South America
+192,Chile,Male,2005,29.5523369992145,South America
+193,Chile,Male,2006,29.3176107683679,South America
+194,Chile,Male,2007,29.5261980341913,South America
+195,Chile,Male,2008,29.7979336379893,South America
+196,Chile,Male,2009,30.3365010617497,South America
+197,Chile,Male,2010,31.3,South America
+198,Chile,Male,2011,31.5,South America
+199,Chile,Male,2012,31.3,South America
+200,Chile,Male,2013,30.4,South America
+201,Chile,Male,2014,31.1,South America
+202,Chile,Male,2015,32.2,South America
+203,Chile,Male,2016,32.7,South America
+204,Chile,Female,1997,24.8610832966182,South America
+205,Chile,Female,1998,25.18025507526,South America
+206,Chile,Female,1999,25.4875873234791,South America
+207,Chile,Female,2000,25.6370500880946,South America
+208,Chile,Female,2001,25.9422935494942,South America
+209,Chile,Female,2002,26.3189132382331,South America
+210,Chile,Female,2003,26.5750567906752,South America
+211,Chile,Female,2004,26.8048418972332,South America
+212,Chile,Female,2005,27.3064846284567,South America
+213,Chile,Female,2006,27.3892706515416,South America
+214,Chile,Female,2007,27.7405938391964,South America
+215,Chile,Female,2008,28.0879893905322,South America
+216,Chile,Female,2009,29.0049541393924,South America
+217,Chile,Female,2010,29.9,South America
+218,Chile,Female,2011,30.2,South America
+219,Chile,Female,2012,30.0,South America
+220,Chile,Female,2013,28.5,South America
+221,Chile,Female,2014,29.7,South America
+222,Chile,Female,2015,30.9,South America
+223,Chile,Female,2016,31.5,South America
+224,Czech Republic,Male,1990,24.3,Europe
+225,Czech Republic,Male,1991,24.3,Europe
+226,Czech Republic,Male,1992,24.5,Europe
+227,Czech Republic,Male,1993,24.7,Europe
+228,Czech Republic,Male,1994,25.1,Europe
+229,Czech Republic,Male,1995,25.5,Europe
+230,Czech Republic,Male,1996,25.9,Europe
+231,Czech Republic,Male,1997,26.5,Europe
+232,Czech Republic,Male,1998,26.8,Europe
+233,Czech Republic,Male,1999,27.2,Europe
+234,Czech Republic,Male,2000,27.6,Europe
+235,Czech Republic,Male,2001,27.9,Europe
+236,Czech Republic,Male,2002,28.4,Europe
+237,Czech Republic,Male,2003,28.8,Europe
+238,Czech Republic,Male,2004,29.1,Europe
+239,Czech Republic,Male,2005,29.4,Europe
+240,Czech Republic,Male,2006,29.7,Europe
+241,Czech Republic,Male,2007,30.0,Europe
+242,Czech Republic,Male,2008,30.2,Europe
+243,Czech Republic,Male,2009,30.6,Europe
+244,Czech Republic,Male,2010,30.8,Europe
+245,Czech Republic,Male,2011,31.0,Europe
+246,Czech Republic,Male,2012,31.2,Europe
+247,Czech Republic,Male,2013,31.3,Europe
+248,Czech Republic,Male,2014,31.4,Europe
+249,Czech Republic,Male,2015,31.6,Europe
+250,Czech Republic,Male,2016,31.7,Europe
+251,Czech Republic,Male,2017,31.8,Europe
+252,Czech Republic,Female,1990,21.6,Europe
+253,Czech Republic,Female,1991,21.6,Europe
+254,Czech Republic,Female,1992,21.9,Europe
+255,Czech Republic,Female,1993,22.1,Europe
+256,Czech Republic,Female,1994,22.4,Europe
+257,Czech Republic,Female,1995,22.8,Europe
+258,Czech Republic,Female,1996,23.1,Europe
+259,Czech Republic,Female,1997,23.6,Europe
+260,Czech Republic,Female,1998,23.8,Europe
+261,Czech Republic,Female,1999,24.2,Europe
+262,Czech Republic,Female,2000,24.6,Europe
+263,Czech Republic,Female,2001,25.0,Europe
+264,Czech Republic,Female,2002,25.4,Europe
+265,Czech Republic,Female,2003,25.8,Europe
+266,Czech Republic,Female,2004,26.1,Europe
+267,Czech Republic,Female,2005,26.4,Europe
+268,Czech Republic,Female,2006,26.8,Europe
+269,Czech Republic,Female,2007,27.0,Europe
+270,Czech Republic,Female,2008,27.2,Europe
+271,Czech Republic,Female,2009,27.6,Europe
+272,Czech Republic,Female,2010,27.9,Europe
+273,Czech Republic,Female,2011,28.1,Europe
+274,Czech Republic,Female,2012,28.3,Europe
+275,Czech Republic,Female,2013,28.5,Europe
+276,Czech Republic,Female,2014,28.7,Europe
+277,Czech Republic,Female,2015,28.8,Europe
+278,Czech Republic,Female,2016,29.0,Europe
+279,Czech Republic,Female,2017,29.1,Europe
+280,Denmark,Male,1990,30.5,Europe
+281,Denmark,Male,1991,30.6,Europe
+282,Denmark,Male,1992,31.0,Europe
+283,Denmark,Male,1993,31.4,Europe
+284,Denmark,Male,1994,31.8,Europe
+285,Denmark,Male,1995,31.9,Europe
+286,Denmark,Male,1996,32.5,Europe
+287,Denmark,Male,1997,32.2,Europe
+288,Denmark,Male,1998,32.4,Europe
+289,Denmark,Male,1999,32.5,Europe
+290,Denmark,Male,2000,32.5,Europe
+291,Denmark,Male,2001,32.6,Europe
+292,Denmark,Male,2002,32.7,Europe
+293,Denmark,Male,2003,33.2,Europe
+294,Denmark,Male,2004,33.4,Europe
+295,Denmark,Male,2005,33.4,Europe
+296,Denmark,Male,2006,33.4,Europe
+297,Denmark,Male,2007,33.6,Europe
+298,Denmark,Male,2008,33.8,Europe
+299,Denmark,Male,2009,33.5,Europe
+300,Denmark,Male,2010,33.6,Europe
+301,Denmark,Male,2011,33.8,Europe
+302,Denmark,Male,2012,34.3,Europe
+303,Denmark,Male,2013,34.4,Europe
+304,Denmark,Male,2014,34.4,Europe
+305,Denmark,Male,2015,34.3,Europe
+306,Denmark,Male,2016,34.7,Europe
+307,Denmark,Male,2017,34.8,Europe
+308,Denmark,Female,1990,27.8,Europe
+309,Denmark,Female,1991,28.0,Europe
+310,Denmark,Female,1992,28.3,Europe
+311,Denmark,Female,1993,28.8,Europe
+312,Denmark,Female,1994,29.2,Europe
+313,Denmark,Female,1995,29.2,Europe
+314,Denmark,Female,1996,29.9,Europe
+315,Denmark,Female,1997,30.1,Europe
+316,Denmark,Female,1998,29.8,Europe
+317,Denmark,Female,1999,30.0,Europe
+318,Denmark,Female,2000,29.9,Europe
+319,Denmark,Female,2001,29.9,Europe
+320,Denmark,Female,2002,30.1,Europe
+321,Denmark,Female,2003,30.6,Europe
+322,Denmark,Female,2004,30.9,Europe
+323,Denmark,Female,2005,30.9,Europe
+324,Denmark,Female,2006,30.9,Europe
+325,Denmark,Female,2007,31.3,Europe
+326,Denmark,Female,2008,31.4,Europe
+327,Denmark,Female,2009,31.1,Europe
+328,Denmark,Female,2010,31.2,Europe
+329,Denmark,Female,2011,31.4,Europe
+330,Denmark,Female,2012,31.8,Europe
+331,Denmark,Female,2013,31.9,Europe
+332,Denmark,Female,2014,31.9,Europe
+333,Denmark,Female,2015,31.9,Europe
+334,Denmark,Female,2016,32.2,Europe
+335,Denmark,Female,2017,32.4,Europe
+336,Estonia,Male,1992,25.2,Europe
+337,Estonia,Male,1993,26.0,Europe
+338,Estonia,Male,1994,26.5,Europe
+339,Estonia,Male,1995,26.5,Europe
+340,Estonia,Male,1996,26.9,Europe
+341,Estonia,Male,1997,27.2,Europe
+342,Estonia,Male,1998,27.4,Europe
+343,Estonia,Male,1999,27.7,Europe
+344,Estonia,Male,2000,28.1,Europe
+345,Estonia,Male,2001,28.2,Europe
+346,Estonia,Male,2002,28.5,Europe
+347,Estonia,Male,2003,28.5,Europe
+348,Estonia,Male,2004,29.0,Europe
+349,Estonia,Male,2005,29.1,Europe
+350,Estonia,Male,2006,29.3,Europe
+351,Estonia,Male,2007,29.6,Europe
+352,Estonia,Male,2008,29.9,Europe
+353,Estonia,Male,2009,30.2,Europe
+354,Estonia,Male,2010,30.5,Europe
+355,Estonia,Male,2011,31.1,Europe
+356,Estonia,Male,2012,31.3,Europe
+357,Estonia,Male,2013,31.3,Europe
+358,Estonia,Male,2014,31.6,Europe
+359,Estonia,Male,2015,31.9,Europe
+360,Estonia,Male,2016,32.2,Europe
+361,Estonia,Female,1992,23.0,Europe
+362,Estonia,Female,1993,23.6,Europe
+363,Estonia,Female,1994,24.1,Europe
+364,Estonia,Female,1995,24.2,Europe
+365,Estonia,Female,1996,24.2,Europe
+366,Estonia,Female,1997,24.4,Europe
+367,Estonia,Female,1998,24.8,Europe
+368,Estonia,Female,1999,25.0,Europe
+369,Estonia,Female,2000,25.2,Europe
+370,Estonia,Female,2001,25.5,Europe
+371,Estonia,Female,2002,25.8,Europe
+372,Estonia,Female,2003,25.9,Europe
+373,Estonia,Female,2004,26.2,Europe
+374,Estonia,Female,2005,26.4,Europe
+375,Estonia,Female,2006,26.6,Europe
+376,Estonia,Female,2007,27.1,Europe
+377,Estonia,Female,2008,27.4,Europe
+378,Estonia,Female,2009,27.8,Europe
+379,Estonia,Female,2010,28.0,Europe
+380,Estonia,Female,2011,28.4,Europe
+381,Estonia,Female,2012,28.9,Europe
+382,Estonia,Female,2013,28.8,Europe
+383,Estonia,Female,2014,29.0,Europe
+384,Estonia,Female,2015,29.3,Europe
+385,Estonia,Female,2016,29.7,Europe
+386,Finland,Male,1990,28.4,Europe
+387,Finland,Male,1991,28.5,Europe
+388,Finland,Male,1992,28.6,Europe
+389,Finland,Male,1993,28.9,Europe
+390,Finland,Male,1994,29.0,Europe
+391,Finland,Male,1995,29.3,Europe
+392,Finland,Male,1997,29.7,Europe
+393,Finland,Male,1998,29.9,Europe
+394,Finland,Male,1999,30.2,Europe
+395,Finland,Male,2000,30.5,Europe
+396,Finland,Male,2001,30.6,Europe
+397,Finland,Male,2002,31.0,Europe
+398,Finland,Male,2003,31.2,Europe
+399,Finland,Male,2004,31.8,Europe
+400,Finland,Male,2005,31.5,Europe
+401,Finland,Male,2006,31.8,Europe
+402,Finland,Male,2007,32.0,Europe
+403,Finland,Male,2008,32.3,Europe
+404,Finland,Male,2009,32.3,Europe
+405,Finland,Male,2010,32.5,Europe
+406,Finland,Male,2011,32.7,Europe
+407,Finland,Male,2012,33.0,Europe
+408,Finland,Male,2013,32.7,Europe
+409,Finland,Male,2014,32.9,Europe
+410,Finland,Male,2015,33.4,Europe
+411,Finland,Male,2016,33.7,Europe
+412,Finland,Male,2017,33.9,Europe
+413,Finland,Female,1990,26.3,Europe
+414,Finland,Female,1991,26.3,Europe
+415,Finland,Female,1992,26.6,Europe
+416,Finland,Female,1993,26.8,Europe
+417,Finland,Female,1994,26.9,Europe
+418,Finland,Female,1995,27.2,Europe
+419,Finland,Female,1997,27.6,Europe
+420,Finland,Female,1998,27.8,Europe
+421,Finland,Female,1999,28.0,Europe
+422,Finland,Female,2000,28.3,Europe
+423,Finland,Female,2001,28.4,Europe
+424,Finland,Female,2002,28.8,Europe
+425,Finland,Female,2003,29.0,Europe
+426,Finland,Female,2004,29.5,Europe
+427,Finland,Female,2005,29.4,Europe
+428,Finland,Female,2006,29.5,Europe
+429,Finland,Female,2007,29.7,Europe
+430,Finland,Female,2008,30.0,Europe
+431,Finland,Female,2009,30.0,Europe
+432,Finland,Female,2010,30.2,Europe
+433,Finland,Female,2011,30.4,Europe
+434,Finland,Female,2012,30.7,Europe
+435,Finland,Female,2013,30.4,Europe
+436,Finland,Female,2014,30.6,Europe
+437,Finland,Female,2015,31.0,Europe
+438,Finland,Female,2016,31.3,Europe
+439,Finland,Female,2017,31.6,Europe
+440,France,Male,1998,30.3,Europe
+441,France,Male,1999,30.4,Europe
+442,France,Male,2000,30.7,Europe
+443,France,Male,2001,30.7,Europe
+444,France,Male,2002,30.9,Europe
+445,France,Male,2003,31.2,Europe
+446,France,Male,2004,31.5,Europe
+447,France,Male,2005,31.8,Europe
+448,France,Male,2006,32.0,Europe
+449,France,Male,2007,32.2,Europe
+450,France,Male,2008,32.4,Europe
+451,France,Male,2009,32.6,Europe
+452,France,Male,2010,32.8,Europe
+453,France,Male,2011,33.0,Europe
+454,France,Male,2013,34.1,Europe
+455,France,Male,2014,34.4,Europe
+456,France,Male,2015,34.4,Europe
+457,France,Female,1998,28.1,Europe
+458,France,Female,1999,28.2,Europe
+459,France,Female,2000,28.4,Europe
+460,France,Female,2001,28.5,Europe
+461,France,Female,2002,28.7,Europe
+462,France,Female,2003,28.9,Europe
+463,France,Female,2004,29.2,Europe
+464,France,Female,2005,29.6,Europe
+465,France,Female,2006,29.8,Europe
+466,France,Female,2007,30.0,Europe
+467,France,Female,2008,30.2,Europe
+468,France,Female,2009,30.4,Europe
+469,France,Female,2010,30.7,Europe
+470,France,Female,2011,30.8,Europe
+471,France,Female,2013,31.7,Europe
+472,France,Female,2014,32.1,Europe
+473,France,Female,2015,32.2,Europe
+474,Germany,Male,1990,28.2,Europe
+475,Germany,Male,1991,28.7,Europe
+476,Germany,Male,1992,28.9,Europe
+477,Germany,Male,1993,29.2,Europe
+478,Germany,Male,1994,29.4,Europe
+479,Germany,Male,1995,29.5,Europe
+480,Germany,Male,1996,29.7,Europe
+481,Germany,Male,1997,29.8,Europe
+482,Germany,Male,1998,30.1,Europe
+483,Germany,Male,1999,30.3,Europe
+484,Germany,Male,2000,30.5,Europe
+485,Germany,Male,2001,30.9,Europe
+486,Germany,Male,2003,31.2,Europe
+487,Germany,Male,2004,31.6,Europe
+488,Germany,Male,2005,31.9,Europe
+489,Germany,Male,2006,31.9,Europe
+490,Germany,Male,2007,32.1,Europe
+491,Germany,Male,2008,32.4,Europe
+492,Germany,Male,2009,32.5,Europe
+493,Germany,Male,2011,32.9,Europe
+494,Germany,Male,2013,33.2,Europe
+495,Germany,Male,2014,33.4,Europe
+496,Germany,Male,2015,33.6,Europe
+497,Germany,Male,2016,33.8,Europe
+498,Germany,Male,2017,34.0,Europe
+499,Germany,Female,1990,25.5,Europe
+500,Germany,Female,1991,25.9,Europe
+501,Germany,Female,1992,26.1,Europe
+502,Germany,Female,1993,26.4,Europe
+503,Germany,Female,1994,26.6,Europe
+504,Germany,Female,1995,26.7,Europe
+505,Germany,Female,1996,26.9,Europe
+506,Germany,Female,1997,27.0,Europe
+507,Germany,Female,1998,27.2,Europe
+508,Germany,Female,1999,27.5,Europe
+509,Germany,Female,2000,27.7,Europe
+510,Germany,Female,2001,28.0,Europe
+511,Germany,Female,2003,28.4,Europe
+512,Germany,Female,2004,28.8,Europe
+513,Germany,Female,2005,29.1,Europe
+514,Germany,Female,2006,29.1,Europe
+515,Germany,Female,2007,29.3,Europe
+516,Germany,Female,2008,29.6,Europe
+517,Germany,Female,2009,29.8,Europe
+518,Germany,Female,2011,30.2,Europe
+519,Germany,Female,2013,30.5,Europe
+520,Germany,Female,2014,30.7,Europe
+521,Germany,Female,2015,30.9,Europe
+522,Germany,Female,2016,31.1,Europe
+523,Germany,Female,2017,31.2,Europe
+524,Greece,Male,1990,29.0,Europe
+525,Greece,Male,1991,29.3,Europe
+526,Greece,Male,1992,29.6,Europe
+527,Greece,Male,1993,29.7,Europe
+528,Greece,Male,1994,29.9,Europe
+529,Greece,Male,1995,30.1,Europe
+530,Greece,Male,1996,30.2,Europe
+531,Greece,Male,1997,30.6,Europe
+532,Greece,Male,1998,30.8,Europe
+533,Greece,Male,1999,31.0,Europe
+534,Greece,Male,2000,31.1,Europe
+535,Greece,Male,2001,31.2,Europe
+536,Greece,Male,2002,31.5,Europe
+537,Greece,Male,2003,31.7,Europe
+538,Greece,Male,2004,31.8,Europe
+539,Greece,Male,2005,32.0,Europe
+540,Greece,Male,2006,32.2,Europe
+541,Greece,Male,2007,32.4,Europe
+542,Greece,Male,2008,32.4,Europe
+543,Greece,Male,2009,32.5,Europe
+544,Greece,Male,2010,32.6,Europe
+545,Greece,Male,2011,32.7,Europe
+546,Greece,Male,2012,32.8,Europe
+547,Greece,Male,2013,32.9,Europe
+548,Greece,Male,2014,33.0,Europe
+549,Greece,Male,2015,33.2,Europe
+550,Greece,Male,2016,33.2,Europe
+551,Greece,Male,2017,33.3,Europe
+552,Greece,Female,1990,24.9,Europe
+553,Greece,Female,1991,25.2,Europe
+554,Greece,Female,1992,25.5,Europe
+555,Greece,Female,1993,25.5,Europe
+556,Greece,Female,1994,25.8,Europe
+557,Greece,Female,1995,26.0,Europe
+558,Greece,Female,1996,26.3,Europe
+559,Greece,Female,1997,26.6,Europe
+560,Greece,Female,1998,26.8,Europe
+561,Greece,Female,1999,26.9,Europe
+562,Greece,Female,2000,27.2,Europe
+563,Greece,Female,2001,27.3,Europe
+564,Greece,Female,2002,27.6,Europe
+565,Greece,Female,2003,27.9,Europe
+566,Greece,Female,2004,28.0,Europe
+567,Greece,Female,2005,28.3,Europe
+568,Greece,Female,2006,28.6,Europe
+569,Greece,Female,2007,28.8,Europe
+570,Greece,Female,2008,28.9,Europe
+571,Greece,Female,2009,29.0,Europe
+572,Greece,Female,2010,29.3,Europe
+573,Greece,Female,2011,29.4,Europe
+574,Greece,Female,2012,29.5,Europe
+575,Greece,Female,2013,29.7,Europe
+576,Greece,Female,2014,29.9,Europe
+577,Greece,Female,2015,30.1,Europe
+578,Greece,Female,2016,30.1,Europe
+579,Greece,Female,2017,30.3,Europe
+580,Hungary,Male,1990,24.7,Europe
+581,Hungary,Male,1991,24.8,Europe
+582,Hungary,Male,1992,25.0,Europe
+583,Hungary,Male,1993,25.1,Europe
+584,Hungary,Male,1994,25.5,Europe
+585,Hungary,Male,1995,25.8,Europe
+586,Hungary,Male,1996,26.1,Europe
+587,Hungary,Male,1997,26.6,Europe
+588,Hungary,Male,1998,26.8,Europe
+589,Hungary,Male,1999,27.3,Europe
+590,Hungary,Male,2000,27.6,Europe
+591,Hungary,Male,2001,28.2,Europe
+592,Hungary,Male,2002,28.5,Europe
+593,Hungary,Male,2003,28.9,Europe
+594,Hungary,Male,2004,29.2,Europe
+595,Hungary,Male,2005,29.4,Europe
+596,Hungary,Male,2006,29.8,Europe
+597,Hungary,Male,2007,30.1,Europe
+598,Hungary,Male,2008,30.4,Europe
+599,Hungary,Male,2009,30.8,Europe
+600,Hungary,Male,2010,31.2,Europe
+601,Hungary,Male,2011,31.6,Europe
+602,Hungary,Male,2013,31.9,Europe
+603,Hungary,Male,2014,32.1,Europe
+604,Hungary,Male,2015,32.0,Europe
+605,Hungary,Male,2016,32.1,Europe
+606,Hungary,Male,2017,32.3,Europe
+607,Hungary,Female,1990,22.0,Europe
+608,Hungary,Female,1991,22.1,Europe
+609,Hungary,Female,1992,22.3,Europe
+610,Hungary,Female,1993,22.5,Europe
+611,Hungary,Female,1994,22.8,Europe
+612,Hungary,Female,1995,23.1,Europe
+613,Hungary,Female,1996,23.4,Europe
+614,Hungary,Female,1997,23.7,Europe
+615,Hungary,Female,1998,24.1,Europe
+616,Hungary,Female,1999,24.4,Europe
+617,Hungary,Female,2000,24.8,Europe
+618,Hungary,Female,2001,25.2,Europe
+619,Hungary,Female,2002,25.7,Europe
+620,Hungary,Female,2003,26.0,Europe
+621,Hungary,Female,2004,26.4,Europe
+622,Hungary,Female,2005,26.7,Europe
+623,Hungary,Female,2006,27.0,Europe
+624,Hungary,Female,2007,27.2,Europe
+625,Hungary,Female,2008,27.5,Europe
+626,Hungary,Female,2009,28.0,Europe
+627,Hungary,Female,2010,28.3,Europe
+628,Hungary,Female,2011,28.6,Europe
+629,Hungary,Female,2013,29.0,Europe
+630,Hungary,Female,2014,29.3,Europe
+631,Hungary,Female,2015,29.2,Europe
+632,Hungary,Female,2016,29.2,Europe
+633,Hungary,Female,2017,29.4,Europe
+634,Iceland,Male,1990,29.4,Europe
+635,Iceland,Male,1991,29.5,Europe
+636,Iceland,Male,1992,30.6,Europe
+637,Iceland,Male,1993,30.2,Europe
+638,Iceland,Male,1994,31.2,Europe
+639,Iceland,Male,1995,31.7,Europe
+640,Iceland,Male,1996,31.9,Europe
+641,Iceland,Male,1997,32.7,Europe
+642,Iceland,Male,1998,32.5,Europe
+643,Iceland,Male,1999,32.5,Europe
+644,Iceland,Male,2000,33.3,Europe
+645,Iceland,Male,2001,32.9,Europe
+646,Iceland,Male,2002,33.3,Europe
+647,Iceland,Male,2003,33.2,Europe
+648,Iceland,Male,2004,33.8,Europe
+649,Iceland,Male,2005,33.9,Europe
+650,Iceland,Male,2006,34.2,Europe
+651,Iceland,Male,2007,34.4,Europe
+652,Iceland,Male,2008,34.8,Europe
+653,Iceland,Male,2009,35.1,Europe
+654,Iceland,Male,2010,34.7,Europe
+655,Iceland,Male,2011,34.4,Europe
+656,Iceland,Female,1990,26.9,Europe
+657,Iceland,Female,1991,27.2,Europe
+658,Iceland,Female,1992,27.9,Europe
+659,Iceland,Female,1993,28.0,Europe
+660,Iceland,Female,1994,28.8,Europe
+661,Iceland,Female,1995,28.8,Europe
+662,Iceland,Female,1996,29.2,Europe
+663,Iceland,Female,1997,30.6,Europe
+664,Iceland,Female,1998,30.1,Europe
+665,Iceland,Female,1999,30.2,Europe
+666,Iceland,Female,2000,30.6,Europe
+667,Iceland,Female,2001,30.2,Europe
+668,Iceland,Female,2002,30.8,Europe
+669,Iceland,Female,2003,31.0,Europe
+670,Iceland,Female,2004,31.4,Europe
+671,Iceland,Female,2005,31.5,Europe
+672,Iceland,Female,2006,31.8,Europe
+673,Iceland,Female,2007,32.1,Europe
+674,Iceland,Female,2008,32.4,Europe
+675,Iceland,Female,2009,32.1,Europe
+676,Iceland,Female,2010,32.4,Europe
+677,Iceland,Female,2011,32.4,Europe
+678,Ireland,Male,1990,28.7,Europe
+679,Ireland,Male,1991,28.8,Europe
+680,Ireland,Male,1992,29.1,Europe
+681,Ireland,Male,1993,29.4,Europe
+682,Ireland,Male,1994,29.8,Europe
+683,Ireland,Male,1995,30.0,Europe
+684,Ireland,Male,1996,30.4,Europe
+685,Ireland,Male,2005,32.4,Europe
+686,Ireland,Male,2006,32.5,Europe
+687,Ireland,Male,2007,32.7,Europe
+688,Ireland,Male,2009,33.1,Europe
+689,Ireland,Male,2010,33.1,Europe
+690,Ireland,Male,2013,33.5,Europe
+691,Ireland,Male,2014,32.4,Europe
+692,Ireland,Male,2015,33.8,Europe
+693,Ireland,Female,1990,26.6,Europe
+694,Ireland,Female,1991,26.9,Europe
+695,Ireland,Female,1992,27.1,Europe
+696,Ireland,Female,1993,27.5,Europe
+697,Ireland,Female,1994,27.8,Europe
+698,Ireland,Female,1995,28.1,Europe
+699,Ireland,Female,1996,28.5,Europe
+700,Ireland,Female,2005,30.5,Europe
+701,Ireland,Female,2006,30.7,Europe
+702,Ireland,Female,2007,30.9,Europe
+703,Ireland,Female,2009,31.2,Europe
+704,Ireland,Female,2010,31.3,Europe
+705,Ireland,Female,2013,31.8,Europe
+706,Ireland,Female,2014,30.7,Europe
+707,Ireland,Female,2015,32.0,Europe
+708,Israel,Male,2002,27.1,Asia
+709,Israel,Male,2003,27.2,Asia
+710,Israel,Male,2004,27.4,Asia
+711,Israel,Male,2005,27.5,Asia
+712,Israel,Male,2006,27.6,Asia
+713,Israel,Male,2007,27.6,Asia
+714,Israel,Male,2008,27.5,Asia
+715,Israel,Male,2009,27.6,Asia
+716,Israel,Male,2010,27.6,Asia
+717,Israel,Male,2011,27.7,Asia
+718,Israel,Male,2012,27.7,Asia
+719,Israel,Male,2013,27.7,Asia
+720,Israel,Male,2014,27.6,Asia
+721,Israel,Male,2015,27.6,Asia
+722,Israel,Male,2016,27.2,Asia
+723,Israel,Male,2017,27.5,Asia
+724,Israel,Female,2002,24.2,Asia
+725,Israel,Female,2003,24.3,Asia
+726,Israel,Female,2004,24.5,Asia
+727,Israel,Female,2005,24.6,Asia
+728,Israel,Female,2006,24.6,Asia
+729,Israel,Female,2007,24.8,Asia
+730,Israel,Female,2008,24.7,Asia
+731,Israel,Female,2009,24.8,Asia
+732,Israel,Female,2010,24.8,Asia
+733,Israel,Female,2011,25.0,Asia
+734,Israel,Female,2012,25.0,Asia
+735,Israel,Female,2013,25.1,Asia
+736,Israel,Female,2014,25.0,Asia
+737,Israel,Female,2015,25.2,Asia
+738,Israel,Female,2016,24.5,Asia
+739,Israel,Female,2017,25.1,Asia
+740,Italy,Male,1990,28.9,Europe
+741,Italy,Male,1991,29.0,Europe
+742,Italy,Male,1992,29.2,Europe
+743,Italy,Male,1993,29.4,Europe
+744,Italy,Male,1994,29.7,Europe
+745,Italy,Male,1995,29.9,Europe
+746,Italy,Male,1996,30.1,Europe
+747,Italy,Male,1997,30.4,Europe
+748,Italy,Male,1998,30.3,Europe
+749,Italy,Male,1999,30.4,Europe
+750,Italy,Male,2000,30.9,Europe
+751,Italy,Male,2001,31.2,Europe
+752,Italy,Male,2002,31.8,Europe
+753,Italy,Male,2003,31.7,Europe
+754,Italy,Male,2004,32.0,Europe
+755,Italy,Male,2005,32.3,Europe
+756,Italy,Male,2006,32.5,Europe
+757,Italy,Male,2007,32.6,Europe
+758,Italy,Male,2008,32.8,Europe
+759,Italy,Male,2009,33.0,Europe
+760,Italy,Male,2010,33.2,Europe
+761,Italy,Male,2011,33.5,Europe
+762,Italy,Male,2013,34.0,Europe
+763,Italy,Male,2014,34.2,Europe
+764,Italy,Male,2016,34.7,Europe
+765,Italy,Male,2017,35.0,Europe
+766,Italy,Female,1990,25.9,Europe
+767,Italy,Female,1991,26.0,Europe
+768,Italy,Female,1992,26.2,Europe
+769,Italy,Female,1993,26.4,Europe
+770,Italy,Female,1994,26.6,Europe
+771,Italy,Female,1995,26.9,Europe
+772,Italy,Female,1996,27.1,Europe
+773,Italy,Female,1997,27.3,Europe
+774,Italy,Female,1998,27.0,Europe
+775,Italy,Female,1999,27.2,Europe
+776,Italy,Female,2000,27.8,Europe
+777,Italy,Female,2001,28.1,Europe
+778,Italy,Female,2002,28.4,Europe
+779,Italy,Female,2003,28.6,Europe
+780,Italy,Female,2004,28.8,Europe
+781,Italy,Female,2005,29.1,Europe
+782,Italy,Female,2006,29.3,Europe
+783,Italy,Female,2007,29.6,Europe
+784,Italy,Female,2008,29.8,Europe
+785,Italy,Female,2009,30.0,Europe
+786,Italy,Female,2010,30.3,Europe
+787,Italy,Female,2011,30.5,Europe
+788,Italy,Female,2013,31.1,Europe
+789,Italy,Female,2014,31.3,Europe
+790,Italy,Female,2016,31.9,Europe
+791,Italy,Female,2017,32.2,Europe
+792,Japan,Male,1990,28.4,Asia
+793,Japan,Male,1991,28.4,Asia
+794,Japan,Male,1992,28.4,Asia
+795,Japan,Male,1993,28.4,Asia
+796,Japan,Male,1994,28.5,Asia
+797,Japan,Male,1995,28.5,Asia
+798,Japan,Male,1996,28.5,Asia
+799,Japan,Male,1997,28.5,Asia
+800,Japan,Male,1998,28.6,Asia
+801,Japan,Male,1999,28.7,Asia
+802,Japan,Male,2000,28.8,Asia
+803,Japan,Male,2001,29.0,Asia
+804,Japan,Male,2002,29.1,Asia
+805,Japan,Male,2003,29.4,Asia
+806,Japan,Male,2004,29.6,Asia
+807,Japan,Male,2005,29.8,Asia
+808,Japan,Male,2006,30.0,Asia
+809,Japan,Male,2007,30.1,Asia
+810,Japan,Male,2008,30.2,Asia
+811,Japan,Male,2009,30.4,Asia
+812,Japan,Male,2010,30.5,Asia
+813,Japan,Male,2011,30.7,Asia
+814,Japan,Male,2012,30.8,Asia
+815,Japan,Male,2013,30.9,Asia
+816,Japan,Male,2014,31.1,Asia
+817,Japan,Male,2015,31.1,Asia
+818,Japan,Male,2016,31.1,Asia
+819,Japan,Male,2017,31.1,Asia
+820,Japan,Female,1990,25.9,Asia
+821,Japan,Female,1991,25.9,Asia
+822,Japan,Female,1992,26.0,Asia
+823,Japan,Female,1993,26.1,Asia
+824,Japan,Female,1994,26.2,Asia
+825,Japan,Female,1995,26.3,Asia
+826,Japan,Female,1996,26.4,Asia
+827,Japan,Female,1997,26.6,Asia
+828,Japan,Female,1998,26.7,Asia
+829,Japan,Female,1999,26.8,Asia
+830,Japan,Female,2000,27.0,Asia
+831,Japan,Female,2001,27.2,Asia
+832,Japan,Female,2002,27.4,Asia
+833,Japan,Female,2003,27.6,Asia
+834,Japan,Female,2004,27.8,Asia
+835,Japan,Female,2005,28.0,Asia
+836,Japan,Female,2006,28.2,Asia
+837,Japan,Female,2007,28.3,Asia
+838,Japan,Female,2008,28.5,Asia
+839,Japan,Female,2009,28.6,Asia
+840,Japan,Female,2010,28.8,Asia
+841,Japan,Female,2011,29.0,Asia
+842,Japan,Female,2012,29.2,Asia
+843,Japan,Female,2013,29.3,Asia
+844,Japan,Female,2014,29.4,Asia
+845,Japan,Female,2015,29.4,Asia
+846,Japan,Female,2016,29.4,Asia
+847,Japan,Female,2017,29.4,Asia
+848,Korea,Male,1990,27.79,Asia
+849,Korea,Male,1991,27.91,Asia
+850,Korea,Male,1992,28.01,Asia
+851,Korea,Male,1993,28.09,Asia
+852,Korea,Male,1994,28.21,Asia
+853,Korea,Male,1995,28.36,Asia
+854,Korea,Male,1996,28.4,Asia
+855,Korea,Male,1997,28.59,Asia
+856,Korea,Male,1998,28.83,Asia
+857,Korea,Male,1999,29.07,Asia
+858,Korea,Male,2000,29.28,Asia
+859,Korea,Male,2001,29.55,Asia
+860,Korea,Male,2002,29.77,Asia
+861,Korea,Male,2003,30.14,Asia
+862,Korea,Male,2004,30.53,Asia
+863,Korea,Male,2005,30.87,Asia
+864,Korea,Male,2006,30.96,Asia
+865,Korea,Male,2007,31.11,Asia
+866,Korea,Male,2008,31.38,Asia
+867,Korea,Male,2009,31.61,Asia
+868,Korea,Male,2010,31.84,Asia
+869,Korea,Male,2011,31.9,Asia
+870,Korea,Male,2012,32.13,Asia
+871,Korea,Male,2013,32.21,Asia
+872,Korea,Male,2014,32.42,Asia
+873,Korea,Male,2015,32.57,Asia
+874,Korea,Male,2016,32.79,Asia
+875,Korea,Male,2017,32.94,Asia
+876,Korea,Female,1990,24.78,Asia
+877,Korea,Female,1991,24.84,Asia
+878,Korea,Female,1992,24.93,Asia
+879,Korea,Female,1993,25.01,Asia
+880,Korea,Female,1994,25.14,Asia
+881,Korea,Female,1995,25.32,Asia
+882,Korea,Female,1996,25.45,Asia
+883,Korea,Female,1997,25.71,Asia
+884,Korea,Female,1998,26.02,Asia
+885,Korea,Female,1999,26.29,Asia
+886,Korea,Female,2000,26.49,Asia
+887,Korea,Female,2001,26.78,Asia
+888,Korea,Female,2002,27.01,Asia
+889,Korea,Female,2003,27.27,Asia
+890,Korea,Female,2004,27.52,Asia
+891,Korea,Female,2005,27.72,Asia
+892,Korea,Female,2006,27.79,Asia
+893,Korea,Female,2007,28.09,Asia
+894,Korea,Female,2008,28.32,Asia
+895,Korea,Female,2009,28.71,Asia
+896,Korea,Female,2010,28.91,Asia
+897,Korea,Female,2011,29.14,Asia
+898,Korea,Female,2012,29.41,Asia
+899,Korea,Female,2013,29.59,Asia
+900,Korea,Female,2014,29.81,Asia
+901,Korea,Female,2015,29.96,Asia
+902,Korea,Female,2016,30.11,Asia
+903,Korea,Female,2017,30.24,Asia
+904,Latvia,Male,2002,27.2,Europe
+905,Latvia,Male,2003,27.3,Europe
+906,Latvia,Male,2004,27.6,Europe
+907,Latvia,Male,2005,28.0,Europe
+908,Latvia,Male,2006,28.3,Europe
+909,Latvia,Male,2007,28.5,Europe
+910,Latvia,Male,2008,28.8,Europe
+911,Latvia,Male,2009,29.3,Europe
+912,Latvia,Male,2010,29.4,Europe
+913,Latvia,Male,2011,29.6,Europe
+914,Latvia,Male,2012,30.0,Europe
+915,Latvia,Male,2013,30.2,Europe
+916,Latvia,Male,2014,30.6,Europe
+917,Latvia,Male,2015,31.0,Europe
+918,Latvia,Male,2016,31.1,Europe
+919,Latvia,Male,2017,31.5,Europe
+920,Latvia,Female,2002,25.0,Europe
+921,Latvia,Female,2003,25.1,Europe
+922,Latvia,Female,2004,25.3,Europe
+923,Latvia,Female,2005,25.8,Europe
+924,Latvia,Female,2006,26.1,Europe
+925,Latvia,Female,2007,26.2,Europe
+926,Latvia,Female,2008,26.5,Europe
+927,Latvia,Female,2009,26.9,Europe
+928,Latvia,Female,2010,27.1,Europe
+929,Latvia,Female,2011,27.3,Europe
+930,Latvia,Female,2012,27.5,Europe
+931,Latvia,Female,2013,27.9,Europe
+932,Latvia,Female,2014,28.2,Europe
+933,Latvia,Female,2015,28.5,Europe
+934,Latvia,Female,2016,28.8,Europe
+935,Latvia,Female,2017,28.9,Europe
+936,Lithuania,Male,1990,24.6,Europe
+937,Lithuania,Male,1991,24.4,Europe
+938,Lithuania,Male,1992,24.3,Europe
+939,Lithuania,Male,1993,24.4,Europe
+940,Lithuania,Male,1994,24.5,Europe
+941,Lithuania,Male,1995,24.6,Europe
+942,Lithuania,Male,1996,24.9,Europe
+943,Lithuania,Male,1997,25.0,Europe
+944,Lithuania,Male,1998,25.2,Europe
+945,Lithuania,Male,1999,25.6,Europe
+946,Lithuania,Male,2000,26.1,Europe
+947,Lithuania,Male,2001,26.4,Europe
+948,Lithuania,Male,2002,26.7,Europe
+949,Lithuania,Male,2003,27.0,Europe
+950,Lithuania,Male,2004,27.1,Europe
+951,Lithuania,Male,2005,27.3,Europe
+952,Lithuania,Male,2006,27.4,Europe
+953,Lithuania,Male,2007,27.8,Europe
+954,Lithuania,Male,2008,28.0,Europe
+955,Lithuania,Male,2009,28.6,Europe
+956,Lithuania,Male,2010,28.7,Europe
+957,Lithuania,Male,2011,29.0,Europe
+958,Lithuania,Male,2013,29.5,Europe
+959,Lithuania,Male,2014,29.7,Europe
+960,Lithuania,Male,2015,28.9,Europe
+961,Lithuania,Male,2016,30.3,Europe
+962,Lithuania,Male,2017,30.5,Europe
+963,Lithuania,Female,1990,22.7,Europe
+964,Lithuania,Female,1991,22.5,Europe
+965,Lithuania,Female,1992,22.4,Europe
+966,Lithuania,Female,1993,22.4,Europe
+967,Lithuania,Female,1994,22.5,Europe
+968,Lithuania,Female,1995,22.6,Europe
+969,Lithuania,Female,1996,22.8,Europe
+970,Lithuania,Female,1997,23.0,Europe
+971,Lithuania,Female,1998,23.1,Europe
+972,Lithuania,Female,1999,23.4,Europe
+973,Lithuania,Female,2000,23.8,Europe
+974,Lithuania,Female,2001,24.1,Europe
+975,Lithuania,Female,2002,24.3,Europe
+976,Lithuania,Female,2003,24.6,Europe
+977,Lithuania,Female,2004,24.8,Europe
+978,Lithuania,Female,2005,25.0,Europe
+979,Lithuania,Female,2006,25.1,Europe
+980,Lithuania,Female,2007,25.5,Europe
+981,Lithuania,Female,2008,25.8,Europe
+982,Lithuania,Female,2009,26.2,Europe
+983,Lithuania,Female,2010,26.5,Europe
+984,Lithuania,Female,2011,26.7,Europe
+985,Lithuania,Female,2013,27.1,Europe
+986,Lithuania,Female,2014,27.3,Europe
+987,Lithuania,Female,2015,27.5,Europe
+988,Lithuania,Female,2016,27.9,Europe
+989,Lithuania,Female,2017,27.8,Europe
+990,Luxembourg,Male,1990,27.7,Europe
+991,Luxembourg,Male,1991,28.4,Europe
+992,Luxembourg,Male,1992,28.5,Europe
+993,Luxembourg,Male,1993,28.5,Europe
+994,Luxembourg,Male,1994,28.8,Europe
+995,Luxembourg,Male,1995,29.2,Europe
+996,Luxembourg,Male,1996,29.1,Europe
+997,Luxembourg,Male,1997,29.6,Europe
+998,Luxembourg,Male,1998,30.0,Europe
+999,Luxembourg,Male,1999,30.2,Europe
+1000,Luxembourg,Male,2000,30.3,Europe
+1001,Luxembourg,Male,2001,30.6,Europe
+1002,Luxembourg,Male,2002,30.5,Europe
+1003,Luxembourg,Male,2003,30.8,Europe
+1004,Luxembourg,Male,2004,31.5,Europe
+1005,Luxembourg,Male,2005,31.5,Europe
+1006,Luxembourg,Male,2006,31.8,Europe
+1007,Luxembourg,Male,2007,32.0,Europe
+1008,Luxembourg,Male,2008,32.1,Europe
+1009,Luxembourg,Male,2009,32.4,Europe
+1010,Luxembourg,Male,2010,32.8,Europe
+1011,Luxembourg,Male,2011,32.9,Europe
+1012,Luxembourg,Male,2013,32.7,Europe
+1013,Luxembourg,Male,2014,33.0,Europe
+1014,Luxembourg,Male,2015,34.8,Europe
+1015,Luxembourg,Male,2016,33.8,Europe
+1016,Luxembourg,Male,2017,34.0,Europe
+1017,Luxembourg,Female,1990,25.6,Europe
+1018,Luxembourg,Female,1991,26.1,Europe
+1019,Luxembourg,Female,1992,26.2,Europe
+1020,Luxembourg,Female,1993,25.8,Europe
+1021,Luxembourg,Female,1994,26.4,Europe
+1022,Luxembourg,Female,1995,26.7,Europe
+1023,Luxembourg,Female,1996,26.6,Europe
+1024,Luxembourg,Female,1997,27.2,Europe
+1025,Luxembourg,Female,1998,27.5,Europe
+1026,Luxembourg,Female,1999,27.7,Europe
+1027,Luxembourg,Female,2000,27.4,Europe
+1028,Luxembourg,Female,2001,27.9,Europe
+1029,Luxembourg,Female,2002,27.9,Europe
+1030,Luxembourg,Female,2003,28.2,Europe
+1031,Luxembourg,Female,2004,28.5,Europe
+1032,Luxembourg,Female,2005,28.9,Europe
+1033,Luxembourg,Female,2006,29.4,Europe
+1034,Luxembourg,Female,2007,29.5,Europe
+1035,Luxembourg,Female,2008,29.8,Europe
+1036,Luxembourg,Female,2009,29.7,Europe
+1037,Luxembourg,Female,2010,30.2,Europe
+1038,Luxembourg,Female,2011,30.3,Europe
+1039,Luxembourg,Female,2013,29.7,Europe
+1040,Luxembourg,Female,2014,30.9,Europe
+1041,Luxembourg,Female,2015,32.1,Europe
+1042,Luxembourg,Female,2016,31.6,Europe
+1043,Luxembourg,Female,2017,31.6,Europe
+1044,Mexico,Male,1995,23.2,North America
+1045,Mexico,Male,2009,28.7,North America
+1046,Mexico,Male,2010,29.1,North America
+1047,Mexico,Male,2011,29.2,North America
+1048,Mexico,Male,2012,29.4,North America
+1049,Mexico,Male,2013,29.8,North America
+1050,Mexico,Male,2014,30.4,North America
+1051,Mexico,Female,1995,20.0,North America
+1052,Mexico,Female,2009,25.8,North America
+1053,Mexico,Female,2010,26.2,North America
+1054,Mexico,Female,2011,26.3,North America
+1055,Mexico,Female,2012,26.6,North America
+1056,Mexico,Female,2013,26.9,North America
+1057,Mexico,Female,2014,27.5,North America
+1058,Netherlands,Male,1990,28.5,Europe
+1059,Netherlands,Male,1991,28.8,Europe
+1060,Netherlands,Male,1992,29.1,Europe
+1061,Netherlands,Male,1993,29.3,Europe
+1062,Netherlands,Male,1994,29.6,Europe
+1063,Netherlands,Male,1995,29.7,Europe
+1064,Netherlands,Male,1996,30.0,Europe
+1065,Netherlands,Male,1997,30.2,Europe
+1066,Netherlands,Male,1998,30.3,Europe
+1067,Netherlands,Male,1999,30.5,Europe
+1068,Netherlands,Male,2000,30.7,Europe
+1069,Netherlands,Male,2001,30.7,Europe
+1070,Netherlands,Male,2002,31.2,Europe
+1071,Netherlands,Male,2004,31.7,Europe
+1072,Netherlands,Male,2005,31.8,Europe
+1073,Netherlands,Male,2006,32.0,Europe
+1074,Netherlands,Male,2007,32.3,Europe
+1075,Netherlands,Male,2008,32.4,Europe
+1076,Netherlands,Male,2009,32.5,Europe
+1077,Netherlands,Male,2010,32.4,Europe
+1078,Netherlands,Male,2011,32.6,Europe
+1079,Netherlands,Male,2013,32.9,Europe
+1080,Netherlands,Male,2014,33.0,Europe
+1081,Netherlands,Male,2015,33.3,Europe
+1082,Netherlands,Male,2016,33.6,Europe
+1083,Netherlands,Male,2017,33.9,Europe
+1084,Netherlands,Female,1990,26.1,Europe
+1085,Netherlands,Female,1991,26.5,Europe
+1086,Netherlands,Female,1992,26.7,Europe
+1087,Netherlands,Female,1993,26.9,Europe
+1088,Netherlands,Female,1994,27.2,Europe
+1089,Netherlands,Female,1995,27.3,Europe
+1090,Netherlands,Female,1996,27.4,Europe
+1091,Netherlands,Female,1997,27.6,Europe
+1092,Netherlands,Female,1998,27.8,Europe
+1093,Netherlands,Female,1999,27.9,Europe
+1094,Netherlands,Female,2000,28.0,Europe
+1095,Netherlands,Female,2001,28.1,Europe
+1096,Netherlands,Female,2002,28.5,Europe
+1097,Netherlands,Female,2004,29.0,Europe
+1098,Netherlands,Female,2005,29.2,Europe
+1099,Netherlands,Female,2006,29.4,Europe
+1100,Netherlands,Female,2007,29.5,Europe
+1101,Netherlands,Female,2008,29.8,Europe
+1102,Netherlands,Female,2009,29.9,Europe
+1103,Netherlands,Female,2010,29.8,Europe
+1104,Netherlands,Female,2011,30.1,Europe
+1105,Netherlands,Female,2013,30.3,Europe
+1106,Netherlands,Female,2014,30.4,Europe
+1107,Netherlands,Female,2015,30.8,Europe
+1108,Netherlands,Female,2016,31.1,Europe
+1109,Netherlands,Female,2017,31.4,Europe
+1110,New Zealand,Male,1990,26.8,Oceania
+1111,New Zealand,Male,1991,26.9,Oceania
+1112,New Zealand,Male,1992,27.0,Oceania
+1113,New Zealand,Male,1993,27.3,Oceania
+1114,New Zealand,Male,1994,27.5,Oceania
+1115,New Zealand,Male,1995,27.8,Oceania
+1116,New Zealand,Male,1996,28.1,Oceania
+1117,New Zealand,Male,1997,28.3,Oceania
+1118,New Zealand,Male,1998,28.6,Oceania
+1119,New Zealand,Male,1999,28.9,Oceania
+1120,New Zealand,Male,2000,29.2,Oceania
+1121,New Zealand,Male,2001,29.3,Oceania
+1122,New Zealand,Male,2002,29.4,Oceania
+1123,New Zealand,Male,2003,29.5,Oceania
+1124,New Zealand,Male,2004,29.9,Oceania
+1125,New Zealand,Male,2005,30.1,Oceania
+1126,New Zealand,Male,2006,30.0,Oceania
+1127,New Zealand,Male,2007,30.0,Oceania
+1128,New Zealand,Male,2008,30.0,Oceania
+1129,New Zealand,Male,2009,29.8,Oceania
+1130,New Zealand,Male,2010,29.9,Oceania
+1131,New Zealand,Male,2011,29.9,Oceania
+1132,New Zealand,Male,2012,30.0,Oceania
+1133,New Zealand,Male,2013,30.1,Oceania
+1134,New Zealand,Male,2014,30.2,Oceania
+1135,New Zealand,Male,2015,30.2,Oceania
+1136,New Zealand,Male,2016,30.3,Oceania
+1137,New Zealand,Male,2017,30.2,Oceania
+1138,New Zealand,Female,1990,24.5,Oceania
+1139,New Zealand,Female,1991,24.6,Oceania
+1140,New Zealand,Female,1992,24.9,Oceania
+1141,New Zealand,Female,1993,25.2,Oceania
+1142,New Zealand,Female,1994,25.5,Oceania
+1143,New Zealand,Female,1995,25.8,Oceania
+1144,New Zealand,Female,1996,26.1,Oceania
+1145,New Zealand,Female,1997,26.5,Oceania
+1146,New Zealand,Female,1998,26.7,Oceania
+1147,New Zealand,Female,1999,27.0,Oceania
+1148,New Zealand,Female,2000,27.4,Oceania
+1149,New Zealand,Female,2001,27.5,Oceania
+1150,New Zealand,Female,2002,27.6,Oceania
+1151,New Zealand,Female,2003,27.7,Oceania
+1152,New Zealand,Female,2004,28.1,Oceania
+1153,New Zealand,Female,2005,28.2,Oceania
+1154,New Zealand,Female,2006,28.3,Oceania
+1155,New Zealand,Female,2007,28.2,Oceania
+1156,New Zealand,Female,2008,28.2,Oceania
+1157,New Zealand,Female,2009,28.2,Oceania
+1158,New Zealand,Female,2010,28.2,Oceania
+1159,New Zealand,Female,2011,28.4,Oceania
+1160,New Zealand,Female,2012,28.5,Oceania
+1161,New Zealand,Female,2013,28.6,Oceania
+1162,New Zealand,Female,2014,28.7,Oceania
+1163,New Zealand,Female,2015,28.8,Oceania
+1164,New Zealand,Female,2016,29.0,Oceania
+1165,New Zealand,Female,2017,29.0,Oceania
+1166,Norway,Male,1990,29.0,Europe
+1167,Norway,Male,1991,29.2,Europe
+1168,Norway,Male,1992,29.4,Europe
+1169,Norway,Male,1993,29.7,Europe
+1170,Norway,Male,1994,30.0,Europe
+1171,Norway,Male,1995,30.2,Europe
+1172,Norway,Male,1996,30.6,Europe
+1173,Norway,Male,1997,30.8,Europe
+1174,Norway,Male,1998,31.2,Europe
+1175,Norway,Male,1999,31.6,Europe
+1176,Norway,Male,2000,30.9,Europe
+1177,Norway,Male,2001,31.0,Europe
+1178,Norway,Male,2002,31.1,Europe
+1179,Norway,Male,2006,33.1,Europe
+1180,Norway,Male,2007,33.4,Europe
+1181,Norway,Male,2008,33.8,Europe
+1182,Norway,Male,2009,33.5,Europe
+1183,Norway,Male,2010,33.7,Europe
+1184,Norway,Male,2011,33.9,Europe
+1185,Norway,Male,2012,34.1,Europe
+1186,Norway,Male,2013,34.3,Europe
+1187,Norway,Male,2014,34.4,Europe
+1188,Norway,Male,2015,34.6,Europe
+1189,Norway,Male,2016,34.7,Europe
+1190,Norway,Male,2017,35.0,Europe
+1191,Norway,Female,1990,26.4,Europe
+1192,Norway,Female,1991,26.6,Europe
+1193,Norway,Female,1992,26.8,Europe
+1194,Norway,Female,1993,27.0,Europe
+1195,Norway,Female,1994,27.2,Europe
+1196,Norway,Female,1995,27.5,Europe
+1197,Norway,Female,1996,27.9,Europe
+1198,Norway,Female,1997,28.2,Europe
+1199,Norway,Female,1998,28.4,Europe
+1200,Norway,Female,1999,28.9,Europe
+1201,Norway,Female,2000,28.4,Europe
+1202,Norway,Female,2001,28.6,Europe
+1203,Norway,Female,2002,28.7,Europe
+1204,Norway,Female,2006,30.4,Europe
+1205,Norway,Female,2007,30.6,Europe
+1206,Norway,Female,2008,31.0,Europe
+1207,Norway,Female,2009,30.9,Europe
+1208,Norway,Female,2010,30.8,Europe
+1209,Norway,Female,2011,31.1,Europe
+1210,Norway,Female,2012,31.4,Europe
+1211,Norway,Female,2013,31.5,Europe
+1212,Norway,Female,2014,31.6,Europe
+1213,Norway,Female,2015,31.9,Europe
+1214,Norway,Female,2016,31.9,Europe
+1215,Norway,Female,2017,32.3,Europe
+1216,Poland,Male,1993,25.3,Europe
+1217,Poland,Male,1994,25.5,Europe
+1218,Poland,Male,1995,25.6,Europe
+1219,Poland,Male,1996,25.7,Europe
+1220,Poland,Male,1997,26.0,Europe
+1221,Poland,Male,1998,26.1,Europe
+1222,Poland,Male,1999,26.2,Europe
+1223,Poland,Male,2000,26.5,Europe
+1224,Poland,Male,2001,26.7,Europe
+1225,Poland,Male,2002,27.0,Europe
+1226,Poland,Male,2003,27.3,Europe
+1227,Poland,Male,2004,27.5,Europe
+1228,Poland,Male,2005,27.7,Europe
+1229,Poland,Male,2006,27.9,Europe
+1230,Poland,Male,2007,28.1,Europe
+1231,Poland,Male,2008,28.2,Europe
+1232,Poland,Male,2009,28.3,Europe
+1233,Poland,Male,2010,28.4,Europe
+1234,Poland,Male,2011,28.6,Europe
+1235,Poland,Male,2012,28.7,Europe
+1236,Poland,Male,2013,29.0,Europe
+1237,Poland,Male,2014,29.1,Europe
+1238,Poland,Male,2015,29.3,Europe
+1239,Poland,Male,2016,29.5,Europe
+1240,Poland,Male,2017,29.6,Europe
+1241,Poland,Female,1993,23.0,Europe
+1242,Poland,Female,1994,23.2,Europe
+1243,Poland,Female,1995,23.3,Europe
+1244,Poland,Female,1996,23.4,Europe
+1245,Poland,Female,1997,23.6,Europe
+1246,Poland,Female,1998,23.8,Europe
+1247,Poland,Female,1999,23.9,Europe
+1248,Poland,Female,2000,24.1,Europe
+1249,Poland,Female,2001,24.4,Europe
+1250,Poland,Female,2002,24.6,Europe
+1251,Poland,Female,2003,24.9,Europe
+1252,Poland,Female,2004,25.1,Europe
+1253,Poland,Female,2005,25.3,Europe
+1254,Poland,Female,2006,25.5,Europe
+1255,Poland,Female,2007,25.6,Europe
+1256,Poland,Female,2008,25.7,Europe
+1257,Poland,Female,2009,25.9,Europe
+1258,Poland,Female,2010,26.1,Europe
+1259,Poland,Female,2011,26.2,Europe
+1260,Poland,Female,2012,26.3,Europe
+1261,Poland,Female,2013,26.6,Europe
+1262,Poland,Female,2014,26.7,Europe
+1263,Poland,Female,2015,26.9,Europe
+1264,Poland,Female,2016,27.1,Europe
+1265,Poland,Female,2017,27.3,Europe
+1266,Portugal,Male,1991,26.4,Europe
+1267,Portugal,Male,1992,26.6,Europe
+1268,Portugal,Male,1993,26.7,Europe
+1269,Portugal,Male,1994,26.8,Europe
+1270,Portugal,Male,1995,26.9,Europe
+1271,Portugal,Male,1996,27.0,Europe
+1272,Portugal,Male,1997,27.1,Europe
+1273,Portugal,Male,1998,27.2,Europe
+1274,Portugal,Male,1999,27.3,Europe
+1275,Portugal,Male,2000,27.4,Europe
+1276,Portugal,Male,2001,27.7,Europe
+1277,Portugal,Male,2002,27.9,Europe
+1278,Portugal,Male,2003,28.1,Europe
+1279,Portugal,Male,2004,28.2,Europe
+1280,Portugal,Male,2005,28.5,Europe
+1281,Portugal,Male,2006,28.5,Europe
+1282,Portugal,Male,2007,28.7,Europe
+1283,Portugal,Male,2008,29.0,Europe
+1284,Portugal,Male,2009,29.3,Europe
+1285,Portugal,Male,2010,29.9,Europe
+1286,Portugal,Male,2011,30.1,Europe
+1287,Portugal,Male,2012,30.4,Europe
+1288,Portugal,Male,2014,31.5,Europe
+1289,Portugal,Male,2015,31.9,Europe
+1290,Portugal,Male,2016,32.2,Europe
+1291,Portugal,Male,2017,32.5,Europe
+1292,Portugal,Female,1991,24.0,Europe
+1293,Portugal,Female,1992,24.1,Europe
+1294,Portugal,Female,1993,24.3,Europe
+1295,Portugal,Female,1994,24.4,Europe
+1296,Portugal,Female,1995,24.5,Europe
+1297,Portugal,Female,1996,24.7,Europe
+1298,Portugal,Female,1997,24.8,Europe
+1299,Portugal,Female,1998,24.9,Europe
+1300,Portugal,Female,1999,25.0,Europe
+1301,Portugal,Female,2000,25.2,Europe
+1302,Portugal,Female,2001,25.5,Europe
+1303,Portugal,Female,2002,25.7,Europe
+1304,Portugal,Female,2003,25.9,Europe
+1305,Portugal,Female,2004,26.0,Europe
+1306,Portugal,Female,2005,26.3,Europe
+1307,Portugal,Female,2006,26.4,Europe
+1308,Portugal,Female,2007,26.6,Europe
+1309,Portugal,Female,2008,26.8,Europe
+1310,Portugal,Female,2009,27.2,Europe
+1311,Portugal,Female,2010,27.7,Europe
+1312,Portugal,Female,2011,28.0,Europe
+1313,Portugal,Female,2012,28.4,Europe
+1314,Portugal,Female,2014,29.8,Europe
+1315,Portugal,Female,2015,30.2,Europe
+1316,Portugal,Female,2016,30.4,Europe
+1317,Portugal,Female,2017,30.7,Europe
+1318,Slovak Republic,Male,1999,25.9,Europe
+1319,Slovak Republic,Male,2000,26.9,Europe
+1320,Slovak Republic,Male,2001,27.1,Europe
+1321,Slovak Republic,Male,2002,27.6,Europe
+1322,Slovak Republic,Male,2003,27.9,Europe
+1323,Slovak Republic,Male,2004,28.3,Europe
+1324,Slovak Republic,Male,2006,29.2,Europe
+1325,Slovak Republic,Male,2007,29.3,Europe
+1326,Slovak Republic,Male,2008,29.5,Europe
+1327,Slovak Republic,Male,2009,29.7,Europe
+1328,Slovak Republic,Male,2010,30.0,Europe
+1329,Slovak Republic,Male,2012,30.1,Europe
+1330,Slovak Republic,Male,2013,30.6,Europe
+1331,Slovak Republic,Male,2014,30.8,Europe
+1332,Slovak Republic,Male,2015,31.1,Europe
+1333,Slovak Republic,Male,2016,31.1,Europe
+1334,Slovak Republic,Male,2017,31.2,Europe
+1335,Slovak Republic,Female,1999,23.3,Europe
+1336,Slovak Republic,Female,2000,24.1,Europe
+1337,Slovak Republic,Female,2001,24.3,Europe
+1338,Slovak Republic,Female,2002,24.7,Europe
+1339,Slovak Republic,Female,2003,25.1,Europe
+1340,Slovak Republic,Female,2004,25.4,Europe
+1341,Slovak Republic,Female,2006,26.3,Europe
+1342,Slovak Republic,Female,2007,26.5,Europe
+1343,Slovak Republic,Female,2008,26.7,Europe
+1344,Slovak Republic,Female,2009,26.9,Europe
+1345,Slovak Republic,Female,2010,27.2,Europe
+1346,Slovak Republic,Female,2012,27.6,Europe
+1347,Slovak Republic,Female,2013,27.8,Europe
+1348,Slovak Republic,Female,2014,28.1,Europe
+1349,Slovak Republic,Female,2015,28.2,Europe
+1350,Slovak Republic,Female,2016,28.3,Europe
+1351,Slovak Republic,Female,2017,28.6,Europe
+1352,Slovenia,Male,1990,26.9,Europe
+1353,Slovenia,Male,1991,26.9,Europe
+1354,Slovenia,Male,1992,27.4,Europe
+1355,Slovenia,Male,1993,27.8,Europe
+1356,Slovenia,Male,1994,28.0,Europe
+1357,Slovenia,Male,1995,28.1,Europe
+1358,Slovenia,Male,1996,28.4,Europe
+1359,Slovenia,Male,1997,28.8,Europe
+1360,Slovenia,Male,1998,29.2,Europe
+1361,Slovenia,Male,1999,29.6,Europe
+1362,Slovenia,Male,2000,29.9,Europe
+1363,Slovenia,Male,2001,30.3,Europe
+1364,Slovenia,Male,2002,30.7,Europe
+1365,Slovenia,Male,2003,30.7,Europe
+1366,Slovenia,Male,2004,30.9,Europe
+1367,Slovenia,Male,2005,31.5,Europe
+1368,Slovenia,Male,2006,31.1,Europe
+1369,Slovenia,Male,2007,31.2,Europe
+1370,Slovenia,Male,2008,31.3,Europe
+1371,Slovenia,Male,2009,31.2,Europe
+1372,Slovenia,Male,2010,31.7,Europe
+1373,Slovenia,Male,2011,32.0,Europe
+1374,Slovenia,Male,2012,32.1,Europe
+1375,Slovenia,Male,2013,32.3,Europe
+1376,Slovenia,Male,2014,32.2,Europe
+1377,Slovenia,Male,2015,32.3,Europe
+1378,Slovenia,Male,2016,32.6,Europe
+1379,Slovenia,Male,2017,32.9,Europe
+1380,Slovenia,Female,1990,23.9,Europe
+1381,Slovenia,Female,1991,24.1,Europe
+1382,Slovenia,Female,1992,24.4,Europe
+1383,Slovenia,Female,1993,24.8,Europe
+1384,Slovenia,Female,1994,25.1,Europe
+1385,Slovenia,Female,1995,25.3,Europe
+1386,Slovenia,Female,1996,25.6,Europe
+1387,Slovenia,Female,1997,25.9,Europe
+1388,Slovenia,Female,1998,26.2,Europe
+1389,Slovenia,Female,1999,26.5,Europe
+1390,Slovenia,Female,2000,27.0,Europe
+1391,Slovenia,Female,2001,27.3,Europe
+1392,Slovenia,Female,2002,27.7,Europe
+1393,Slovenia,Female,2003,27.8,Europe
+1394,Slovenia,Female,2004,28.1,Europe
+1395,Slovenia,Female,2005,28.7,Europe
+1396,Slovenia,Female,2006,28.4,Europe
+1397,Slovenia,Female,2007,28.6,Europe
+1398,Slovenia,Female,2008,28.6,Europe
+1399,Slovenia,Female,2009,28.5,Europe
+1400,Slovenia,Female,2010,29.0,Europe
+1401,Slovenia,Female,2011,29.4,Europe
+1402,Slovenia,Female,2012,29.4,Europe
+1403,Slovenia,Female,2013,29.6,Europe
+1404,Slovenia,Female,2014,29.7,Europe
+1405,Slovenia,Female,2015,30.0,Europe
+1406,Slovenia,Female,2016,30.3,Europe
+1407,Slovenia,Female,2017,30.4,Europe
+1408,Spain,Male,1990,27.8,Europe
+1409,Spain,Male,1991,28.1,Europe
+1410,Spain,Male,1992,28.4,Europe
+1411,Spain,Male,1993,28.7,Europe
+1412,Spain,Male,1994,28.9,Europe
+1413,Spain,Male,1995,29.2,Europe
+1414,Spain,Male,1996,29.5,Europe
+1415,Spain,Male,1997,29.7,Europe
+1416,Spain,Male,1998,29.8,Europe
+1417,Spain,Male,1999,30.0,Europe
+1418,Spain,Male,2000,30.2,Europe
+1419,Spain,Male,2002,30.7,Europe
+1420,Spain,Male,2003,30.9,Europe
+1421,Spain,Male,2004,31.3,Europe
+1422,Spain,Male,2005,31.6,Europe
+1423,Spain,Male,2006,31.8,Europe
+1424,Spain,Male,2007,32.0,Europe
+1425,Spain,Male,2008,32.3,Europe
+1426,Spain,Male,2009,32.7,Europe
+1427,Spain,Male,2010,33.1,Europe
+1428,Spain,Male,2011,33.4,Europe
+1429,Spain,Male,2012,33.7,Europe
+1430,Spain,Male,2013,34.4,Europe
+1431,Spain,Male,2014,34.5,Europe
+1432,Spain,Male,2015,34.9,Europe
+1433,Spain,Male,2016,35.1,Europe
+1434,Spain,Male,2017,35.4,Europe
+1435,Spain,Female,1990,25.6,Europe
+1436,Spain,Female,1991,25.9,Europe
+1437,Spain,Female,1992,26.2,Europe
+1438,Spain,Female,1993,26.6,Europe
+1439,Spain,Female,1994,26.9,Europe
+1440,Spain,Female,1995,27.1,Europe
+1441,Spain,Female,1996,27.4,Europe
+1442,Spain,Female,1997,27.6,Europe
+1443,Spain,Female,1998,27.8,Europe
+1444,Spain,Female,1999,28.0,Europe
+1445,Spain,Female,2000,28.1,Europe
+1446,Spain,Female,2002,28.6,Europe
+1447,Spain,Female,2003,28.9,Europe
+1448,Spain,Female,2004,29.2,Europe
+1449,Spain,Female,2005,29.4,Europe
+1450,Spain,Female,2006,29.6,Europe
+1451,Spain,Female,2007,29.8,Europe
+1452,Spain,Female,2008,30.1,Europe
+1453,Spain,Female,2009,30.5,Europe
+1454,Spain,Female,2010,30.9,Europe
+1455,Spain,Female,2011,31.3,Europe
+1456,Spain,Female,2012,31.6,Europe
+1457,Spain,Female,2013,32.2,Europe
+1458,Spain,Female,2014,32.3,Europe
+1459,Spain,Female,2015,32.7,Europe
+1460,Spain,Female,2016,33.0,Europe
+1461,Spain,Female,2017,33.2,Europe
+1462,Sweden,Male,1990,30.3,Europe
+1463,Sweden,Male,1991,30.6,Europe
+1464,Sweden,Male,1992,30.9,Europe
+1465,Sweden,Male,1993,31.1,Europe
+1466,Sweden,Male,1994,31.3,Europe
+1467,Sweden,Male,1996,31.8,Europe
+1468,Sweden,Male,1997,32.2,Europe
+1469,Sweden,Male,1998,32.4,Europe
+1470,Sweden,Male,1999,32.9,Europe
+1471,Sweden,Male,2000,33.0,Europe
+1472,Sweden,Male,2001,33.0,Europe
+1473,Sweden,Male,2002,33.3,Europe
+1474,Sweden,Male,2003,33.8,Europe
+1475,Sweden,Male,2004,34.1,Europe
+1476,Sweden,Male,2005,34.6,Europe
+1477,Sweden,Male,2006,34.4,Europe
+1478,Sweden,Male,2008,35.2,Europe
+1479,Sweden,Male,2009,35.2,Europe
+1480,Sweden,Male,2010,35.6,Europe
+1481,Sweden,Male,2011,35.5,Europe
+1482,Sweden,Male,2012,35.9,Europe
+1483,Sweden,Male,2013,35.7,Europe
+1484,Sweden,Male,2014,35.8,Europe
+1485,Sweden,Male,2015,36.2,Europe
+1486,Sweden,Male,2016,36.5,Europe
+1487,Sweden,Male,2017,36.6,Europe
+1488,Sweden,Female,1990,27.7,Europe
+1489,Sweden,Female,1991,27.9,Europe
+1490,Sweden,Female,1992,28.2,Europe
+1491,Sweden,Female,1993,28.3,Europe
+1492,Sweden,Female,1994,28.7,Europe
+1493,Sweden,Female,1996,29.2,Europe
+1494,Sweden,Female,1997,29.5,Europe
+1495,Sweden,Female,1998,29.7,Europe
+1496,Sweden,Female,1999,30.2,Europe
+1497,Sweden,Female,2000,30.4,Europe
+1498,Sweden,Female,2001,30.3,Europe
+1499,Sweden,Female,2002,30.6,Europe
+1500,Sweden,Female,2003,31.0,Europe
+1501,Sweden,Female,2004,31.3,Europe
+1502,Sweden,Female,2005,31.7,Europe
+1503,Sweden,Female,2006,31.5,Europe
+1504,Sweden,Female,2008,32.3,Europe
+1505,Sweden,Female,2009,32.3,Europe
+1506,Sweden,Female,2010,32.7,Europe
+1507,Sweden,Female,2011,33.0,Europe
+1508,Sweden,Female,2012,33.3,Europe
+1509,Sweden,Female,2013,33.0,Europe
+1510,Sweden,Female,2014,33.3,Europe
+1511,Sweden,Female,2015,33.6,Europe
+1512,Sweden,Female,2016,33.8,Europe
+1513,Sweden,Female,2017,33.8,Europe
+1514,Switzerland,Male,1990,29.4,Europe
+1515,Switzerland,Male,1991,29.5,Europe
+1516,Switzerland,Male,1992,29.5,Europe
+1517,Switzerland,Male,1994,29.9,Europe
+1518,Switzerland,Male,1995,30.1,Europe
+1519,Switzerland,Male,1998,30.4,Europe
+1520,Switzerland,Male,2000,30.8,Europe
+1521,Switzerland,Male,2001,31.1,Europe
+1522,Switzerland,Male,2003,31.2,Europe
+1523,Switzerland,Male,2004,31.4,Europe
+1524,Switzerland,Male,2005,31.5,Europe
+1525,Switzerland,Male,2006,31.6,Europe
+1526,Switzerland,Male,2007,31.7,Europe
+1527,Switzerland,Male,2008,32.1,Europe
+1528,Switzerland,Male,2009,32.1,Europe
+1529,Switzerland,Male,2010,32.2,Europe
+1530,Switzerland,Male,2011,32.4,Europe
+1531,Switzerland,Male,2012,32.4,Europe
+1532,Switzerland,Male,2013,32.5,Europe
+1533,Switzerland,Male,2014,32.5,Europe
+1534,Switzerland,Male,2015,32.6,Europe
+1535,Switzerland,Male,2016,32.7,Europe
+1536,Switzerland,Male,2017,32.8,Europe
+1537,Switzerland,Female,1990,27.0,Europe
+1538,Switzerland,Female,1991,27.1,Europe
+1539,Switzerland,Female,1992,27.1,Europe
+1540,Switzerland,Female,1993,27.2,Europe
+1541,Switzerland,Female,1994,27.4,Europe
+1542,Switzerland,Female,1995,27.5,Europe
+1543,Switzerland,Female,1997,27.8,Europe
+1544,Switzerland,Female,1998,27.9,Europe
+1545,Switzerland,Female,1999,28.0,Europe
+1546,Switzerland,Female,2000,28.2,Europe
+1547,Switzerland,Female,2001,28.4,Europe
+1548,Switzerland,Female,2003,28.7,Europe
+1549,Switzerland,Female,2004,29.0,Europe
+1550,Switzerland,Female,2005,29.1,Europe
+1551,Switzerland,Female,2006,29.1,Europe
+1552,Switzerland,Female,2007,29.3,Europe
+1553,Switzerland,Female,2008,29.6,Europe
+1554,Switzerland,Female,2009,29.6,Europe
+1555,Switzerland,Female,2010,29.8,Europe
+1556,Switzerland,Female,2011,29.9,Europe
+1557,Switzerland,Female,2012,29.9,Europe
+1558,Switzerland,Female,2013,30.1,Europe
+1559,Switzerland,Female,2014,30.1,Europe
+1560,Switzerland,Female,2015,30.2,Europe
+1561,Switzerland,Female,2016,30.4,Europe
+1562,Switzerland,Female,2017,30.4,Europe
+1563,Turkey,Male,2003,27.5,Asia
+1564,Turkey,Male,2006,26.9,Asia
+1565,Turkey,Male,2007,26.8,Asia
+1566,Turkey,Male,2008,26.9,Asia
+1567,Turkey,Male,2009,27.0,Asia
+1568,Turkey,Male,2010,27.1,Asia
+1569,Turkey,Male,2011,27.2,Asia
+1570,Turkey,Male,2013,27.3,Asia
+1571,Turkey,Male,2014,27.4,Asia
+1572,Turkey,Male,2015,27.5,Asia
+1573,Turkey,Male,2016,27.7,Asia
+1574,Turkey,Male,2017,27.8,Asia
+1575,Turkey,Female,2003,24.1,Asia
+1576,Turkey,Female,2006,23.5,Asia
+1577,Turkey,Female,2007,23.5,Asia
+1578,Turkey,Female,2008,23.6,Asia
+1579,Turkey,Female,2009,23.7,Asia
+1580,Turkey,Female,2010,23.8,Asia
+1581,Turkey,Female,2011,23.9,Asia
+1582,Turkey,Female,2013,24.2,Asia
+1583,Turkey,Female,2014,24.3,Asia
+1584,Turkey,Female,2015,24.5,Asia
+1585,Turkey,Female,2016,24.7,Asia
+1586,Turkey,Female,2017,24.8,Asia
+1587,United Kingdom,Male,1990,27.2,Europe
+1588,United Kingdom,Male,1991,27.51,Europe
+1589,United Kingdom,Male,1992,27.86,Europe
+1590,United Kingdom,Male,1993,28.18,Europe
+1591,United Kingdom,Male,1994,28.5,Europe
+1592,United Kingdom,Male,1995,28.86,Europe
+1593,United Kingdom,Male,1996,29.25,Europe
+1594,United Kingdom,Male,1997,29.57,Europe
+1595,United Kingdom,Male,1998,29.84,Europe
+1596,United Kingdom,Male,1999,30.1,Europe
+1597,United Kingdom,Male,2000,30.5,Europe
+1598,United Kingdom,Male,2001,30.6,Europe
+1599,United Kingdom,Male,2002,30.9,Europe
+1600,United Kingdom,Male,2003,31.2,Europe
+1601,United Kingdom,Male,2004,31.4,Europe
+1602,United Kingdom,Male,2005,31.7,Europe
+1603,United Kingdom,Male,2006,31.8,Europe
+1604,United Kingdom,Male,2007,32.0,Europe
+1605,United Kingdom,Male,2008,32.1,Europe
+1606,United Kingdom,Male,2009,32.1,Europe
+1607,United Kingdom,Male,2010,32.1,Europe
+1608,United Kingdom,Male,2011,32.2,Europe
+1609,United Kingdom,Male,2012,32.4,Europe
+1610,United Kingdom,Male,2013,32.5,Europe
+1611,United Kingdom,Male,2014,32.7,Europe
+1612,United Kingdom,Male,2015,33.2,Europe
+1613,United Kingdom,Female,1990,25.15,Europe
+1614,United Kingdom,Female,1991,25.5,Europe
+1615,United Kingdom,Female,1992,25.86,Europe
+1616,United Kingdom,Female,1993,26.17,Europe
+1617,United Kingdom,Female,1994,26.51,Europe
+1618,United Kingdom,Female,1995,26.83,Europe
+1619,United Kingdom,Female,1996,27.2,Europe
+1620,United Kingdom,Female,1997,27.47,Europe
+1621,United Kingdom,Female,1998,27.7,Europe
+1622,United Kingdom,Female,1999,28.0,Europe
+1623,United Kingdom,Female,2000,28.2,Europe
+1624,United Kingdom,Female,2001,28.4,Europe
+1625,United Kingdom,Female,2002,28.7,Europe
+1626,United Kingdom,Female,2003,28.9,Europe
+1627,United Kingdom,Female,2004,29.1,Europe
+1628,United Kingdom,Female,2005,29.5,Europe
+1629,United Kingdom,Female,2006,29.7,Europe
+1630,United Kingdom,Female,2007,29.8,Europe
+1631,United Kingdom,Female,2008,29.9,Europe
+1632,United Kingdom,Female,2009,29.9,Europe
+1633,United Kingdom,Female,2010,30.0,Europe
+1634,United Kingdom,Female,2011,30.2,Europe
+1635,United Kingdom,Female,2012,30.3,Europe
+1636,United Kingdom,Female,2013,30.6,Europe
+1637,United Kingdom,Female,2014,30.8,Europe
+1638,United Kingdom,Female,2015,31.2,Europe
+1639,United States,Male,1990,26.1,North America
+1640,United States,Male,1991,26.3,North America
+1641,United States,Male,1992,26.5,North America
+1642,United States,Male,1993,26.5,North America
+1643,United States,Male,1994,26.7,North America
+1644,United States,Male,1995,26.9,North America
+1645,United States,Male,1996,27.1,North America
+1646,United States,Male,1997,26.8,North America
+1647,United States,Male,1998,26.7,North America
+1648,United States,Male,1999,26.9,North America
+1649,United States,Male,2000,26.8,North America
+1650,United States,Male,2001,26.9,North America
+1651,United States,Male,2002,26.9,North America
+1652,United States,Male,2003,27.1,North America
+1653,United States,Male,2004,27.4,North America
+1654,United States,Male,2005,27.1,North America
+1655,United States,Male,2006,27.5,North America
+1656,United States,Male,2007,27.5,North America
+1657,United States,Male,2008,27.6,North America
+1658,United States,Male,2009,28.1,North America
+1659,United States,Male,2010,28.2,North America
+1660,United States,Male,2011,28.4,North America
+1661,United States,Male,2012,28.6,North America
+1662,United States,Male,2013,29.0,North America
+1663,United States,Male,2014,29.3,North America
+1664,United States,Male,2015,29.2,North America
+1665,United States,Male,2016,29.5,North America
+1666,United States,Male,2017,29.5,North America
+1667,United States,Female,1990,23.9,North America
+1668,United States,Female,1991,24.1,North America
+1669,United States,Female,1992,24.4,North America
+1670,United States,Female,1993,24.5,North America
+1671,United States,Female,1994,24.5,North America
+1672,United States,Female,1995,24.5,North America
+1673,United States,Female,1996,24.8,North America
+1674,United States,Female,1997,25.0,North America
+1675,United States,Female,1998,25.0,North America
+1676,United States,Female,1999,25.1,North America
+1677,United States,Female,2000,25.1,North America
+1678,United States,Female,2001,25.1,North America
+1679,United States,Female,2002,25.3,North America
+1680,United States,Female,2003,25.3,North America
+1681,United States,Female,2004,25.3,North America
+1682,United States,Female,2005,25.3,North America
+1683,United States,Female,2006,25.5,North America
+1684,United States,Female,2007,25.6,North America
+1685,United States,Female,2008,25.9,North America
+1686,United States,Female,2009,25.9,North America
+1687,United States,Female,2010,26.1,North America
+1688,United States,Female,2011,26.4,North America
+1689,United States,Female,2012,26.6,North America
+1690,United States,Female,2013,26.6,North America
+1691,United States,Female,2014,27.0,North America
+1692,United States,Female,2015,27.1,North America
+1693,United States,Female,2016,27.4,North America
+1694,United States,Female,2017,27.4,North America
+1695,Bulgaria,Male,1990,24.6,Europe
+1696,Bulgaria,Male,1991,24.6,Europe
+1697,Bulgaria,Male,1992,24.9,Europe
+1698,Bulgaria,Male,1993,25.2,Europe
+1699,Bulgaria,Male,1994,25.7,Europe
+1700,Bulgaria,Male,1995,26.2,Europe
+1701,Bulgaria,Male,1996,26.4,Europe
+1702,Bulgaria,Male,1997,26.8,Europe
+1703,Bulgaria,Male,1998,26.9,Europe
+1704,Bulgaria,Male,1999,27.3,Europe
+1705,Bulgaria,Male,2000,28.5,Europe
+1706,Bulgaria,Male,2001,28.4,Europe
+1707,Bulgaria,Male,2002,28.2,Europe
+1708,Bulgaria,Male,2003,28.5,Europe
+1709,Bulgaria,Male,2004,28.8,Europe
+1710,Bulgaria,Male,2005,29.1,Europe
+1711,Bulgaria,Male,2006,29.2,Europe
+1712,Bulgaria,Male,2007,29.1,Europe
+1713,Bulgaria,Male,2008,29.2,Europe
+1714,Bulgaria,Male,2009,29.4,Europe
+1715,Bulgaria,Male,2010,29.8,Europe
+1716,Bulgaria,Male,2011,29.9,Europe
+1717,Bulgaria,Male,2013,30.0,Europe
+1718,Bulgaria,Male,2014,30.3,Europe
+1719,Bulgaria,Male,2015,30.4,Europe
+1720,Bulgaria,Male,2016,30.5,Europe
+1721,Bulgaria,Male,2017,30.6,Europe
+1722,Bulgaria,Female,1990,21.5,Europe
+1723,Bulgaria,Female,1991,21.5,Europe
+1724,Bulgaria,Female,1992,21.7,Europe
+1725,Bulgaria,Female,1993,22.0,Europe
+1726,Bulgaria,Female,1994,22.4,Europe
+1727,Bulgaria,Female,1995,22.7,Europe
+1728,Bulgaria,Female,1996,23.0,Europe
+1729,Bulgaria,Female,1997,23.3,Europe
+1730,Bulgaria,Female,1998,23.4,Europe
+1731,Bulgaria,Female,1999,23.7,Europe
+1732,Bulgaria,Female,2000,24.7,Europe
+1733,Bulgaria,Female,2001,24.7,Europe
+1734,Bulgaria,Female,2002,24.6,Europe
+1735,Bulgaria,Female,2003,25.0,Europe
+1736,Bulgaria,Female,2004,25.3,Europe
+1737,Bulgaria,Female,2005,25.6,Europe
+1738,Bulgaria,Female,2006,25.7,Europe
+1739,Bulgaria,Female,2007,25.8,Europe
+1740,Bulgaria,Female,2008,25.9,Europe
+1741,Bulgaria,Female,2009,26.2,Europe
+1742,Bulgaria,Female,2010,26.6,Europe
+1743,Bulgaria,Female,2011,26.6,Europe
+1744,Bulgaria,Female,2013,26.7,Europe
+1745,Bulgaria,Female,2014,26.9,Europe
+1746,Bulgaria,Female,2015,27.0,Europe
+1747,Bulgaria,Female,2016,27.1,Europe
+1748,Bulgaria,Female,2017,27.3,Europe
+1749,Croatia,Male,2001,28.5,Europe
+1750,Croatia,Male,2002,28.8,Europe
+1751,Croatia,Male,2003,29.0,Europe
+1752,Croatia,Male,2004,29.1,Europe
+1753,Croatia,Male,2005,29.4,Europe
+1754,Croatia,Male,2006,29.5,Europe
+1755,Croatia,Male,2007,29.7,Europe
+1756,Croatia,Male,2008,29.7,Europe
+1757,Croatia,Male,2009,29.8,Europe
+1758,Croatia,Male,2010,30.0,Europe
+1759,Croatia,Male,2011,30.2,Europe
+1760,Croatia,Male,2012,30.3,Europe
+1761,Croatia,Male,2013,30.5,Europe
+1762,Croatia,Male,2014,30.6,Europe
+1763,Croatia,Male,2015,30.7,Europe
+1764,Croatia,Male,2016,30.8,Europe
+1765,Croatia,Male,2017,31.0,Europe
+1766,Croatia,Female,2001,25.4,Europe
+1767,Croatia,Female,2002,25.6,Europe
+1768,Croatia,Female,2003,25.8,Europe
+1769,Croatia,Female,2004,26.0,Europe
+1770,Croatia,Female,2005,26.2,Europe
+1771,Croatia,Female,2006,26.3,Europe
+1772,Croatia,Female,2007,26.6,Europe
+1773,Croatia,Female,2008,26.6,Europe
+1774,Croatia,Female,2009,26.9,Europe
+1775,Croatia,Female,2010,27.1,Europe
+1776,Croatia,Female,2011,27.3,Europe
+1777,Croatia,Female,2012,27.3,Europe
+1778,Croatia,Female,2013,27.6,Europe
+1779,Croatia,Female,2014,27.8,Europe
+1780,Croatia,Female,2015,27.9,Europe
+1781,Croatia,Female,2016,28.0,Europe
+1782,Croatia,Female,2017,28.2,Europe
+1783,Cyprus,Male,1990,27.9,Asia
+1784,Cyprus,Male,1991,27.5,Asia
+1785,Cyprus,Male,1992,27.9,Asia
+1786,Cyprus,Male,1993,27.9,Asia
+1787,Cyprus,Male,1994,28.4,Asia
+1788,Cyprus,Male,1995,28.2,Asia
+1789,Cyprus,Male,1996,28.6,Asia
+1790,Cyprus,Male,1997,28.7,Asia
+1791,Cyprus,Male,1998,28.9,Asia
+1792,Cyprus,Male,1999,29.0,Asia
+1793,Cyprus,Male,2000,29.3,Asia
+1794,Cyprus,Male,2001,29.7,Asia
+1795,Cyprus,Male,2002,30.1,Asia
+1796,Cyprus,Male,2003,30.5,Asia
+1797,Cyprus,Male,2004,30.1,Asia
+1798,Cyprus,Male,2005,29.9,Asia
+1799,Cyprus,Male,2006,30.4,Asia
+1800,Cyprus,Female,1990,24.9,Asia
+1801,Cyprus,Female,1991,24.6,Asia
+1802,Cyprus,Female,1992,25.4,Asia
+1803,Cyprus,Female,1993,25.2,Asia
+1804,Cyprus,Female,1994,25.8,Asia
+1805,Cyprus,Female,1995,25.7,Asia
+1806,Cyprus,Female,1996,26.0,Asia
+1807,Cyprus,Female,1997,26.2,Asia
+1808,Cyprus,Female,1998,26.4,Asia
+1809,Cyprus,Female,1999,26.4,Asia
+1810,Cyprus,Female,2000,26.9,Asia
+1811,Cyprus,Female,2001,27.2,Asia
+1812,Cyprus,Female,2002,27.3,Asia
+1813,Cyprus,Female,2003,27.8,Asia
+1814,Cyprus,Female,2004,27.3,Asia
+1815,Cyprus,Female,2005,27.3,Asia
+1816,Cyprus,Female,2006,27.7,Asia
+1817,Malta,Male,1990,27.2,Europe
+1818,Malta,Male,1991,27.6,Europe
+1819,Malta,Male,1992,27.7,Europe
+1820,Malta,Male,1993,27.5,Europe
+1821,Malta,Male,1994,27.7,Europe
+1822,Malta,Male,1995,28.1,Europe
+1823,Malta,Male,1996,27.9,Europe
+1824,Malta,Male,2003,29.3,Europe
+1825,Malta,Male,2004,29.7,Europe
+1826,Malta,Male,2006,30.4,Europe
+1827,Malta,Male,2007,30.2,Europe
+1828,Malta,Male,2008,30.8,Europe
+1829,Malta,Male,2009,31.1,Europe
+1830,Malta,Male,2010,31.3,Europe
+1831,Malta,Male,2011,31.6,Europe
+1832,Malta,Female,1990,24.6,Europe
+1833,Malta,Female,1991,24.9,Europe
+1834,Malta,Female,1992,25.1,Europe
+1835,Malta,Female,1993,25.0,Europe
+1836,Malta,Female,1994,25.3,Europe
+1837,Malta,Female,1995,25.6,Europe
+1838,Malta,Female,1996,25.6,Europe
+1839,Malta,Female,2003,26.8,Europe
+1840,Malta,Female,2004,27.3,Europe
+1841,Malta,Female,2006,27.8,Europe
+1842,Malta,Female,2007,28.1,Europe
+1843,Malta,Female,2008,28.5,Europe
+1844,Malta,Female,2009,28.7,Europe
+1845,Malta,Female,2010,28.6,Europe
+1846,Malta,Female,2011,29.2,Europe
+1847,Romania,Male,1990,25.6,Europe
+1848,Romania,Male,1991,25.6,Europe
+1849,Romania,Male,1992,25.7,Europe
+1850,Romania,Male,1993,25.8,Europe
+1851,Romania,Male,1994,26.0,Europe
+1852,Romania,Male,1995,26.5,Europe
+1853,Romania,Male,1996,26.5,Europe
+1854,Romania,Male,1997,26.6,Europe
+1855,Romania,Male,1998,26.9,Europe
+1856,Romania,Male,1999,27.0,Europe
+1857,Romania,Male,2000,27.3,Europe
+1858,Romania,Male,2001,27.6,Europe
+1859,Romania,Male,2002,27.7,Europe
+1860,Romania,Male,2003,28.0,Europe
+1861,Romania,Male,2004,28.7,Europe
+1862,Romania,Male,2005,28.8,Europe
+1863,Romania,Male,2006,28.8,Europe
+1864,Romania,Male,2007,30.0,Europe
+1865,Romania,Male,2008,29.1,Europe
+1866,Romania,Male,2009,28.9,Europe
+1867,Romania,Male,2010,29.0,Europe
+1868,Romania,Male,2011,29.2,Europe
+1869,Romania,Male,2013,29.7,Europe
+1870,Romania,Male,2014,30.2,Europe
+1871,Romania,Male,2015,30.3,Europe
+1872,Romania,Male,2016,30.4,Europe
+1873,Romania,Male,2017,31.0,Europe
+1874,Romania,Female,1990,22.4,Europe
+1875,Romania,Female,1991,22.3,Europe
+1876,Romania,Female,1992,22.4,Europe
+1877,Romania,Female,1993,22.5,Europe
+1878,Romania,Female,1994,22.7,Europe
+1879,Romania,Female,1995,23.1,Europe
+1880,Romania,Female,1996,23.1,Europe
+1881,Romania,Female,1997,23.2,Europe
+1882,Romania,Female,1998,23.4,Europe
+1883,Romania,Female,1999,23.4,Europe
+1884,Romania,Female,2000,23.7,Europe
+1885,Romania,Female,2001,23.9,Europe
+1886,Romania,Female,2002,24.1,Europe
+1887,Romania,Female,2003,24.4,Europe
+1888,Romania,Female,2004,25.0,Europe
+1889,Romania,Female,2005,25.1,Europe
+1890,Romania,Female,2006,25.2,Europe
+1891,Romania,Female,2007,26.2,Europe
+1892,Romania,Female,2008,25.6,Europe
+1893,Romania,Female,2009,25.5,Europe
+1894,Romania,Female,2010,25.6,Europe
+1895,Romania,Female,2011,25.8,Europe
+1896,Romania,Female,2013,26.3,Europe
+1897,Romania,Female,2014,26.7,Europe
+1898,Romania,Female,2015,26.8,Europe
+1899,Romania,Female,2016,27.0,Europe
+1900,Romania,Female,2017,27.5,Europe
