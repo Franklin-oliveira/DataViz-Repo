@@ -17,5 +17,5 @@ Essa pasta contém os arquivos criados para o trabalho final da disciplina de [V
 > - **TBFinal_proposta.ipynb:** Proposta do trabalho final apresentada e aprovada em sala de aula. 
 > - **TBFinal_datasets.ipynb:** Código para limpeza e estruturação dos datasets usados para criação dos gráficos.  
 > - **TBFinal_visualizacoes.ipynb:** Código para criação dos gráficos. 
-> - **Trabalho_Final_Visualizacao_de_Dados.pdf:** Relatório em pdf com comentários sobre cada visualização e referências usadas como inspiração. 
+> - **Trabalho_Final_Visualizacao_de_Dados.pdf:** Relatório em pdf com comentários sobre cada visualização e referências usadas como inspiração (**Obs:** esse arquivo contém _hyperlinks_ que podem não aparecer devidamente se este documento for visualizado em sua versão online). 
 
