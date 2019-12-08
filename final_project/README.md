@@ -17,5 +17,30 @@ Essa pasta contém os arquivos criados para o trabalho final da disciplina de [V
 > - **TBFinal_proposta.ipynb:** Proposta do trabalho final apresentada e aprovada em sala de aula. 
 > - **TBFinal_datasets.ipynb:** Código para limpeza e estruturação dos datasets usados para criação dos gráficos.  
 > - **TBFinal_visualizacoes.ipynb:** Código para criação dos gráficos. 
-> - **Trabalho_Final_Visualizacao_de_Dados.pdf:** Relatório em pdf com comentários sobre cada visualização e referências usadas como inspiração (**Obs:** esse arquivo contém _hyperlinks_ que podem não aparecer devidamente se este documento for visualizado em sua versão online). 
+> - **Trabalho_Final_Visualizacao_de_Dados.pdf:** Relatório em pdf com comentários sobre cada visualização e referências usadas como inspiração (**Obs:** esse arquivo contém _hyperlinks_ que podem não aparecer devidamente se este documento for visualizado em sua versão online).
+
+-----
+
+## Lista de gráficos:
+
+Para visualizar a versão estática dos gráficos (sem a necessidade de clonar ou fazer o download deste repositório), basta clicar diretamente nos links abaixo. 
+
+**Nota:** os hyperlinks abaixo estão conectados à versão dinâmica dos gráficos (em `.html`). Para visualizá-los adequadamente, é necessário clonar ou fazer o download deste repositório.   
+
+> - **Gráfico 1:** [Something borrowed, something...](./viz/marriages.html) <br>
+	Visualização das taxas de casamento (número de casamentos a cada 1000 habitantes) para 45 países membros da OECD, de 1960 a 2017.  
+
+<p align="center"><img src="./viz/marriages.svg" alt="drawing" width="800" align="middle"></p>
+
+> - **Gráfico 2:** [Now and for... ever?](./viz/divorces.html) <br>
+	Visualização das taxas de divórcio (número de divórcios a cada 1000 habitantes) para 45 países membros da OECD, de 1960 a 2017. 
+
+<p align="center"><img src="./viz/divorces.svg" alt="drawing" width="800" align="middle"></p>
+
+> - **Gráfico 3:** [Em média, pessoas estão casando mais tarde.](./viz/mean_age.html) <br>
+	Idade média na qual homens e mulheres casaram-se pela primeira vez para 45 países membros da OECD, de 1990 a 2017.   
+
+<p align="center"><img src="./viz/mean_age.svg" alt="drawing" width="800" align="middle"></p>
+
+-----
 
