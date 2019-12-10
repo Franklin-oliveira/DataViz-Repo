@@ -25,6 +25,7 @@ Abaixo segue a versão estática dos gráficos (para visualização sem a necess
 
 **Nota:** Para visualizar os arquivos `HTML` adequadamente, é necessário clonar ou fazer o download deste repositório.   
 
+<br>
 
 > - **Gráfico 1:** [Something borrowed, something...](./viz/marriages.html) <br>
 	Visualização das taxas de casamento (número de casamentos a cada 1000 habitantes) para 45 países membros da OECD, de 1960 a 2017.  
