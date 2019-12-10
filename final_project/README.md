@@ -21,7 +21,10 @@ Essa pasta contém os arquivos criados para o trabalho final da disciplina de [V
 
 ## Lista de gráficos:
 
-Abaixo segue a versão estática dos gráficos (para visualização sem a necessidade de clonar ou fazer o download deste repositório). O título de cada gráfico contém um _hyperlink_ conectado à sua versão dinâmica (em `.html`). Para visualizá-los adequadamente, é necessário clonar ou fazer o download deste repositório.   
+Abaixo segue a versão estática dos gráficos (para visualização sem a necessidade de clonar ou fazer o download deste repositório). O título de cada gráfico contém um _hyperlink_ conectado à sua versão dinâmica (com extensão `.html`). 
+
+**Nota:** Para visualizar os arquivos `HTML` adequadamente, é necessário clonar ou fazer o download deste repositório.   
+
 
 > - **Gráfico 1:** [Something borrowed, something...](./viz/marriages.html) <br>
 	Visualização das taxas de casamento (número de casamentos a cada 1000 habitantes) para 45 países membros da OECD, de 1960 a 2017.  
